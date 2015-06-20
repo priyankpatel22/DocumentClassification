@@ -1,0 +1,79 @@
+So you've gotten yourself the sleek new MacBook Air and your first thought is to install Windows 7 on it. OK, that's my first thought. The problem is the laptop has no optical drive, meaning you'll probably have to buy an accessory that costs around $80 to do the job.
+
+Well, unless you're reading this. Yes, it's totally possible to install Windows 7 (or Vista) on the MacBook Air without a DVD drive. All you'll need is a computer running Windows 7 (that has a DVD drive), a 4GB or larger USB thumbdrive, a Windows 7 installation DVD, and about an hour of free time.
+
+Note: make sure you back up the contents of the thumbdrive as they will be completely erased during this process. Also, the actual work is a lot shorter and less intimidating than the look of this article.
+
+Here are the detailed steps.
+
+A. Getting Windows installation on the thumbdrive.
+
+1. On the Windows 7 computer, plug the thumbdrive into a USB port, then start the command prompt with administrator rights. This is how:
+a. Click on Start, type cmd in the search area, then press Ctrl + Shift + Enter. Or
+b. Click on Start > All Programs > Accessories, right-click on Command Prompt and select Run as administrator.
+
+2. Now that the command prompt has opened, you'll want to use a tool called Diskpart to prepare the thumbdrive by typing in diskpart and then pressing Enter. As Diskpart doesn't see storage devices on your computer as drive letters, but rather as a list of disks, you'll need to identify the thumbdrive. You can do this by typing command list disk then pressing Enter.
+
+Now the screen will show a list of storage drives currently connected to the computer, starting with Disk 0. You can easily figure out which one the thumbdrive is by looking at the amount of storage. A 4GB thumbdrive will show as around 3856MB. For this guide, as seen in the screenshot below, the thumbdrive is Disk 3. Now you want Diskpart to select this drive by typing command select disk 3 then pressing Enter.
+
+So far we have used the following commands:
+diskpart
+list disk
+select disk 3
+
+Note: In case you mistype a command (and then will be greeted with an error message), you can always redo it. These commands are not case-sensitive. If you have done everything correctly, the command prompt window should be displaying something like this:
+
+Run command prompt with admin rights and use Diskpart to select the current thumbdrive.Run command prompt with admin rights and use Diskpart to select the current thumbdrive. Dong Ngo/CNET
+
+3. Now we'll need to further prepare the thumbdrive by executing another handful of commands, one after the next. Remember to press Enter after each of them.
+clean
+create partition primary
+select partition 1
+active
+format fs=ntfs
+assign
+exit
+
+Note that format fs=ntfs will take about 5 to 10 minutes to finish depending on how large the thumbdrive is. During this time you will see an indicator of the formatting process.
+
+Again, if you have done the steps correctly, the command prompt window will look like the screenshot below.
+This is what you should see if you have typed in all the commands correctly.This is what you should see if you have typed in all the commands correctly. Dong Ngo/CNET
+
+Note: after the command assign is executed, Windows will indicate (likely via a pop-up message) that a new drive has just been plugged in. This is because the thumbdrive has just been assigned a drive letter. Without closing the command prompt window, you can open the "Computer" to see what the drive letter of the thumbdrive is. For this guide, the drive letter is H:. However, this letter is likely different in other cases, depending on how many storage devices the computer currently has.
+
+4. We need to make the thumbdrive bootable by transferring boot information over from the Windows 7 installation DVD. Insert the DVD into the computer's DVD drive. Again, for this guide, this is the E: drive of the computer.
+
+Go Back to the command prompt window (if you have closed it by accident, you can redo step 1 to open it again), execute the following commands:
+e:
+cd boot
+bootsect.exe /nt60 h:
+
+Again e: is the drive letter of the DVD drive and h: is the drive letter of the thumbdrive.
+
+After that, the command window will show a message similar to the screenshot below.
+The thumbdrive is now made bootable.The thumbdrive is now made bootable. Dong Ngo/CNET
+
+5. Copy the entire contents of the Windows 7 installation DVD onto the thumbdrive by selecting all items in the E: drive and dragging them over to the H: drive. This will take another 5 or 10 minutes depending on how fast your DVD and the thumbdrive are. After that, the thumbdrive can now be used to install the OS onto any PCs. Make sure you change the boot priority to boot from an USB device first. With some systems, you can temporarily force the computer to display the boot menu by pressing one of the F keys, such as F12, during the BIOS message.
+
+OK, now that we have just made ourselves a Windows 7 Installation USB thumbdrive, let's move to the MacBook Air.
+
+B. Making the MacBook Air support booting from a USB thumbdrive.
+rEFIt allows for booting the MacBook Air from other a USB thumb drive, which is represented by the Microsoft logo with the icon of an external hard drive at one corner.rEFIt allows for boot the Macbook Air from other a USB thumb drive, which is represented by the Microsoft logo with the icon of an external hard drive at one corner. Dong Ngo/CNET
+
+By default, the MacBook Air (as well as other Intel-based Macs) doesn't provide all the boot options that its Extensive Firmware Interface (EFI) has to offer. However, we can enable these options by using a free tool called rEEIt, an open-source EFI Boot Menu and Toolkit. This tool can be downloaded here. Once downloaded, double-click on rEFIt.mpkg and the tool will be installed. No worries, this tool will not harm your computer and can be easily removed later if you somehow don't want to have it after the Windows installation. Instructions are also included with the download.
+
+Once installed, next time you reboot the computer, you'll have the option to boot directly into Mac OS or boot from another device, such as the thumbdrive we have just created. You can invoke this option by holding down the Option key as soon as you start the computer.
+
+C. Installing Windows on MacBook Air from the USB thumbdrive.
+
+To install Windows on the MacBook Air (or any Intel Macs for that matter), you first need to boot into Mac OS and run a tool called "Boot Camp Assistant," which can be found in Applications > Utilities. When you run it on a MacBook Air, it will show a message saying you'll need an optical drive for the job; you can ignore this and click "Continue."
+
+As the next step, it will ask you to download Windows Support software, namely the Boot Camp set of drivers, and the remote CD/DVD tool. You want to download and save that on the desktop of the computer as you will need it later. All will be saved in a folder called "Windows Support."
+
+Once that's done, Boot Camp Assistant will ask to create a new partition for Windows by shrinking the existing Mac OS' partition. Pick the new partition's size carefully as you can't change it without having to reinstall Windows from the beginning. The partitioning takes a few minutes, and when it's done, you click on "Quit and Install Later."
+
+Now, insert the Windows 7 installation thumbdrive into the MacBook Air's USB port and restart the machine. As soon as the computer restarts, press and hold the Option key. If you have done step B correctly, you will see a little photo of a hard drive with the letters "rEFIt" underneath; press Enter and you will be greeted with the all-new rEFIt start-up options. Here you will find the option to boot from the thumbdrive, which is represented by a Microsoft flag with a little icon of an external hard drive at its corner (see screenshot above). You can move between the different options by using the arrow keys and pick one by pressing Enter. Pick the option to boot of the USB thumbdrive.
+
+From now on, the installation is self-explanatory, except for just one little issue: the partition created by Boot Camp Assistant, named "Boot Camp," which is the partition you need to install Windows 7 on, is formatted in FAT32. Windows 7, however, will not install on a FAT32 partition. You can easily fix this by making the installer reformat this partition.
+
+In my experience, it was superfast to install Windows 7 on the MacBook Air from an USB drive, taking just about seven minutes. Once the installation is done, you can boot into either of the OSes by holding down the Option key during the boot process. To make Windows 7 work properly, you'll need to boot into the Mac OS and copy the "Windows Support" folder that was downloaded earlier onto a thumbdrive. After that, reboot the computer into Windows 7 and install the Boot Camp software. 

@@ -1,0 +1,44 @@
+Apple downplays threat posed by Masque Attack bug
+
+A vulnerability could allow hackers to trick users into downloading fake apps, which could siphon off their personal information, researchers warn.
+
+    by Steven Musil
+    @stevenmusil
+    November 13, 2014 9:02 PM PST
+
+    comments
+    0
+    facebook
+    twitter
+    linkedin
+    googleplus
+    more
+    more +
+
+Apple says built-in safeguards warn users of potentially malicious software downloads. CNET
+
+Responding to reports of a potential security threat that could allow hackers to steal personal information from iPhones and iPads, Apple issued a statement Thursday indicating that its operating systems have built-in protections to prevent malware downloads.
+
+Earlier this week, cybersecurity company FireEye warned that it had identified a vulnerability in Apple's mobile operating system that could allow hackers to use Web pages, text messages and emails to fool users into downloading fake apps that could disclose their personal information. In a threat dubbed "Masque Attack" by FireEye, fake apps designed to resemble a legitimate bank or email program could replace genuine apps installed though Apple's App Store and siphon off users' personal information back to hackers without users' knowledge.
+
+While it said there was no evidence the vulnerability was being actively exploited in the US, FireEye said the bug affects all Apple mobile devices running iOS 7 or later, regardless of whether the device is jailbroken -- a user-initiated state that lets you install any app off the Internet. That means roughly 95 percent of all Apple mobile devices currently in use are vulnerable.
+RELATED LINKS
+
+    Apple iOS bug lets fake apps sneak onto iPhones, iPads
+    New Apple-focused malware uses Macs to infect iPhones
+    iMessage spam deluge traced to knock-offs in China
+
+However, Apple assured users late Thursday that they were protected from just such a malicious download by early warning systems in both its desktop and mobile operating systems.
+
+"We designed OS X and iOS with built-in security safeguards to help protect customers and warn them before installing potentially malicious software," an Apple representative said, adding that the company was not aware of its customers actually falling victim to such an attack. "We encourage customers to only download from trusted sources like the App Store and to pay attention to any warnings as they download apps. Enterprise users installing custom apps should install apps from their company's secure website."
+
+This is the second time in the past couple of weeks that researchers have raised concerns about Apple product security, which the company has long touted as superior to competing offerings such as Android, Google's mobile operating system.
+
+Last week, security firm Palo Alto Networks described a new attack it discovered, which could allow unapproved apps downloaded from the Internet to infect iPhones when plugged into Mac computers. The attack, called "WireLurker," was first recognized in China and is based on the same vulnerability FireEye disclosed Monday.
+
+Apple said at the time that it was aware of the vulnerability Palo Alto Networks had discovered and was working on a fix, advising again that users only download programs from trusted sources.
+
+Tags:
+    Apple 
+    Security 
+    Malware 

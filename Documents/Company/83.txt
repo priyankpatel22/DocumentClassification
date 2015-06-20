@@ -1,0 +1,19 @@
+Recently we’ve had a lot of inquiries from game developers who are concerned about the future of gaming on the Web in general and the Unity Web Player in the Google Chrome browser in particular, so we wanted to post something to address those concerns. Here it is!
+
+In the fall of 2013 Google announced their plans to discontinue NPAPI support in the Google Chrome browser by the end of 2014. The NPAPI is the API that makes it possible to run native code in the browser and is what the Unity Web Player is based on.
+
+We are not sure exactly when the NPAPI will be discontinued but expect that Google will stick to their plan. The long and the short of it is that when Google do switch off NPAPI the Unity Web Player will no longer work in Chrome.
+
+Currently we think that the Unity Web Player platform is the most efficient technology for gaming on the Web and we are committed to supporting it for as long as the browser landscape means it makes sense to do so. That means throughout 2015 at the very least. Even if your games cease to run on the Google Chrome browser, they’ll still work on other browsers such as Mozilla Firefox, Microsoft IE and Apple Safari.
+
+We know that many of you have deployed great games using Unity Web Player technology, and that those games put food on your table. So, we’ll be sure to keep you posted about web deployment going forward.
+
+Our development team is committed to actively maintaining the Unity Web Player, indeed, few weeks ago we updated support for a 64 bit Unity Web Player – it also runs now on IE 11 64 bit and Chrome 64 bit on Windows. We are working on making the Unity Web Player 64 bit on OS X too, so it can run in Chrome 64 once Google drops support for Chrome 32 bit on OS X.
+
+We are aware that the days of running native code in web browsers are numbered; there are simply too many plugins that do not run well and this represents a security risk. Even though we at Unity have always worked hard to keep our plugin current through the auto-update system, we agree that, in the long term, allowing native code in browsers is too big a responsibility for browser manufacturers to take on.
+
+As a consequence, we are working hard on shipping Unity 5 for WebGL. We believe it is the best and safest long-term solution for running advanced 3D and 2D content in browsers. Publishing to WebGL for Unity 5 will be free of charge and will let you target the web without a plugin.
+
+We are collaborating with browser vendors to improve the performance of games running on WebGL and current performance is very promising – indeed, in some cases, our WebGL solution runs just as fast as executed native code.
+
+You can read more about the new Unity WebGL benchmarking suite in this blog post and finally you can try Unity 5 for WebGL – the pre-order beta opened to subscribers and everybody who pre-ordered Unity 5 a couple of days ago. As soon as we release Unity 5, the WebGL tools will be available to free users as well.

@@ -1,0 +1,53 @@
+Technology and hardware moves fast these days! Many of you will have seen by now the announcement that Apple made to developers on October 20.
+
+Starting February 1, 2015, new iOS apps uploaded to the App Store must include 64-bit support and be built with the iOS 8 SDK, included in Xcode 6 or later. To enable 64-bit in your project, we recommend using the default Xcode build setting of “Standard architectures” to build a single binary with both 32-bit and 64-bit code.
+
+So what does this mean for you mobile developers? Starting in February, your newly released games (and other apps) will need to take advantage of iOS 8 SDK and the new 64-bit ARM chips in newer iOS devices.
+
+The good news is that we already support iOS 8 and have been hard at work on our 64-bit iOS solution for some months. The solution is IL2CPP.
+
+What is IL2CPP?
+
+Most of you will know that we’ve been developing our own runtime solution, IL2CPP, for quite a while now. It allows a range of flexibility for developers and internally here at Unity. We’re expecting big increases in performance experienced by end users as well. In short, we’re very excited about it.
+
+IL2CPP came about when we were investigating how to approach WebGL while we were also researching new ways to make continued support for various platforms more efficient. The runtime combines an ahead of time compiler with a virtual machine to convert assemblies to C++ while leveraging standard platform C++ compilers to produce native binaries. The result are games and apps that run at native speeds. It allows us to push new core features to all of our supported platforms at the same time for a much more efficient schedule of updates. For a complete rundown of the technology, please see our previous blog post “The Future of Scripting in Unity”.
+
+We’ve already seen tremendous results in WebGL and are expecting big increases in performance across all of Unity’s supported platforms, including iOS, which is already in development.
+
+When can I get my hands on the tech?
+
+IL2CPP is already being used for WebGL and if you’ve seen any of the Unity-authored WebGL demos, you’ve seen it in action. Hot on WebGL’s heels is iOS. In the next few weeks, first Unity 5 based alpha builds of the iOS ARM64 preview using IL2CPP are going to be released to closed alpha testing group. Shortly after, it will be made available to our closed beta groups.
+
+Once we’ve had a round of intense and focused testing, we’ll roll the beta preview out to the pre-order beta group. The timeline for that completely depends on how that initial round of testing goes. We think it’s reasonable to plan a beta for pre-order customers and subscribers for January 2015.
+
+The official release of iOS ARM 64-bit feature preview in Unity 5 series depends on the Unity 5 launch schedule, so we can’t say much about a specific timeline.The preview can be expected to run games with scripting of medium complexity.
+
+[UPDATE] The term “medium complexity” was a bit too ambiguous. To clarify, we are confident that the majority of iOS projects will work with little or no modifications. There is a chance that some infrequently used functionality is currently incomplete or contains bugs. These issues will be addressed and resolved quickly. We are currently testing a range of iOS games and will keep you updated on progress leading up to the February deadline.
+
+What about 4.6?
+
+We have begun work on supporting that version as well. Unity 4.6 recently entered Release Candidate cycle, so it is going to be out really soon now. The plan right now is to ship beta preview of iOS ARM64-bit feature based on Unity 4.6.x before the February deadline. We’re very aware of people having nearly completed games on Unity 4.x and we’re working hard to deliver a solid solution for Unity 4.6. Due to heavy code reuse, the preview of iOS ARM64-bit in Unity 4.6.x is expected to be on par with Unity 5 implementation: games with scripting of medium complexity will be able to run.
+
+What about earlier than 4.6?
+
+We will not add iOS 64-bit support for versions of Unity prior to Unity 4.6. Bringing this technology to older versions of Unity is getting exponentially more difficult due to large differences in codebase. In order to ship iOS 64-bit apps support as soon as possible we chose to focus only on latest Unity 4.x version – 4.6. If you have unreleased games currently in production that are still being developed in an older Unity 4.x version, you will need to upgrade either to Unity 4.6.x or Unity 5 in order to publish it on the iOS App Store. Please note you can update 32 bit apps already released on the iOS App Store with any Unity 4.x or Unity 5 version. There is no requirement of 64-bit for games and apps already published on iOS App Store before the February deadline.
+
+Will I be able to ship my game on time?
+
+Your success is our entire reason for being, so we’re pushing hard to get everything ready on time. The best approach to be ready is to start testing early, so we encourage you to get a public preview in January and start upgrading.
+
+If you’re working on something very complex, it will likely take a little while longer to have everything in place but you should be good to go if you’re targeting April.
+
+We’re really, really happy with where IL2CPP is already and where it’s going!
+It’s going to make a big difference not only to performance in games, but also in how quickly we can develop and share new features to all of you in the community.
+
+Summary Q&A
+
+What does this mean for my existing apps?
+Nothing in the short term. Apple will not be removing any apps that don’t comply with 64-bit that have been uploaded and made available for sale before February 1, 2015.
+
+What if I need to update my apps after the deadline?
+The current word from Apple is that existing games and apps will not need to include support for iOS 8 and 64-bit architecture at the February 1, 2015 deadline. It’s important to note that while Apple has confirmed this, there is still the possibility that all apps need to support iOS 8 and 64-bit at a separate date down the line.
+
+What if I’m planning to release after Feb 1?
+Then you’ll need to comply with Apple’s demands. New apps will need to support iOS 8 and 64-bit architecture to ensure they’re making the most out of new iOS devices. For assistance from Apple developer support, visit https://developer.apple.com/contact/.

@@ -1,0 +1,648 @@
+In what is widely regarded as his greatest presentation ever, Apple's Steve Jobs introduced the iPhone to the world on January 9th, 2007. In the five-plus years since then, the iPhone, iPad, and iPod Touch have literally redefined the entire world of mobile computing. That world is moving so quickly that iOS is already amongst the older mobile operating systems in active development today. That certainly doesn't mean it's underpowered or underfeatured — quite the contrary. Through what can only be described as relentless and consistent improvement over the years, Apple has made iOS one of the most feature-rich and well-supported platforms on the market.
+
+iOS 7, the system currently powering Apple's mobile devices, offers an easy-to-understand smartphone operating system to new users, a powerful platform for app developers, and a relatively un-fragmented experience across multiple devices. Perhaps the most remarkable thing about iOS is how similar the OS as it exists today is to the OS as it existed 2007, yet the number and breadth of features that Apple has baked in since then is mind boggling. Far from suffering from the "feature creep" that typically bogs down operating systems over time, iOS has managed to stay relatively snappy and is more internally consistent than anything else available today. And iOS 8 — launching on devices this fall — looks to evolve the story even further.
+
+How did we get from a platform that began without third-party apps, multitasking, or even copy / paste support to where we are today? Read on to see exactly how Apple evolved its mobile platform over the years, in our history of iOS.
+iOS actually began life with a different name: OS X
+
+During the original iPhone announcement, Apple touted that it ran on the same Unix core as Mac OS X and that it used many of the same tools. However, it was clear even then that while there may be some shared elements between OS X and this new phone OS, it was a different-enough beast to warrant its own branding. When the original iPhone launched, the OS was called "iPhone OS" and it kept that name for four years, only changing to iOS with the release of iOS 4 in June of 2010. For the sake of simplicity (and because it's a much-less awkward phrase), I'm going to indulge in a little revisionist history here and refer to all versions of the operating system as "iOS" in this piece.
+iOS 1: The iPhone is born
+Iphone-2g-555
+
+Although it may be difficult to imagine now, when the original iPhone was introduced, it was actually well behind the competition when it came to a strict feature-by-feature comparison. Windows Mobile, Palm OS, Symbian, and even BlackBerry were all established systems in 2007, with a wide and deep array of features. Comparatively, the iPhone didn't support 3G, it didn't support multitasking, it didn't support 3rd party apps, you couldn't copy or paste text, you couldn't attach arbitrary files to emails, it didn't support MMS, it didn't support Exchange push email, it didn't have a customizable home screen, it didn't support tethering, it hid the filesystem from users, it didn't support editing Office documents, it didn't support voice dialing, and it was almost entirely locked down to hackers and developers.
+
+Yet all of those missing features hardly mattered and nearly everybody knew it. Instead of competing on specs, Apple focused on getting the core experience right. It focused on speed, consistency between apps, and a making a few features radically better than anything else that was available in 2007. Although there were obviously a ton of innovations in iOS 1.0, I would argue that three of them were revolutionary for the mobile industry.
+
+The core iOS user interface. Until iOS, smartphones either didn't have a touchscreen or used a resistive touchscreen and a stylus. The iPhone changed that with its capacitive touchscreen, but more importantly Apple carefully wedded that new hardware capability to a new user interaction model that was simultaneously simpler and more powerful than systems that had come before it. Removing all physical buttons save 5, Apple made touch the primary interaction model. Apple also nearly perfected pinch-to-zoom and inertial scrolling to make apps feel more natural and immediate. The speed and "directness" in iOS 1.0 was amazing then and remains amazing now.
+
+Mobile Safari web browser. Those new gestures came into their own on the Safari web browser for iOS. It was, as Jobs himself bragged when unveiling it, literally years ahead of the competition. Yes, it famously has never supported the Flash plugin, but it was the first mobile web browser that felt nearly as capable and powerful as a full desktop browser. Where other mobile operating systems reflowed, reformatted, or simply broke the look and feel of web pages, mobile Safari presented the web fully and offered simple zoom and scrolling features that were unmatched at the time.
+
+A "widescreen" iPod. Apple used its already-massive iTunes and iPod ecosystem to provide an "anchor" for the OS and the beginnings of what would eventually become a huge ecosystem of music, movies, television, books, and apps. For many, listening to music may no longer be in the top five things they use their smartphone for, but at the time the iPod functionality in iOS 1.0 gave the iPhone a killer feature that was easy for end-users to understand and get excited about.
+"Instead of competing on specs, Apple focused on getting the core experience right" Call-settings-300Ipod-view-300Video-photo-300
+
+iOS 1.0 also brought a few other apps and features that were important to the platform and ahead of their time:
+
+Google Maps was shockingly better on the iPhone than it had been on any other platform. Apple fully utilized the new pinch-to-zoom functionality to make the app feel smooth and quick, but more importantly it felt more intuitive and natural to use than even desktop mapping software.
+
+Visual voicemail was a clever trick that allowed users to jump directly to any voicemail without having to sit through endless voice prompts. It also showed off Apple's newfound ability to cut deals with carriers. Visual Voicemail was a signal that Apple, not the carrier, was to be the main provider the user experience.
+
+iTunes Sync is another unappreciated feature today. Anybody who has struggled with Palm's HotSync or Microsoft's ActiveSync can appreciate that simple and reliable desktop syncing was hugely important. It was also an example of Apple's ability to take complicated features that had given other companies and users headaches and simplify them to the point of invisibility.
+
+The software keyboard on iOS 1.0 was perhaps the first genuinely usable keyboard that could be typed on with your fingers. Yes, systems like PalmOS' Graffiti and 3rd-party extensions like FitalyStamp enabled text entry with a stylus, but iOS' paradigm of showing you the keyboard when you needed it and giving you more screen real estate for reading when you didn't was an important step forward for mass market smartphones.
+Widescreen-ipod-10-400
+iOS 1.0 	Devices 	Features
+Released
+06 / 2007 	iPhone 2G 	Core iOS UI
+
+Multitouch gestures
+
+Mobile Safari
+
+iPod
+
+Visual Voicemail
+
+Maps
+
+iTunes Sync
+
+"iOS 1.0 also introduced a new computing paradigm that broke from smartphone tradition: hiding the filesystem from the user"
+
+I've spent quite a bit of time heaping praise on iOS 1.0 and it is well-deserved. Still, there were plenty of shortcomings. The largest was that iOS 1.0 offered no support for native, 3rd party apps. Apple tried to fill that gap by promoting web apps, but in 2007 HTML apps weren't ready to carry that load for the platform. Some (including yours truly) even argued that it may not even be technically correct to call the iPhone a smartphone, since it didn't offer a platform to develop against beyond the web browser. iOS 1.0 also only offered one form of multitasking to the user: playing iPod music in the background. Multitasking on other smartphone platforms wasn't a great experience, but it did work for many and the lack of it on iOS 1.0 was notable.
+
+iOS 1.0 also introduced a new computing paradigm that broke from smartphone tradition: hiding the filesystem from the user. That design decision is still hotly debated to this day, but it did serve to simplify the device and make it more user-friendly. However, it could be said that the different layers of abstraction it sometimes requires can be off-putting (the inability to include an attachment in an email reply comes to mind). Other limitations, like the inability to change alert tones, were maddening if only because they were so easy to change on even the simplest feature phone.
+
+Lastly, iOS 1.0 introduced Apple's "Springboard" homescreen. Hitting the home button always brought you to it, no matter where you were in the OS, presenting the user with a simple (but not yet re-arrangeable) grid of icons. Even now there is not any support for widget or other "ambient" information on that home screen— customizations that competitors like Windows Mobile and Symbian had long offered.
+
+In a feature-for-feature comparison chart, an OS like Windows Mobile beat the iPhone in nearly every metric. When it came to actual usability, however, it was no contest. I don't need to tell you which ended up being more important in the long run.
+
+
+iOS 1 updates
+
+Three months after releasing the original iPhone, Apple released its first major software update for the device, iOS 1.1.1. It was notable for a few reasons. First, it established a pattern of releasing major new versions of iOS concurrently with new devices — in this case, the original iPod Touch. It also established that Apple would be continuously updating iOS with new versions and new features and that those software updates would be offered across as much of its iOS product line as possible. With only two devices, it's not fair to credit Apple too much for avoiding fragmentation at this early stage of iOS's progression, but the precedent was set here.
+Itunes-wifi-400
+
+Feature-wise, the update had only one major bullet point: the iTunes Wi-Fi Music Store. It allowed users to purchase music directly on their phones, but it was also the first of many examples of how iPhone features would be hampered by bandwidth concerns from AT&T. As the name implies, the store only worked over Wi-Fi.
+
+1.1.1 also added support for TV out and a custom shortcut when double-clicking the Home button — the latter representing the first of many changes Apple would make to that button's behavior in the coming years.
+iOS 1.1 	Devices 	Features
+Released
+09 / 2007 	iPhone 2G,
+iPod Touch 1st Gen 	iTunes Wi-Fi Music Store
+
+iPod Touch compatiblity
+
+"Apple would be continuously updating iOS with new versions and new features"
+iOS 1.1.3 	Devices 	Features
+Released
+01 / 2008 	iPhone 2G,
+iPod Touch 1st Gen 	Better location
+
+Web clips on home screen
+
+Re-arrange icons
+
+Multitouch keyboard
+
+Jiggly
+
+iOS 1.1.3 added the ability to both re-arrange Home screen icons and to add new shortcuts to web pages. Apple called these "Web Clips" and though the new functionality was appreciated, it mainly served as a reminder that there was no native app SDK. I distinctly remember at the time that the general feeling around the iPhone was a mix of impatience and excitement: impatience because we could clearly see the unfulfilled potential of the iOS platform and excitement because we had already learned by then that Apple was capable of pushing out regular feature updates. Around this time, each new feature that came to iOS was met with a "finally!" because so many of them were obviously lacking and because Apple had demonstrated an ability to deliver. Native apps weren't on iOS yet, but everybody seemed to know they were coming, and soon.
+iOS 2: Apps
+Ios-games-555
+
+The next "finally" moment for iOS came in July of 2008, when Apple introduced the App Store to iOS. 3rd party apps for smartphones were the furthest thing from new, but Apple managed to make them feel that way with its system for developing, browsing, and installing them.
+
+The App Store. Critically, the App Store existed both on the device itself and within iTunes, where users could easily browse and install apps. This was a huge change from how mobile apps were distributed before: primarily over the web or via 3rd party app stores that were poorly integrated (if at all) into the device. Just as importantly, the App Store used Apple's already established base of iTunes music customers, so users wouldn't have to re-enter their credit card information in order to make purchases. It meant that finding and installing apps was easier than ever before and they quickly would become impulse buys.
+
+The iOS SDK. The second innovation was simply that the iPhone was a powerful device and Apple provided a development kit for iOS that offered incredible tools for developers. 3D games became the norm, and in general, iOS apps were more functional, better looking, and more advanced than on any other platform. The combination gave the platform a lead on apps that other companies are still trying to close in on.
+" The App Store used Apple's already established base of iTunes music customers "
+
+The introduction of apps and the App Store was not without some controversy, however. Apple did not completely open up iOS, but instead prevented users from "sideloading" any app they'd like. The only legitimized way to install apps was via the App Store, and Apple set a policy of curating apps that would and wouldn't be allowed in. Some of the rules were fairly straightforward (no porn) but others put Apple in a gray area when it came to users' desires. Apple regularly rejects certain classes of apps that are allowed on other platforms, including apps that allow tethering your computer to your iPhone for internet access.
+
+Another, perhaps unforeseen, consequence of the App Store was that apps became much much less expensive. This has mainly been a net win for users and developers, but it did cause plenty of consternation as the price of a top-shelf mobile app rapidly dropped from the $40 range to the $5 or even 99-cent range. Top-selling charts for apps began to look like the top-40 Billboard charts for music: if a developer could find a way to the top, he or she could make big money, but it was difficult at the bottom. Most of these concerns have gone away in the last couple of years and now there are many, many development houses and independent developers making their living by selling iOS apps.
+App-storeIos2-select-searchIos2-exchangeIphone-scientific-calculator-300
+iOS 2.0 	Devices 	Features
+Released
+07 / 2008 	iPhone 3G,
+iPhone 2G,
+iPod Touch 1st Gen 	Native 3rd-party apps
+
+App Store
+
+Microsoft Exchange support
+
+MobileMe
+
+Contact Search
+
+iOS 2.1 	Devices 	Features
+Released
+09 / 2008 	iPhone 3G,
+iPhone 2G,
+iPod Touch 2nd Gen,
+iPod Touch 1st Gen 	Battery life and speed fixes
+
+iTunes Genius playlists
+
+Dropped call fixes
+
+iOS 2.2 	Devices 	Features
+Released
+11 / 2008 	iPhone 3G,
+iPhone 2G,
+iPod Touch 2nd Gen,
+iPod Touch 1st Gen 	Google street view
+
+Podcast downloads
+
+
+
+
+Microsoft Exchange support. iOS 2.0 also began a trend of introducing a slew of other features that already existed on other platforms. The most important of these was full support for Microsoft Exchange for push email, calendars, and contacts. Apple also introduced proper contact search (previously you had to scroll through your contacts manually), as well as multi-selection for email.
+Mobileme
+
+MobileMe. Apple also announced its own cloud-based service, which replaced .Mac and provided integrated email, calendar, and contact sync. MobileMe never grabbed the public imagination, however, in part because it was expensive at $99 a year and in part because it was quite unreliable in the early days.
+
+iOS 2.0 was released alongside the iPhone 3G and naturally included support for the new hardware features introduced in that model, including A-GPS and 3G data.
+iOS 2 Updates
+
+Unfortunately, iOS 2.0 was not the most stable of releases. Many users experienced shorter battery life, app crashes, and dropped calls — all happening in the midst of a 2.0.1 and 2.0.2 release that had come in fairly short order. The 2.1 release in September of 2008 helped to mitigate those issues. It fixed a raft of bugs across the board on the OS and also added faster sync with iTunes.
+
+iOS 2.2 came in November of that year. In terms of features, Maps saw the biggest updates, with Google Street View, walking directions, and public transit directions added in.
+iOS 3: Features
+Ios3copypastehero
+
+iOS 3.0 was released with the iPhone 3GS in June of 2009 and like the 3GS, it didn't necessarily have any single headline feature. Instead, Apple filled in all sorts of gaps in iOS with a massive list of functionality and app updates touching every corner of the operating system.
+
+Cut, copy, and paste. With iOS 3.0, Apple introduced a new text-selection metaphor that worked well with touch — one area where a stylus had worked better than a finger for fine-grained tapping. Apple's combination of a text-magnifying glass and selection sliders was intuitive and, as with many of its touch-friendly features, turned out to be well ahead of the competition in terms of usability. As with many of the features introduced in iOS 3, this feature came later than users would have liked but Apple took the time to get the UI up to its own high standards.
+
+Spotlight search. Finding content was becoming a fairly big chore on iOS, so a system-wide search option was inevitable. Spotlight allowed users to go one screen to the left of the main homescreen to get a text box that could search across contacts, emails, calendars, notes, and the iPod. More options would come later, but Apple had "finally" matched a feature that had been commonplace on BlackBerry, PalmOS, webOS, and Windows Mobile: quickly entering text from the home screen to search across the phone.
+
+Push notifications for 3rd party apps. Although it had actually been promised at the iOS 2.0 announcement and didn't arrive until 3.0, push notifications on Apple's platform were still way ahead of what the competition was offering. Push notifications were able to serve as a sort of stopgap for many of the functions normally handed by proper multitasking. The feature would eventually become a victim of their own popularity, however, as the constant pop-up modal dialogs would come to annoy users.
+
+Apple also added MMS support, though by mid-2009 it was already becoming a less important feature for many users. Other features in iOS 3.0 could be seen as catch-ups: video recording, a landscape keyboard, a voice memo app, remote wipe, stereo Bluetooth, and internet tethering over Bluetooth or USB were added in.
+
+Another standard smartphone feature, voice dialing, was added in iOS 3.0. However, to be fair, Apple went a bit further with Voice Control, giving users the ability to dial contacts and also start or identify music. Voice Control supported a large list of languages at launch — a theme that fit in with iOS's expanded language support in general.
+iOS 3.0 	Devices 	Features
+Released
+06 / 2009 	iPhone 3GS,
+iPhone 3G,
+iPhone 2G*,
+iPod Touch 2nd Gen,
+iPod Touch 1st Gen* 	Cut, copy, paste
+
+Voice Control
+
+MMS
+
+Spotlight search
+
+Push notifications
+
+USB & Bluetooth tethering
+
+Landscape keyboard
+
+Find my iPhone
+
+Mms-voicecontrol"iOS 3 was all about filling in most of the major complaints and "gotchas"" Spotlight-voice-memo
+
+iOS 3.0 also had plenty of features that went beyond just reaching feature parity with other platforms, including:
+
+    Tap-to-focus within the Camera app
+    The ability to directly purchase movies, TV shows, and book from within the iTunes store on the device.
+    Parental controls that were well ahead of anything else on the market
+    The "Find My iPhone" feature
+    Expanded the revenue models in the App Store with in-app purchases and subscriptions.
+    Support for Bluetooth and dock accessories as well as Peer-to-Peer connections.
+    Support to play iPod music in 3rd party apps
+    A compass app (on the iPhone 3GS)
+    Autofill for forms in Safari
+    A huge number of APIs added to the SDK to take advantage of the iPhone's capabilities
+
+Ios3-apis
+
+After iOS 1 established the platform and iOS 2 brought apps, iOS 3 was all about filling in most of the major complaints and "gotchas" for the platform. With the update, Apple was well on its way to not just reaching feature parity with competing platforms, but establishing an OS that could be dominate on the feature front. Only a few major checkboxes remained, not the least of which was multitasking.
+iOS 3 Updates
+
+A few months later, Apple released iOS 3.1, which added yet more features, including remote lock, ringtone downloads, Genius mixes for music, and voice control over Bluetooth. iOS 3.1.3, which came in February 2010, brought the final OS release for the original iPhone 2G and the original iPod Touch: neither would see another OS update.
+iOS 3.1 	Devices 	Features
+Released
+09 / 2009 	iPhone 3GS,
+iPhone 3G,
+iPhone 2G*,
+iPod Touch 3rd Gen,
+iPod Touch 2nd Gen,
+iPod Touch 1st Gen*
+	Genius features
+
+Ringtone downloads
+
+Remote lock
+
+Voice Control over Bluetooth
+
+iOS 3.2: The iPad arrives
+Ipad"iOS meets the big screen"
+
+As it had done for every other major iOS device, Apple released an update to iOS to go along with the iPad. iOS 3.2's main purpose was to add the customizations to iOS necessary to match the iPad new screen resolution, including a landscape Home screen, new pop-up dialogs, and more.
+
+New UI paradigms for a larger screen. In order to bring iOS to the iPad, Apple didn't just "blow up" the iPhone UI, but rather added a few changes designed specifically for the larger screen. The most significant was the addition to a left-hand sidebar list. Typically, an app would have a list of content you could drill down into, then go back to the list. Apple removed that step by displaying the list on the left and the content on the right, no "back" button required for most apps. Apple also made it so that you could still see your content in a full-screen simply by turning the iPad into portrait-mode. The list was then hidden not behind a back button, but instead became a pop-over list. Apple added pop-over dialogs throughout the OS where previously the iPhone would require users to switch screens.
+Ios32notes-1
+
+New app designs. iOS also brought several iPad-specific changes for many of Apple's core iOS apps. Safari received a dedicated row for bookmarks, Apple added CoverFlow to the App Store, the Photos app organized pictures into stacks of images that could be pinched-out for a sneak-peek of the images within, Music got a simplified, iTunes-like interface with rows of album art, and the Settings app received the two-pane treatment mentioned above. Essentially, native app sthat would have looked silly "blown up" to the iPad's 1024 x 768 screen resolution received UI tweaks for the iPad's larger screen.
+Ios32-big-apps
+
+Skeumorphism. Unfortunately, iOS 3.2 also introduced an app aesthetic that many had hoped had been left in the past. The Notepad app received a border of stitched leather to make it look like a real notebook, the Calendar and Contacts apps were both made to look like small books, complete with pages. While many simply found the new looks to be corny, the bigger issues was that in most cases, the realistic appearance did not have a direct correlation with the user interface. So while the Address Book might look like a book, there were no pages to be turned, instead it simply had a book skin. This look has stayed around and in some cases has even made the transition to Mac OS X.
+Ios-3-2contacts
+
+The (very) common knock against the iPad boiled down to this: it was just a big iPhone. That complaint was both true and false for a number of reasons. It was technically true that with iOS 3.2, Apple did not make many significant changes to the core UI of iOS: there was still the home screen grid of icons with a dock (albeit one that could accomodate more icons); there was still the basic interaction of jumping into an app and then jumping back to the homescreen. However, that complaint turned out to not matter too much when it came to sales: Apple had already trained millions of users on how to use the iPhone and with the iPad essentially decided not to mess with a good thing.
+
+This version and two subesquent iOS 3.2 updates were iPad only, temporarily adding just a little fragmentation to a platform that to date had had virtually none.
+iOS 3.2 	Devices 	Features
+Released
+04 / 2010 	iPad 	Support for iPad resolution
+
+New app views for iPad
+
+Location based on Apple data
+
+Bluetooth keyboard support
+
+iBooks
+
+iOS 4: Multitasking
+Ios-4-multitasking-900
+"The major question at the time was whether Apple's unique implementation of multitasking was a distinction without a difference"
+
+Released in June of 2010, iOS 4 was mainly about one thing: adding features for power users. Multitasking, app folders, Wi-Fi tethering, spell-check, customized Spotlight searching (including web and Wikipedia), unified inbox, and support for multiple Exchange accounts all added up to an update that helped keep iOS competitive with Android, which was beginning to finally make inroads.
+
+The headline improvement was, of course, multitasking. However, iOS 4 did not technically support "true" multitasking in that it didn't allow any app to simply run in the background. Instead, iOS 4 offered developers several different multitasking services that they could run in the background:
+
+    Local notifications allowed apps to pop up alerts at a set time.
+    Task completion allowed apps to finish an upload or some other limited task when a user left the app.
+    Fast app switching/saved state allowed apps to more easily save their current "state" so they would be in the same place when a user returned.
+    Music apps were now able to play in the background
+    Navigation apps would be able to maintain their location tracking if you switched out of the app
+    VoIP apps would be allowed to keep running during an active call if you switched out of the app.
+
+All of the above required developers to update their apps to support the new multitasking features, which many eventually did. The major question at the time was whether Apple's unique implementation of multitasking was a distinction without a difference. For most users, that turned out to be the case. Apple's implementation of multitasking meant that the iPhone would be less likely to suffer from rogue apps taking up too much memory in the background, which in turn led to a system with most of the battery life and performance benefits of the old, "single-tasking" iOS with the multitasking features that Apple felt users needed. There were (and are) plenty of cases where Apple's system didn't feel robust-enough, such as allowing apps to update themselves in the background, but by-and-large the compromise struck in iOS 4 and beyond has worked for most users.
+Ios-4-task-manager
+
+The multitasking menu was triggered by yet another Home button change: you brought up a list of recently running apps with a double-press. Although Steve Jobs famously said that "If you see a task manager [...] they blew it," you could (and sometimes needed to) quit apps by long-pressing on them inside the multitasking menu. Apple also added a persistent set of music control widgets that could be accessed by swiping to the left of the menu.
+Ios-4-facetime-300Ios-4-folders
+"Apple was certainly not the first to offer video chat"
+
+FaceTime. iOS 4 came alongside the iPhone 4 and therefore added a feature designed to take advantage of the phone's front-facing camera: FaceTime video chat. As with many iOS features over the years, Apple was certainly not the first to offer video chat. However, Apple's implementation both worked better and had a simpler interface than other solutions. FaceTime worked only between iPhones and (and later, Macs and iPad 2s) and though Apple had promised to make the video chat solution an open standard, it has yet to deliver on that promise.
+
+Folders. With iOS 4, Apple "finally" introduced folders to the homescreen. Its solution was elegant in that users simply had to drag and drop icons on top of each other to form folders, a UI innovation that seems simple yet Android has just now caught up with Ice Cream Sandwich. By now, the average iPhone user had often installed dozens of apps, leading to difficulties just finding them and Spotlight search wasn't a highly used feature here. Along with folders, iPhone users could now also replace the background image on the home screen.
+
+Retina Display. Apple also added support for the iPhone 4's Retina Display and faster processor, giving developers even more ways to create high quality apps. Since the display was a straight pixel-doubling of previous iPhones, it meant that developers did not need to rush to support the new screen, especially since apps that were coded with Apple's standard SDK received higher quality buttons and UI widgets "for free."
+
+Productivity features. Although iOS 4 still may not have appealed to hardcore BlackBerry users, Apple did at least beef up its email offering by adding support for multiple Exchange accounts and, critically, a unified inbox and threaded email messages. System-wide spell check also made its first appearance, offering red underlines and quick text-replacement for misspelled words. The Calendar app now allowed users the individually hide specific calendars, the Contacts app gained the ability to link duplicate contacts, and the Messaging app received search capabilities.
+iOS 4.0 	Devices 	Features
+Released
+06 / 2010 	iPhone 4,
+iPhone 3GS,
+iPhone 3G*,
+iPod Touch 3rd Gen,
+iPod Touch 2nd Gen* 	Multitasking
+
+Home screen folders
+
+FaceTime video chat
+
+Unified email inbox
+
+Threaded email messages
+
+Retina Display support
+
+iAd support
+
+iOS 4 Updates: Expanding the ecosystem
+Antennagate
+
+Unfortunately for Apple, iOS 4 was also embroiled in the Antennagate scandal just as much as the iPhone 4 was. In this version of iOS (as well as earlier versions), Apple claimed the phone didn't properly display signal strength information.
+
+    Users observing a drop of several bars when they grip their iPhone in a certain way are most likely in an area with very weak signal strength, but they don't know it because we are erroneously displaying 4 or 5 bars. Their big drop in bars is because their high bars were never real in the first place.
+
+Antennagate
+
+iOS 4.0.1 (and iOS 3.2.1 for the iPad) was released in July of 2010 in order to address the issue, normalizing the number of "bars" displayed.
+
+iOS 4.1 helped Apple cement its mobile gaming lead by introducing Game Center, which added some limited but sorely needed social networking to iOS' gaming ecosystem. Apple also added support for renting TV shows directly on iOS devices as well as support for it's Ping social network for music, the latter of which was and is little used.
+Gamecenter
+
+On the camera front, iOS 4.1 added support for HDR photography to automatically combine two photos with different exposures as well as full HD video uploads to YouTube.
+
+iOS 4.2.1 brought multitasking and folder support to the iPad, giving iOS the same version number and features across all of its modern devices (the iPhone 3G and iPod Touch 2nd Gen offered limited support for iOS 4's features). Apple also introduced AirPlay for streaming video content between iOS devices and the Apple TV. It's a feature that doesn't get as much attention as it ought to compared to video and audio stream solutions on other platforms, it's miles ahead. Lastly, this update introduced AirPrint for those who still bother with that sort of thing.
+
+iOS 4.2.5 came along solely to support the Verizon version of the iPhone. That purpose actually brought with it an added benefit: full support for Wi-Fi-based mobile hotspots. Apple followed up with iOS 4.3 in March, adding AirPlay support for 3rd party apps, iTunes Home Sharing support for playing music off your local Wi-Fi network, and support for Personal Hotspot on GSM devices.
+
+
+
+""Their big drop in bars is because their high bars were never real in the first place""
+iOS 4.1 	Devices 	Features
+Released
+09 / 2010 	iPhone 4,
+iPhone 3GS,
+iPhone 3G*,
+iPod Touch 4th Gen,
+iPod Touch 3rd Gen,
+iPod Touch 2nd Gen* 	Game Center
+
+TV rentals
+
+iTunes Ping
+
+HDR photos
+
+iOS 4.2.1 	Devices 	Features
+Released
+11 / 2010 	iPhone 4,
+iPhone 3GS,
+iPhone 3G*,
+iPad,
+iPod Touch 4th Gen,
+iPod Touch 3rd Gen,
+iPod Touch 2nd Gen*
+	iPad multitasking
+
+iPad folders
+
+AirPlay
+
+AirPrint
+
+iOS 4.2.5 	Devices 	Features
+Released
+02 / 2011 	Verizon iPhone 4 	Verizon support
+
+Personal hotspot (CDMA only)
+
+iOS 4.3 	Devices 	Features
+Released
+03 / 2011 	iPhone 4 (GSM),
+iPhone 3GS,
+iPad,
+iPad 2
+iPod Touch 4th Gen,
+iPod Touch 3rd Gen 	Personal Hotspot (GSM)
+
+AirPlay for 3rd-party apps
+
+iTunes Home Sharing
+
+iOS 5: Siri and much more
+Ios5
+
+Like iOS 3, iOS 5 came along with an "S" iPhone, the iPhone 4S. Also like iOS 3, iOS 5 introduced so many new features that it's difficult to keep them all straight. So many, in fact, you might say that in the current smartphone battle, Apple's hardware is the anvil and iOS 5 is the hammer the company is using to forge a permanent and sizeable marketshare.
+
+Siri. Available only on the iPhone 4S, Siri replaces Voice Control with a "virtual assistant" that is able to do more than just connect calls. Siri allows you to ask it questions and give comments in natural language with hooks all over the OS and the web. Siri communicates with everything from your calendar to WolframAlpha. Siri also includes text transcription, a new feature for iOS, that works passably well.
+
+Apple launched Siri as a Beta, which is unique for the company. Often, Siri deserves the tag: it sometimes is unable to connect to the web to perform either voice recognition or transcription, other times it returns strange results. Still, as a natural user interface, it's one of the more promising things we've seen come along in some time.
+
+Notification Center. With iOS 5, Apple did something to make sense of the barrage of notifications coming in to the typical iPhone with Notification Center. Similar to the way Android works, there is a persistent pull-down drawer that lists all of your recent notifications along with the ability to clear them out by tapping a tiny "x" for each app. Notification Center is also Apple's first, tiny foray into the world of ambient information, with weather and stock widgets built-in.
+
+There is also a large (and depending on how many apps you have installed, somewhat daunting) section within settings for managing which apps can notify you and how. Within these settings you can also decide which notifications appear on the lock screen. One final notification feature is the option to have notifications appear as transient banners at the top of the screen rather than as interruptive, modal pop-ups.
+
+The jury is still out on whether or not Apple can improve on Notification Center, but at the very least we now have an entirely new area within iOS beyond the homescreen, lockscreen, and individual apps.
+"As a natural user interface, it's one of the more promising things we've seen come along in some time" Siri-300Notification-center
+
+iMessage. With iOS 5, Apple has begun encroaching on some carrier revenues and also the hardcore BlackBerry Messenger fanbase with its own system for sending short messages. Like BBM, it is capable of showing deliver receipts and sending multimedia messages. Unlike SMS, it's entirely free. iMessage integrates with the built-in Messaging app on the iPhone and adds the same app to the iPod Touch and iPad.
+
+It's tied to either an Apple ID or a phone number and in both cases it can automatically detect whether your recipient is capable of receiving iMessages. When they are, iOS automatically converts your text message into an iMessage, which is sent to all iOS devices that user has registered and active. This system is convenient and invisible for most iPhone users, but that convenience is possibly offset by potential confusion for people who switch phones on a regular basis. So far, iMessage hasn't quite captured the popular imagination in the same way BBM did, but it's still early days for the system and we'll have to see how much pickup it gets going forward.
+
+No PC required. Perhaps most importantly, Apple removed the requirement that iOS devices be physically tethered to a computer via USB in order to be activated. Frankly, it was frustrating for users to have to tether iOS devices in order to activate them, leading Apple Store employees to actually begin the activation process in-store in recent years.
+
+Theoretically, an iPad or iPhone could now become somebody's sole computing device. That's a significant change and while it could portend bigger things for the iOS platform in the future, for now it's more of a necessary condition for a mobile computing revolution than a sufficient one.
+
+iTunes Wi-Fi Sync. It says something that a feature like Wi-Fi sync is so far down on the list of features for iOS 5. The syncing here works quite well and is set by default to only operate when the device is charging. You might be tired of reading this by now, but once again Apple waited until it got the feature right rather than launching before it was ready.
+
+Over-the-air updates. It's somewhat hard to believe, but until iOS 5 Apple still required that iOS devices have their entire ROMs flashed via iTunes in order to install most updates.
+
+iCloud. "Finally," iOS 5 was released along with a new cloud service to replace MobileMe, dubbed "iCloud." It is the latest of several attempts to get cloud services right and, so far, easily the most successful. iOS devices can be backed up directly to iCloud, as can documents and other files. Apps purchased on one device automatically appear on all other iOS devices. iCloud works with the image libraries on iOS devices and on the Mac, though it only syncs the most recent 30 days.
+
+There's also a new music component that stores all of your music on Apple's servers for easy downloading. Fitting with the "PC-Free" feature, you are also able to back up and restore iOS devices directly instead of with a computer. While iTunes W-Fi sync means you don't have to tether your iOS device to a computer as often, the promise of iCloud is that you won't have to tether your iOS device to a computer at all.
+Imessage-300"Theoretically, an iPad or iPhone could now become somebody's sole computing device." Icloud-2
+
+Other new features in iOS 5 include Twitter integration, the ability to use the volume button as a shutter button in the camera, a Reminder app, and an app called "Newstand" for magazine subscriptions. Mobile Safari gained "Reader" functionality, which both saves and reformats web pages for easier reading a la Instapaper.
+
+The iPad gained some multitasking gestures as well, which in theory obviates the need for the home button, but in practice doesn't seem as intuitive as the rest of iOS. Apple added a split-keyboard option in landscape mode on the iPad, which makes thumb-typing a bit easier when holding the tablet. The iPad also got proper tabs in the Safari web browser. Apple replaced the modal-pop up for lists introduced way back in iOS 3.2 with a slightly different modal pop that slides in.
+
+AirPlay also saw an update, allowing the iPad 2 and iPhone 4S to directly mirror the entire screen instead of requiring each app to build in support.
+
+The biggest complaint about iOS 5.0 is that it seems to have significantly affected battery life. Apple has released on bugfix update, iOS 5.0.1, with more fixes promised soon.
+
+Arguably, all of the most important features in iOS 5 are more about the future of iOS than about this particular software release. Siri is still in Beta, the promise of iCloud and a PC-free existence is tempting but, for most users, not likely to be fully realized today. Yet the pieces are all here to make the case that iOS is on its way to being able to replace the computer for a very large number of users.
+Ios-5-twitter-300
+iOS 5.0 	Devices 	Features
+Released
+10 / 2011 	iPhone 4S.
+iPhone 4,
+iPhone 3GS,
+iPad,
+iPad 2
+iPod Touch 4th Gen,
+iPod Touch 3rd Gen 	Siri
+
+Notification Center
+
+PC-free
+
+iTunes Wi-Fi Sync
+
+iMessage
+
+iCloud
+
+iOS 6: Goodbye, Google Maps
+Apple-ios-6-combo-900
+"Realizing Apple's dream of a Google-free iPhone"
+
+iOS 6 was announced at Apple's Worldwide Developers Conference on June 11th, 2012, keeping pace with the annual update cadence that the company has held to since 2008. The new version revealed even mix of surprises and expected changes, but none sent greater shockwaves through the industry than the revamping of one of the most important apps in the platform: Maps.
+
+Maps. Google Maps has long been considered the benchmark in online mapping, a service that Apple had licensed since the original iPhone's introduction in 2007. Relations between the two Silicon Valley giants have gone south in recent years, though — thanks in no small part to a seemingly endless series of legal spats — and Apple began buying companies (most notably C3 Technologies in 2011) that would help it break free of Google's ecosystem. In iOS 6, that effort comes to fruition with a thoroughly revamped Maps app that features turn-by-turn navigation for the first time, a 3D "Flyover" mode, and Siri integration. The underlying mapping data is seemingly provided by a variety of sources, but Dutch navigation company TomTom is prominently noted in the new app's credits.
+
+Siri enhancements. Speaking of Siri, Apple's versatile voice-powered assistant got a big upgrade after being introduced as a beta in iOS 5. Version 6 now lets you ask for sports scores, schedules, and player data, restaurant reviews from Yelp, and reservations from OpenTable. You can also launch apps directly from Siri by speaking their names and post status updates directly to Facebook and Twitter. Indeed, the dream of a completely hands-free smartphone is starting to seem within reach, and that seems to be part of Apple's long-term picture: the company announced a partnership with a number of automotive manufacturers to integrate Siri control in their cars. With laws against handheld phone use cropping up around the world, it's a shrewd move.
+
+Notification Center. Notification Center — another addition in iOS 5 — wasn't refined as much as many had hoped; no announcements were made at WWDC that would allow third-party developers to create their own widgets, for example. Still, Apple made a couple key changes here, most notably a Do Not Disturb mode that silences notifications (and phone calls) during hours of your choosing. The pull-down tray also adds Twitter and Facebook buttons to quickly fire off status updates and tweets.
+Passbook-560
+
+Facebook integration. Of course, with Facebook features in Siri and Notification Center, that can mean only one thing: Facebook integration has officially been added to iOS 6, joining Twitter which had been added the year prior. Versatile new content sharing throughout the platform — a little like Android's sharing system — has been added, and Facebook is featured prominently, meaning you can post scores to your Wall from Game Center, upload photos, and pull Facebook events directly into the iOS calendar, among other touchpoints.
+Shared-photo-streams-300Facetime-300
+"Passbook could end up being a huge deal"
+
+Passbook. A dark horse in the iOS 6 announce, Passbook, might factor prominently in a future attack by Apple in the still-immature mobile payments market. Billed as an app for collecting rewards cards, payment types, tickets, coupons, boarding passes, and anything else with a barcode in one place, it's easy to imagine how Apple might exploit its giant collection of active credit card numbers in the iTunes Store to evolve Passbook into a direct Google Wallet competitor.
+
+Shared Photo Streams. This is an odd one: Facebook integration is clearly a big win for Apple and for iOS as a platform, but shared Photo Streams are going against the grain by allowing users to share selections of photos with friends independently of Facebook. Just like iOS 5's original Photo Streams feature, shared Streams show up in real time on other devices, the only difference is that other users' devices can be added into the mix. This isn't the first time Apple's taken a stab at a social network, but just like Ping, this is going to be an uphill battle for adoption, especially when pitted head to head against the Facebook juggernaut.
+
+iCloud Tabs and Reading List enhancements. Safari has been refreshed in iOS 6 to battle Google's popular Chrome Sync with a feature called iCloud Tabs that does pretty much what you'd imagine: it syncs your browser tabs across devices and PCs. Reading List, meanwhile, now saves web page content (in iOS 5, it just saved links), pitting it head to head against popular apps like Instapaper.
+
+FaceTime over cellular and better Apple ID integration. FaceTime's restriction to use over Wi-Fi networks had stymied many users since the release of the iPhone 4, limiting its usefulness. In iOS 6, the restriction has been removed, and it's not just LTE networks that are being allowed, it'll work on 3G as well. To help facilitate adoption on 3G and LTE iPads, Apple is tightening its Apple ID integration: users can add their phone numbers just as they would an email address and receive FaceTime calls on their iPads using the number.
+iOS 6.0 	Devices 	Features
+Released
+Fall 2012 	iPhone 5
+iPhone 4S,
+iPhone 4,
+iPhone 3GS,
+iPad mini
+iPad 4th Gen
+iPad 3rd Gen
+iPad 2
+iPod Touch 4th Gen
+iPod Touch 5th Gen
+	Homegrown Maps and turn-by-turn navigation
+
+Siri enhancements
+
+Facebook integration
+
+Passbook
+
+iCloud Tabs
+
+Mail enhancements
+
+FaceTime over cellular
+
+iOS 7: Hello, Jony Ive
+
+Ios7_hero_900
+
+iOS 7 is the first iteration to arrive with a pair of phones in tow: the iPhone 5s and 5c. In addition to shipping iOS 7 with the new handsets, Apple is updating all its devices from the iPhone 4 and iPad 2 onwards to the new OS on September 18th. iPod touch support is limited to the latest, fifth-generation model.
+
+Big changes at Apple. After the botched introduction of the Maps app saw Tim Cook post a personal apology on the Apple homepage, Scott Forstall, who had led iOS design for several years, parted ways with the company. Soon after the departure, Apple's lead industrial designer, Jony Ive, took leadership of the company's "human interface" efforts.
+
+The result of Ive's intervention is Apple's first attempt at a visual overhaul of its mobile OS. Gone are the famous glossy icons, the rich textures, and, for the most part, the skeuomorphic apps, replaced by flattened graphics, colorful gradients, and transparencies. Immediately after its June 10th unveil, iOS 7's redesign was panned by critics for what they called an "overly simplistic" and confusing design.
+
+The key to iOS 7's new look is layering. The home screen and applications run on a bottom layer, while Apple has added transparency and background blurring within apps to make certain interface elements appear to hover over others. The keyboard and navigation bar in Messages is a good example of layering: text bubbles now slide beneath the newly translucent elements. This UI layering also applies to the refreshed Notification Center, which is similarly translucent, and an all-new feature: Control Center.
+
+Control Center. Accessed with a swipe up from the bottom of your screen, Control Center is Apple's version of the quick-settings toggles found on Android phones. The translucent overlay offers one-click access to Airplane mode, Wi-Fi, Bluetooth, Do Not Disturb, Rotation lock, and sliders for volume and brightness. In addition to settings shortcuts, there are buttons for a flashlight as well as the Clock, Calculator, and Camera apps, and full music controls. Finally, you can turn on and off AirPlay, or initiate an AirDrop (see below). Like Notification Center, it's available from anywhere in the OS, including the lock screen.
+
+AirDrop. First introduced with OS X Mountain Lion, AirDrop is an ad-hoc sharing system that lets you quickly share images, videos, and other files with people around you. Strangely, you can't share files between iOS and OS X yet, but there's a possibility that could change with the release of OS X Mavericks later this year.
+
+All-new core apps and free iWork. Apple has freshened up all of its core apps with a new coat of paint, bringing them in line with the new look of iOS. Most of the apps are white with a simple one-color flourish, and completely devoid of texture, but Notes and Reminders retain a slight papery feel.
+
+While the basic layout of all of the apps remains the same, Apple introduced a new swiping gesture that makes navigating around apps much easier. Swiping in from the left side of the screen in all of the core apps executes the same function as the "back" button in the top-left corner of apps. This gesture also works both ways in Safari, letting you swipe back and forth through your browser history. Safari in general is cleaner, with a new omnibar up top and a UI that fades away as you scroll through a page.
+
+iOS 7 also marks a shift in Apple's approach to additional software on iOS. Apps that cost as much as $9.99 in the past, such as Pages, Numbers, iMovie, Keynote, and iPhoto, will now be free on iOS. Of all of Appleâs big-name apps, only Garageband remains at a premium. The app giveaway mirrors Appleâs approach to its iLife software suite on OS X, which is packaged free with every Mac, although the companyâs iWork apps are still premium for the desktop.
+
+An animated weather app, but still no widgets. Borrowing heavily from Yahoo's successful iOS app, the new Weather app features lush animated backgrounds that change based on time of day and the current weather conditions. It's a fantastic-looking app, but its dynamic backgrounds aren't mirrored by its icon, which remains sunny.
+
+The omission of widgets, a standard feature of Android (and in some ways Windows Phone) for many years, will disappoint many. Apple gave some hope that the static iOS home screen might change with the inclusion of an animated Clock icon that constantly updates to show the correct time to the second, but that's it. The Clock icon now shows the correct time, just as the Calendar icon has always shown the correct date, but every other icon is stoically static. Even Appleâs Notification Center Weather widget, which used to show the weather for the next five days, has been reduced to a line of text in the "Today" screen.
+iOS 7.0 	Devices 	Features
+Released
+Fall 2013 	iPhone 5s,
+iPhone 5c,
+iPhone 5,
+iPhone 4S,
+iPhone 4,
+iPad mini,
+iPad 4th Gen,
+iPad 3rd Gen,
+iPad 2,
+iPod Touch 5th Gen
+	Visual overhaul
+
+Control Center
+
+AirDrop
+
+Refreshed core apps
+
+iTunes Radios
+
+FaceTime Audio
+
+Ios7_layers_300
+
+Ios7sms
+
+Ios7safari
+
+iTunes Radio. iTunes Radio is Apple's answer to Spotify and Rdio, only it's not. It's a streaming service, but rather than focusing on a fully fledged service that might eat into its iTunes music revenue, Apple essentially remade Pandora. It lets you choose songs to listen to on demand, but the main focus is on curated radio stations based around particular songs, artists, albums, or genres.
+
+Camera and Photos. The camera software in iOS 7 has been rethought with a simple black layout. New additions include an Instagram-like "square" mode and an array of filters. The app is very fast, and shutter delay is now almost imperceptible. For the iPhone 5s, which features a better sensor than Apple's previous phones, the camera software will automatically assess the lighting conditions and fire a flash in one of a thousand tones thanks to a new dual-LED flash. The 5s also has a 10fps burst mode for photos and a 120fps 720p slow-motion video mode, along with improvements to iOSâ software stabilization and exposure.
+
+The Photos app now automatically arranges your images into what Apple calls Collections and Moments. A day trip to Venice, for example, will be cordoned off from other photos, headlined with the location and the date that you visited. These new views replace the Camera Roll by default, which is now accessible via an Albums tab. The layout of the app is a little more confusing than before, with dense clusters of photos that you can hover over with your finger to preview. Itâll be down to Apple to educate the masses on how it all works.
+
+Multitasking. Multitasking is massively improved in iOS 7, both in interface and implementation. Double-clicking your home button now brings up full-page previews of all your current apps, not unlike webOS or Windows Phone. Although iOS still manages your apps automatically, you can close multiple apps by swiping them away. More interesting is what's going on behind the scenes, where there are two big changes. First, apps can now be triggered to download data by a push notification. That means if you get an email or IM notification, the relevant app will start downloading the new data immediately. The second change could have huge implications for battery life: the addition of automatically coalescing updates means that iOS will, without prompt, wait for the right moment to start downloading app updates and other data. It groups all of the data requests together, only triggering them when you're in good signal areas (or when you switch on your iPhone's screen), which saves on the amount of time your phone's radio needs to be working.
+
+FaceTime Audio. FaceTime Audio wasn't widely discussed in the months following the June unveil of iOS 7, but it could be its single most important feature. As the name suggests, it's an audio-only version of FaceTime, which utilizes a high-quality codec to let you call other Apple users via Wi-Fi, LTE, or 3G. We've yet to see how carriers will react to the feature — US carriers already aren't over-enamored with FaceTime — but provided they don't block access to the feature over LTE and 3G, seamless VoIP calls between iOS devices have arrived.
+
+Ios7_allipad_560
+
+Automatic updates. With iOS 7, the days of opening up the App Store to click "update all" are over. The OS now offers the option to update all apps on your system without asking, much like its competitors have done for some time. Itâs a double-edged sword: auto-updating ensures that all users are running the latest version of an app, but at the same time consumers wonât be able to steer clear of a buggy app update, even if itâs been widely reported.
+
+Touch ID. The introduction of a biometric sensor with the iPhone 5s also marks the entry of a new security measure: Touch ID. The feature lets you unlock your phone using a thumbprint, and also allows for password-less purchases from the App Store. Touch ID is limited to just a few specific functions for now, as Apple has yet to reveal any plans to let developers access the feature.
+
+Cameraviewios7
+
+Camearmoments
+
+Multitasking
+
+Iostouchid
+iOS 8: Opening up
+
+Ios8hero_900
+
+While iOS 7 brought about the biggest visual change to the platform since its inception, iOS 8 is a refinement of the design iOS 7 established. This time around, Apple focused on expanding feature sets and improving workflows, while adding a ton of new tools for developers to give their apps more abilities than ever before.
+
+Continuity. The most impressive new feature in iOS 8 is what Apple is calling "Continuity." iOS 8 works with Apple’s new Mac OS X 10.10 Yosemite to provide a completely new level of interactivity between an iPhone or iPad and a Mac computer. With iOS 8 and OS X 10.10, users will be able to seamlessly pass information between their mobile devices and their desktop computers (Apple calls this "Handoff"), including picking up where they left off in an email draft or Pages document. AirDrop will finally let you wirelessly transfer images and other files from your phone to your computer, and it will be possible to start a wireless hotspot on your phone right from your computer.
+
+But perhaps the best benefit of Continuity will be the ability to send and receive standard text messages in addition to iMessages from your computer, as well as take phone calls on your desktop. OS X 10.10 is supposed to automatically recognize when your phone is near your computer and prompt you to answer on the desktop when a call comes in. It’s the most integration we’ve seen between a mobile and desktop platform yet, and it will likely be expanded with future versions of iOS and OS X.
+
+Widgets and actionable notifications. For the first time, Apple is adding third-party widget support to iOS 8. Third-party apps will be able to inject interactive widgets into the Notification Center, similar to how Apple used to provide weather and stock information in iOS 6. The widgets will update with live information and allow users to take action on things, such as placing a bid for an eBay auction.
+
+It’s not quite the same as the widgets on Android or the live tiles in Windows Phone, but it’s Apple’s first real effort to let apps provide glanceable information aside from notifications.
+
+In addition to widgets, iOS 8 lets users take action on incoming notifications, so you’ll be able to like a Facebook comment right from the notification, or reply to an incoming message immediately. Actionable notifications have been on Android for a few years now, and they’ve been highly requested on iOS for a long time.
+
+Extensibility. iOS 8 may not appear very different on the surface, but Apple has done a ton of work under the hood to make the platform much more extensible than before. That means for the first time in iOS, users will be able to install third-party keyboards, apps will be able to share data and integrate with each other in significant new ways, and you’ll be able to easily share photos and other files with third-party apps. It’s the most Apple has ever done to allow apps to communicate with each other, and aside from the few apps that take advantage of hacky URL schemes to pass data around, a completely new experience for iOS users. It won’t be new to those familiar with Android, as these kinds of capabilities have been around since that platform’s inception in 2008.
+
+Apple is also opening up its Touch ID fingerprint recognition system to third-party developers in iOS 8. Developers will be able to use Touch ID to authenticate users within their apps, making them more secure and easier to use. With iOS 8, Apple is one step closer to killing the password all together.
+
+Upgrading Messages. iOS 8 sees the biggest change to Apple’s core Messages app since iMessage launched with iOS 5. Apple has added a number of features pilfered from other messaging apps, including self-destructing audio messages, location sharing, an improved video-message interface, better group messaging management, and a way to send multiple images and videos at once. None of these features will be new to seasoned messaging addicts, but they are new to Apple’s app and likely new to many of its millions of users.
+iOS 8.0 	Devices 	Features
+Released
+Fall 2014 	iPhone 5s,
+iPhone 5c,
+iPhone 5,
+iPhone 4S,
+iPad mini,
+iPad 4th Gen,
+iPad 3rd Gen,
+iPad 2,
+iPod Touch 5th Gen
+	Continuity
+
+Widgets
+
+Extensibility
+
+QuickType
+
+iCloud Drive
+
+HealthKit
+
+HomeKit
+
+Family Sharing
+
+iOS 8 homescreen
+
+Voicerecord_300
+
+iCloud Drive and Photo Library. With iOS 8 and OS X 10.10, iCloud is growing up into a real cloud-storage solution. The new iCloud Drive service gives you access to all of your files on all of your devices, even Windows PCs. Files uploaded from a Mac computer are instantly available on an iOS device, and iOS 8 will let you browse the files stored in your iCloud Drive account. Yes, that’s right, iOS 8 will include a file browser for items stored in the cloud. iCloud Drive is Apple’s first real attempt at making iCloud a competitor to Google Drive and Dropbox, and it’s a welcome addition to the ecosystem.
+
+Apple is also upgrading the Photos app in iOS 8, which now supports syncing of every photo and edit across devices, automatically. You can now search your Photo Library for date, time, location, or album name, and a host of new editing tools let you do more without the need for third-party apps. Edits you make on your iPhone are visible on your iPad, and you can always reverse an edit after the fact. Plus, third-party developers will be able to embed their editing tools directly into the Photos app, making them easier to access when browsing your photos. The iPhone’s camera app has also been upgraded with a new time-lapse video feature.
+
+QuickType. Apple’s virtual keyboard has remained largely the same since iOS was first introduced in 2007, with the vast majority of improvements coming under the hood; they've been visible mainly in the form of more accurate typing. That changes drastically with iOS 8’s new QuickType feature, a text-prediction system that guesses what the next word you’re going to type will be. Android users are very familiar with this kind of word prediction — it’s almost exactly like what the Google Keyboard and SwiftKey do already — but it’s completely new and entirely welcome on iOS. Of course, if QuickType doesn’t impress, iOS 8 will let you install third-party keyboards, a new trick for the platform.
+"iOS 8 finally supports third party keyboards"
+
+HealthKit. Apple introduced a way to collect all of your flight passes and loyalty cards with iOS 6’s Passbook, and now iOS 8 is going to do the same with all of your fitness data. HealthKit provides hooks to pull in data from third-party fitness trackers so you can keep track of everything all in one place. Apple is partnering with the Mayo Clinic and other providers to allow them to update data after checkups, and the company claims it has strict privacy protections in place to keep a patient’s data secure. Apple of course hasn’t released its own wearable device yet, but if it ever does, it’s highly likely that HealthKit will play a large role in its functionality.
+
+HomeKit. Home automation systems have been growing in popularity in recent years, and Google’s massive $3.2 billion purchase of Nest threw them into the spotlight back in January. With iOS 8, Apple is making its first tiptoes into the home automation world. HomeKit is a way for your iPhone to act as a remote control for your entire home, and thanks to a new certification process and partnerships, it will work with a large number of home automation products already on the market (but not the Nest thermostat or Protect). Home automation devices have been difficult to set up and difficult to integrate into a complete system, so with Apple acting as the glue between them, they might just become something everyone will have in their houses.
+Ios8adds560
+
+Siri upgrades. Siri is now in its third year of existence, and with iOS 8, it’s getting even smarter. iOS 8 will allow users to activate Siri with a voice command, much like how Google Now works on the Moto X, Nexus 5, and other Android devices. iTunes purchases can be made right from Siri’s interface, and it now has song recognition powered by Shazam. Of course, Siri will play a key role in HealthKit and a number of other new iOS 8 features, as Apple’s vision of a complete virtual assistant comes closer to reality.
+
+Family Sharing. With iOS 8, Apple is making it easier for families with multiple iOS devices to share everything from photos and calendars to purchases from iTunes. (It also makes it easier for Apple to sell everyone in your family an iPhone.) Family Sharing allows iTunes purchases, including apps, TV shows, songs, and movies, to be shared among six different accounts, provided they are all linked by the same credit card. Parents will be able to approve or deny purchases on their children’s devices remotely, and families will be able to easily keep in touch with group messages.
+
+Waterlogue
+300
+What's next for iOS?
+
+In the seven years since iOS was unveiled, we've seen the conversation move from, "Is this a true smartphone?" to, "Can this replace a computer?" That change is a testament not just to the march of technological progress, but to Apple's ability to reinvent its operating system over the years.
+
+The progression of iOS has been a steady drumbeat of new features that often felt inevitable. Apps; multitasking; and even cut, copy, and paste all seemed to have come late to the game compared to the competition, but in each case Apple took its time to ensure that the solution it offered matched its own high standards and was designed for future growth. That has brought us to a point where future feature improvements aren't as dramatically clear as they used to be.
+
+iOS 8 builds on iOS 7's visual overhaul, but it still doesn't change the basic usage paradigm that iOS has had for years. That's both a blessing and a curse: users won't have any trouble adapting to it, but it's not bringing about any radical changes in user-interface concepts. Apple's moves to open up more parts of the platform to third-party developers could change this, though we'll have to see how developers work the new tools into their apps.
+
+To suggest that companies other than Apple are bringing more innovation into the UI space was once a strange thing, but the truth is that we've reached the point where iOS is part of the old guard of mobile operating systems, at least from a user-experience perspective.
+
+While Apple hasn't really changed the main UI paradigm in iOS, it is now giving third-party developers the tools to integrate their apps and ideas more fully into the system, something it has never been open to in the past.

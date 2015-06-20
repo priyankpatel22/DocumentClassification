@@ -1,0 +1,121 @@
+Apple Wine
+By Dr. Murli Dharmadhikari
+Making fruit wines can be economically rewarding. A certain segment of the population enjoys these wines. A winemaker can produce high quality fruit wines as a specialty product and benefit from this existing niche in the marketplace. Compared to grape wines most of the fruit wines take less time to process and, therefore; the capital is tied up for a shorter period of time. This translates into a quicker return on invested capital. Fruit wines can also be made during a less busy time (after grape harvest) of the year, thus permitting efficient use of winery facilities. Sometimes a decision to make a fruit wine is made because surplus fruit is available at a very attractive price. Often in such cases, the fruit quality is poor and the appeal of low prices can induce a winemaker to produce mediocre wine that he or she would not otherwise make if the price were not so cheap. Although the price of the raw material is an important consideration, it should not be the sole criteria. Remember that the cost of the raw material is a small portion of the total cost, and devoting valuable resources to produce a poor to mediocre product amounts to underutilization or even misuse of precious resources. The important point is that the choice of making fruit wine should be based on sound business reasons.
+
+Which Fruit Wine?
+There are a variety of fruits suited to making a good quality wine. The fruits commonly used for making wine are: Apple, pear, peach, plum, cherry, strawberry, blackberry, raspberry and blueberry. The choice of fruit depends upon several factors. These include: market demand, availability of raw material, production facilities, and sound economic reasons.
+
+In Missouri, apple, cherry and berry wines are commercially produced and, therefore; these production techniques merit some discussion. This article deals with apple wine. In the next issue we will discuss wines from other fruit.
+Raw material-Generally, locally grown apples which are in surplus after meeting fresh market demands are used for making juice and wine. It is important that the fruit be sound, i.e., free of decay or rot and well mature. Unripe or immature fruit should not be used since it is high in starch, acid, and astringency; and low in sugar and flavor. On the other hand, overly mature fruit can be low in fresh and fruity flavor, difficult to process and also difficult to clarify.
+Many apple varieties can be used for making wine. Generally the choice is largely governed by locally available fruit. The amount of fruit constituents such as sugars, acids, phenolic compounds, color and flavor vary considerably among the apple varieties. It can be difficult to obtain a single variety which would contain all of the important constituents in an ideal proportion. For this reason a combination of varieties should be used to obtain the most desirable composition in the juice and wine. To achieve a good blend it is necessary to know the fruit composition of locally available varieties. Once this information is known, blending can be done to obtain desired results.
+For example, Mcintosh and Golden and Red Delicious varieties are considered rich in aroma, crabapples are relatively more astringent, and varieties such as Jonathan, Northern Spy, Winesap and Baldwin usually have good acid levels. Combining aromatic and moderately acidic varieties in a blend is more likely to yield a pleasing wine.
+Instead of processing apples, one can buy cider to make wine. In such a situation great attention must be paid to obtain only high quality juice. The cider must not be made of immature, inferior, or decayed fruit. It should have a rich apple flavor, good color and sugar, and astringent compounds in proper proportion.
+Sometimes fruit concentrate is used for wine production. The concentrate is easy to store, requires less space, and can be processed when the winery operation is less busy or slow. When using concentrate, only high quality concentrate with good apple flavor should be used. The apple aroma of the juice from concentrate can be enhanced by blending it with fresh apple juice.
+
+Fruit Composition
+Production of superior wine requires a proper balance among the various fruit constituents. A good understanding of these fruit constituents is essential in order to produce a high quality product.
+
+Apples consist of water and many soluble constituents such as sugars and other carbohydrates, acids, nitrogenous compounds, minerals, astringent substances, color and flavor constituents.
+Water-Water is the largest component of fruit. It affects the soluble solids content of the juice. Many factors influence the amount of water present in fruit at harvest. Generally 83% of the fresh weight is water.
+Carbohydrates-Sugars are the main carbohydrate material in apples. The predominant sugars include fructose, sucrose and glucose. Lott (1943) determined the sugar contents in 15 apple varieties in Illinois. The results are shown in Table 1.
+Table 1. Fructose, glucose and sucrose content of some apple varieties at optimum maturity. 
+                     Percent of fresh weight
+Variety 	Fructose 	Glucose 	Sucrose 	Total 
+Golden
+Delicious 	6.40 	1.77 	3.62 	11.79 
+Jonathan 	5.90 	2.00 	2.80 	10.70 
+Winesap 	5.30 	2.70 	2.93 	10.93 
+Stayman 	4.78 	2.00 	2.38 	 9.16
+Grimes 	4.91 	0.88 	3.20 	 8.99 
+Source: Loft (1943)
+The data shows that fructose is the main sugar (over 50% of total sugar) in apples. The balance of the sugar consists of sucrose and glucose. The sugar content of the fruit varies with the variety and is also influenced by other factors, such as location and cultural practices.
+Starch-The unripe fruit contains starch which is often called storage sugar. As the fruit matures the starch is hydrolyzed into sugars. During ripening the starch content rapidly declines and at harvest very little, if any, starch may be present in the fruit. The presence of starch can contribute to the problem of clarification and filtration during processing.
+Pectic substances-Pectic substances are complex colloidal carbohydrate derivatives containing large proportions of anhydrogalacturonic acid units. Protopectin refers to the water insoluble parent pectic material that acts as a cementing agent, holding cells together. During ripening the protopectin is hydrolyzedto soluble pectinic acid and pectin which in part contributes to the softening of the fruit. The pectic substances are capable of forming gels. They contribute to the viscosity or body of the juice and often cause cloudiness, thus making the juice difficult to clarify. Pectin splitting enzymes are used to help with juice clarification.
+Organic Acids-Many organic acids are found in apples. These include: malic, citric, quinic glycolic, succinic, lactic, galacturonic and citramalic. Malic acid is the principal acid and citric and other acids are present in trace amounts. Table 2 lists the malic acid content of several apple varieties.
+Table 2.  Acid content of apples
+
+Variety 	Malic acid
+% 	Citric acid
+% 
+Crab 	1.02 	0.03 
+Delicious 	0.27 	nil 
+Grimes Golden 	0.72 	nil 
+Jonathan 	0.75 	nil 
+McIntosh 	0.78 	nil 
+Yellow Transparent 	0.78	nil 
+Yellow Transparent	0.97	0.02
+Source: Joslyn (1950)
+The acids are present as free or combined forms. The acidity is often expressed in terms of percent malic acid. The amount of acid varies with variety, maturity, location, and other conditions. Acidity is related to pH and high acidity is often associated with low pH and vice versa. During ripening the titratable acidity declines and the pH rises.
+Several studies have reported the malic acid content and the pH of the juice in apples. Table 3 shows the results of fruit composition reported by Clague and Feller (1936).
+Table 3. Composition of some New England varieties used for apple juice.
+
+Variety 	Specific
+Gravity 	Degrees
+Brix 	pH 	Malic
+Acid
+% 	Tannin
+% 
+Baldwin 	1.0499 	11.8 	3.5 	0.48 	0.06 
+Ben Davis 	1.0450 	11.5 	3.7 	0.43 	0.06 
+King 	1.0500 	12.9 	3.6 	0.53 	0.07 
+McIntosh 	1.0400 	11.5 	3.5 	0.48 	0.08 
+Northern Spy 	1.0452 	12.0 	3.4 	0.49 	0.08 
+Rhode Island Greening 	1.0450	12.0 	3.5 	0.47 	0.07
+Rosebury Russet 	1.0652 	16.0 	3.3 	0.67 	0.06 
+Wealthy 	1.0470 	12.4 	3.3 	0.61 	0.05 
+Source: Claque and Fellers (1936)
+The acid composition and pH of the juice are important considerations in winemaking. The acid content has an important bearing on taste, pH, fermentation, color, and stability of the wine.
+Volatile aroma compounds-Rich and complex apple aroma is crucial to the quality of apple wine. The aroma bearing constituents are present in small amounts (about 50 ppm) and can be easily lost during processing. To preserve the apple flavor the fruit must be processed with great care.
+Many constituents contribute to typical apple aroma. They belong to several classes of chemical compounds such as alcohols, esters, carbonyl compounds, and others. White (1950) reported the important constituents of apple flavor which are listed in Table 4.
+Table 4. Constituents of apple flavor.
+
+Alcohols
+(92%) 	Carbonyl
+compounds
+(6%) 	Esters
+(2%) 
+methyl alcohol	acetaldehyde 	ethyl butyrate 
+ethyl alcohol 	acetone 	ethyl butyrate 
+propyl alcohol 	caproaldehyde 	other esters 
+2-propanol 	2-hexenal 	 
+butyl alcohol 	 	 
+isobutyl alcohol 	 	 
+d-2 methyl-1-butomol 	 	 
+hexyl alcohol		
+Source: White (1950)
+In recent years many other aroma constituents have been isolated from several apple varieties. For example in Delicious apples the ripe aroma has been attributed to the presences of ethyl-2-methyl butyrate. The green and unripe odor is considered to be due to hexenal and 2-hexenal. It is important to note that certain aroma compounds can be present in small amounts and yet can exert great influence on the flavor.
+Astringent compounds-The astringent compounds in apples include phenolic substances and tannin. These constituents are responsible for astringency of flavor and darkening of color when sliced fruit or juice is exposed to air. The amount of phenolic substances in fruit varies with variety, maturity, location, and season.
+Generally they are present in the range of 0.11 to 0.34 of /100 g of fresh weight. The kinds of phenolic compounds present have been investigated by several workers. Hulme (1958) reported the following phenolic compounds in apple: leucoanthocyans, epicatechin, chlorogenic acid, isochlorogenic acid, quinic acid, shikimic acid, P coumaryl quinic acid, quercitrin, isoquercitrin, avicularin, rutin and quercetinxyloside. It is important to note that catechin and chlorogenic acid are involved in enzyme catalysed oxidative reactions.
+Nitrogenous compounds-Nitrogenous compounds such as proteins and amino acids are important constituents of fruit. The amino acid content of apples has been studied by many researchers. Burroughs (1957a) surveyed the amino acid contents of 20 varieties of cider apples. He observed that the soluble nitrogen content varied from 4 to 33 mg N/100 ml of juice. Asparagine was noted to be the chief amino acid in most of the varieties. Other prominent amino acids were aspartic and glutamic acids. In addition to the amino acids listed above, many others present in small amounts were also reported.
+The concentration of nitrogenous compounds and particularly free amino acids are important to the process of winemaking since they are needed to ensure a sound fermentation.
+Processing Apples for Juice
+Apples used for making wine should be sound, free of decay and rot and of overall good quality. A small amount of rot can give moldy and other off flavors. Proper maturity is another point that should be considered in processing apples. Unripe or immature fruit is higher in starch content and astringent material. As noted earlier, starch causes problems in juice clarification. Overripe apples are also not suitable for making good quality wine.
+Grinding-To prepare apples for grinding, they should be sorted to remove decayed fruit and washed to remove dirt and chemical residue. Various kinds of equipment are available for cleaning apples. The next step is to grind the apples into a pulp. A hammer mill is commonly used for grinding apples but other kinds of machines can also be used.
+Pressing-Crushed apples are pressed to extract the juice. Various types of presses are available in the market. The traditional method involves the use of a hydraulic press. In this method a rack is placed in the press rack, and then the cloth (usually nylon) is placed on the rack. The pulp is spread in a thin uniform layer on the cloth and the cloth is folded. Another rack is placed on top of the folded cloth and the process is repeated. Several layers of cloth (holding pulp) and racks are stacked and the pressure is applied to the stack to squeeze the juice. Initially the pressure is raised to about 500 to 700 psi. This releases free run juice. Following this the pressure is slowly raised to 2500 to 3000 psi to extract the remaining juice. To increase the yield and clarity of the juice, pressing aids such as diatomaceous earth or rice hulls may be used. The juice yield is usually in the range of 140 to 170 gal per ton. Factors such as variety, season, condition of fruit and the method of extraction affect the juice yield.
+Wineries lacking resources to make their own juice can obtain juice from an apple juice processor. It is important to give the processor some guidelines to ensure good quality apple juice.
+
+Preparing Juice for Fermentation
+Juice treatment-Fresh apple juice is very much susceptible to oxidation and browning. A decrease in delicate fruit flavor is often associated with browning of the juice. The oxidative reaction is enzyme catalyzed but it can also occur without the mediation of enzymes. As with grapes, the phenolic substances serve as substrates for oxidation and browning reactions. Sulfur dioxide can be added to prevent oxidation and browning, as well as to inhibit the growth of wild yeast and harmful bacteria. The amount commonly added is between 50 to 100 ppm. If the juice is to be held for a longer period to facilitate settling, a somewhat higher dose of S02 may be needed to delay the onset of fermentation.
+The freshly pressed apple juice is cloudy and contains suspended solids. These solids consist of cellular particles and colloidal material. To remove the nonsoluble solids, the juice is stored in a tank for a short duration. The solids settle at the bottom and form sediment. The relatively clear juice is siphoned off leaving sediment behind. Pectic enzymes should be used to improve the juice clarification. Pectic substances are high molecular weight colloids dispersed in the juice and are largely responsible for the juice turbidity. The enzymes hydrolyze the pectic compounds and render them soluble. Some colloids act as protective colloids and stabilize the haze. The enzymes can disrupt the protective colloid and allow the suspended particles to settle. Enzymes with various kinds of pectolytic activity are available on the market. In order to obtain the best results with respect to juice clarification, a trial using different enzyme preparations should be conducted. The action of enzymes depends on pH, temperature, concentration and the duration of reaction time. All these factors should be considered in choosing an enzyme treatment.
+Adjusting sugar and acid-Apple juice does not contain a sufficient amount of sugar to produce a table wine with an alcohol content of 10-12% by volume. Because of it, the regulation permits the addition of sugar or other sweetening materials, such as syrup or concentrate, to raise the sugar content to a desired level. The addition of sweetening material is also permitted to sweeten the wine, however; in no case should the volume resulting from the addition of all the sweetening material exceed 35% of the final volume of the wine.
+In order to produce well balanced wine, the must should contain a sufficient amount of acid. There are two important points that need to be considered here.
+
+Addition of sweetening material will dilute the acid level.
+In apple wine the acidity is expressed in terms of malic acid. This is different from grape wine where the acidity is expressed as tartaric
+acid. To convert the tartaric acid value to malic acid, simply multiply the tartaric acid value by a factor of 0.873.
+Probably the best way to ensure a sufficient level of acidity in must is to choose medium to high acid varieties in the blend to make the wine. For example, Delicious apples are low in acidity. These should be blended with high acid varieties such as Gravenstein and Jonathan.
+
+Fermentation
+Fermentation and post-fermentation processing of apple wine is somewhat similar to the production of white table wines. After S02 addition, clarification, and sweetening, the must is ready for fermentation. Various kinds of fermenters such as wood, plastic and stainless steel are available, however; stainless steel tanks with temperature control should be preferred to conduct fermentation. Temperature control during fermentation is crucial to the preservation of delicate fruit flavors in the resulting wine. The fermentation temperature commonly employed by the winemakers ranges between 50. to 70.F. Generally lower temperatures ranging from 55° to 60°F yield favorable results. Many strains of yeasts in dried and pure culture form are available to the winemaker. Champagne, Fermivin Chanson and other strains are commercially used. Generally Prise de Mousse (champagne yeast) yeast can be used to obtain a rapid and clean (no off odor) fermentation with good results. When using active dry wine yeast, proper rehydration procedures should be followed. To avoid fermentation problems, yeast nutrients such as diammonium phosphate and other commercial preparations, should be added to the must at the beginning of fermentation.
+
+At cooler fermentation temperatures (55° to 60°F), the must should reach dryness in two to three weeks. The completion of fermentation should be tested by analyzing wine for residual sugar content. Following the fermentation, the wine should be promptly racked off the lees, sulfited and stored in full containers.
+A sweet wine with residual sugar can be produced by stopping the fermentation. To arrest the fermentation the must should be chilled and the yeast should be removed by centrifuging or filtering the cold wine. The chilling temperature to be employed will depend on several factors. Favorable results have been obtained by lowering the must temperature to about 29°F. It is important to store the wine with residual sugar at cooler cellar temperatures until bottling.
+
+Post Fermentation Handling
+After completion of the fermentation, the wine is stabilized for heat unstable proteins and clarified. Bentonite is used to achieve protein stability and clarification. The amount of bentonite needed for the treatment should be determined by conducting a trial.
+Following bentonite treatment the wine should be fairly clear. To achieve further clarity, the wine should be filtered using DE and/or tight pad filtration. During wine transfer great care should be taken to prevent oxidation. Adequate levels of S02 should be maintained and the wine should be stored in completely full storage containers.
+The acidity in apples is primarily due to malic acid, which does not form a precipitate like acid in grapes. For this reason apple wine does not require cold stabilization. It is important to note that malic acid is not biologically stable. Lactic acid bacteria can metabolize it. In grape wine production, malolactic fermentation is sometimes encouraged to achieve biological stability in addition to acid reduction. In the case of apple wine, malolactic fermentation should be discouraged to preserve acidity and avoid wine spoilage by lactic acid bacteria. The pH of apple wine is generally higher, which makes the wine relatively more susceptible to attack by lactic acid and other bacteria. To avoid microbial spoilage, the wine should be processed under scrupulously clean and sanitary conditions. This means generous use of steam, hot water and cleaning and sterilizing chemicals during processing.
+Apple wine with rich and delicate flavor can be prepared for the market after a short aging period of two to four months. Winemakers sometimes age wine in oak barrels for four to six months to make a dry white wine with complex fruit and oak flavors.
+Bottling is the final step in the finishing operation. Dry wine is generally polish filtered, S02 adjusted and receives membrane filtration prior to bottling. Sweet wine can be bottled using sterile filtration. However many wineries are not equipped to sterile filter and bottle wine. In such cases, sorbic acid in appropriate amounts should be added before final filtration and bottling.
+A well made apple wine can be a delightful beverage and a good product for many wineries enabling them to improve the cash flow.
+References

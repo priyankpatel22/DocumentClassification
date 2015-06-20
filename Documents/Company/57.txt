@@ -1,0 +1,88 @@
+ First debuted in June of this year, Yosemite has now been updated to version 10.10.1. Here's all you need to know about Apple's latest operating system, and how it works with existing iDevices.
+With iOS 8 and Yosemite, you can send SMS text messages from your desktop. Photo: Apple
+
+By Curtis Moldrich
+
+10:00AM GMT 18 Nov 2014
+
+CommentsComments
+
+After redesigning its mobile software and releasing new iPhones and iPads, Apple has once again turned its attention to the desktop. Released in mid-October and updated again today, Yosemite is available for free download, and brings in a range of new features and connectivity to other Apple devices.
+
+When’s it out?
+
+OS X Yosemite v10.10.1 is out now, and available to download from the Mac App Store.
+
+Related Articles
+
+    What is Apple's Touch ID and how does it work?
+    16 Oct 2014
+
+    Is the iPhone 6 Plus too big?
+    10 Sep 2014
+
+    iOS 8 vs Android 4.4 Kitkat: the key differences
+    10 Sep 2014
+
+    When can I buy the iPhone 6?
+    09 Sep 2014
+
+    Buying a new iPhone? Here's what to do with your old one
+    10 Sep 2014
+
+    How to install iOS 8
+    17 Sep 2014
+
+How much will it cost?
+
+Like Apple's last update, Mac OS X Mavericks, Yosemite is available to download for free. Apple iOS 8.1 is also a free upgrade, and both updates require you to back up your devices first.
+
+What does it look like?
+
+The outward appearance of Yosemite represents a complete overhaul for OS X, similar to the one that iOS 7 brought to the iPhone and iPad. The skeuomorphic design touches of Mavericks and its predecssors have been replaced by clean lines and translucent windows, showing a move towards the equally minimal design of iOS 8.1.
+
+Key features: what it can do?
+
+• Upgraded notification centre
+
+Heavily influenced by the user interface of iOS 8, Yosemite features an all-new notification centre. Much like iOS 8, swiping from the right hand side of your trackpad will now bring up a Today view, complete with all your engagements for the day, as well as the weather. Replacing the Dashboard screen, Yosemite now lets you add widgets into your notification centre, once again echoing the look and workflow of its mobile counterpart.
+
+• Super Spotlight
+
+The release of iOS 8 saw Spotlight gain unprecedented power, with your searches pulling in information from both your mobile device and the internet. Yosemite brings similar power to the desktop, offering results from across the web alongside ones from your hard drive. As a result, Yosemite's upgraded Spotlight could become the only search window you ever use.
+
+• Streamlined Safari
+
+The latest iteration of Apple's web browser shows more of the net than ever before, with a new, slimline toolbar. Thanks to the decluttered design, the address bar is front and centre, and even features more powerful, Spotlight intergrated searching. Despite the new look, Favourites haven't disappeared altogether: clicking the search bar will reveal a pane of your favourite sites - much like on iOS 8. Safari also packs in native support for Netflix and improves effciency elsewhere, so it's possible to squeeze in an additional 2-3 hours of surfing compared to other browsers.
+
+• Mega Mail
+
+As well as a cleaner, more intuitive interface, Apple Mail now also allows users to send email attachements of up to 5Gb in size. Thanks to Mail Drop, adding large attachments is as simple as dragging files over to your email.
+
+• Family Sharing
+
+After growing controversy due to In App Purchasing, Apple have increased the amount of parental control in Yosemite. It's now possible to create Apple IDs for younger children from your desktop, and approve or decline any of their purchases remotely.
+
+• Improved AirDrop
+
+Another feature that helps bridge your mobile and desktop worlds, AirDrop gets a much needed upgrade in Yosemite. Instead of being limited to desktop to desktop and mobile to mobile transfers, the latest version of AirDrop allows you to transfer files between your Mac and iOS 8.1 iDevice. Just make sure Wi-Fi and Bluetooth are enabled on both.
+
+• iCloud Drive
+
+Taking on other cloud storage solutions such as Dropbox, iCloud now allows you to easily see and manage your content on the cloud. No longer hidden away in each application, your iCloud space now appears much like a extra drive in Finder. From there it's possible to manage your own content as you see fit.
+
+• Handoff
+
+One of the most exciting new features for iOS 8 and Yosemite, Handoff brings a new level of productivity across your Apple devices. Allowing you to work on a document on one device, and continue where you left off on another, Handoff uses the power of iCloud to make it even easier to work across devices. Now open to developers, Handoff is already available for most Apple applications like Mail, Safari, Pages and Numbers - so you can put the finishing touches on your iPhone to an email you started on your mac.
+
+• Calls
+
+With iOS 8 and Mavericks, you’re now able to make answer and make calls on your Mac, all without picking up your iPhone. As long as your phone and Mac are connected to the same wi-fi network, any incoming calls to your iPhone will be marked with a notification on your Apple desktop. Complete with the contact’s name and profile picture, you can answer calls with a click - even if your iPhone’s charging in another room. Making calls is just as easy, and you only need to click on a contact to start a phone call.
+
+• Messages
+
+Yosemite and iOS 8 now make it possible to answer and receive any text message on your desktop. Previously restricted to Apple iMessages just from other iDevices, the Messages desktop app is now able to send and receive SMS text messages - letting you text any mobile phone from your desktop. Much like on an iPhone, SMS text messages are displayed in green.
+
+• Hotspots
+
+If you’re not near a wi-fi connection, Yosemite and iOS 8 make tethering an even easier process. As long as your iPhone is within range, it’s possible to use your iPhone's cellular signal to access the internet on your Mac via 3G or 4G. You’re also able to see your iPhone’s battery life, network signal and other important stats.

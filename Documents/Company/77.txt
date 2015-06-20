@@ -1,0 +1,75 @@
+How To Jailbreak iOS 8.1 Untethered Using Pangu8
+By Ben Reid | October 31st, 2014
+Advertisements
+
+The Pangu team has delivered an untethered iOS 8 – 8.1 jailbreak when we least expected it. Having surprised us with the impromptu jailbreak for iOS 7.1.x, the Chinese team has come through with another solution for the all-new iOS 8.x. As mentioned in our initial coverage, dubbed as Pangu8, it works with iOS 8.0 all the way through to the latest iOS 8.1, and below, we’ll be showing you how to jailbreak your device using the tool.
+
+The updated Pangu now includes Cydia as well. The following guide will help you jailbreak your iOS device on iOS 8.x and install Cydia on it.
+
+Pangu jailbreak ios 8 81
+
+Before you jailbreak, it is important to note:
+
+    Before jailbreaking, you must turn off any lock screen passcode or Touch ID (Settings > General > Touch ID & Passcode > turn off Simple Passcode) as well as Find My iPhone (Settings > iCloud > Find my iPhone), and naturally, your device will need to have spare storage space in order to run Pangu in the first place. Passcode and Touch ID can be turned on after the jailbreak and Cydia installation is complete.
+    Turn on Airplane mode. Airplane mode can be turned off once jailbreak is complete.
+    You must have an iTunes restored version of iOS 8 / 8.1 installed on your device for the jailbreak to work. If you updated from iOS 7.x to 8.x via OTA then the jailbreak won’t work. You can download iOS 8.1 from here, and restore using iTunes.
+    Make sure you backup your device completely before proceeding either through iTunes or using iCloud (Settings > iCloud > Storage & Backup and turn on iCloud Backup). At this stage, there’s a reasonable chance that something may go wrong, and while many of you will undoubtedly be prepared to take this chance, you don’t want to lose your data for good.
+    You must have iTunes 12.0.1 or later installed on your PC before you can even begin. But that’s not it; it should also be running in the background when the jailbreak process is taking place.
+    Supported devices:
+        iPhone 6
+        iPhone 6 Plus
+        iPhone 5s
+        iPhone 5c
+        iPhone 5
+        iPhone 4s
+        iPad (2, 3, 4, Air, Air 2, mini 1, mini 2, mini 3)
+        iPod touch 5
+    Supported firmwares:
+        8.0
+        8.0.1
+        8.0.2
+        8.1
+
+Given that it supports the latest iOS 8.1, we’d recommend updating prior to following this tutorial.
+
+As we noted before, the tool only works on Windows, OS X version will be out at a later date.
+
+How To Jailbreak iOS 8 / 8.1 Untethered Using Pangu
+
+Step 1: Download Pangu for Windows from here.
+
+Step 2: Right-click on the Pangu icon and then click on Run as Administrator.
+
+Step 3: With Pangu up and running, connect your iPhone, iPad or iPod touch to your PC using USB.
+
+Step 4: Click on the big ‘Start Jailbreak’ button in the center of the display, followed by ‘Already did’ on the next screen to begin the jailbreak process. Your device will reboot couple of times during the process so be patient.
+
+Capture
+
+Step 5: Once the Pangu tool says ‘Jailbreak succeeded’, that’s it. It’s done, you will find Pangu app along with Cydia app icon on the home screen. Simply run Cydia and start installing your favorite tweaks!
+
+iOS 8 Cydia (3)
+
+Already jailbroken using older Pangu 1.0.1 without Cydia bundled?
+
+If you used an earlier version of Pangu that didn’t include Cydia as part of jailbreak process, you don’t need to re-jailbreak it. To install Cydia, simply run the Pangu app from your home screen.
+
+39
+
+Tap on ‘Install Cydia’.
+
+iOS 8 Cydia (1)
+
+Now tap on ‘Install’ found in top right corner of the screen to begin installing Cydia.
+
+iOS 8 Cydia (2)
+
+After reboot/respring, you will have latest Cydia on your iOS device.
+
+Update: Mac user? Pangu for Mac OS X is now available, follow the jailbreak guide here:
+
+    How To Jailbreak iOS 8.1 Using Pangu For Mac OS X [Guide]
+
+You may also like to check out:
+
+    Jailbreak iOS 8 And iOS 8.1 With Pangu On iPhone 6, 6 Plus, 5s, iPad, More [Updated]

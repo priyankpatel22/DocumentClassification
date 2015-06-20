@@ -1,0 +1,153 @@
+Classification of Apple Size and Shape Based on Mass and Outer Dimensions
+Fereydoun Keshavarzpour and Majid Rashidi
+Department of Agriculture, Shahre-Rey Branch,
+Islamic Azad University, Tehran, Iran
+Abstract: Fruit size and shape are the most important quality parameters. Moreover, misshapen fruits are
+usually rejected according to sorting standards. This study was conducted to determine quantitative
+classification algorithm for apple size and shape. To reach objective and reproducible results, mass and outer
+dimensions (height and diameter) of apple were measured and an assessment based on mass and outer
+dimensions was proposed. Results of the study showed that mass and aspect ratio (height to diameter ratio)
+of apple can be used successfully to classify apple size and shape.
+Key words: Apple Sorting Grading Shape Mass Outer dimensions
+INTRODUCTION Physical and geometrical properties of frits are
+The apple is the pomaceous fruit of the apple tree, systems. Among these properties, mass and outer
+species Malus domestica in the rose family (Rosaceae). It dimensions are the most important ones [1, 3, 12]. The
+is one of the most widely cultivated tree fruits. There are official quality definitions for sorting fruits are hardly
+more than 7500 known cultivars of apples [1]. At least 55 more than a measure on size and shape. Most sorting
+million tones of apples were grown worldwide in 2005, standards specify size and shape based on visual
+with a value of about $10 billion. China produced about comparison of size and shape relative to reference
+35% of this total. The United States is the second-leading drawings. These drawings serve as references in
+producer, with more than 7.5% of world production. Iran classifying size and shape [4]. Although ratings based on
+is third, followed by Turkey, Russia, Italy and India [2]. visual comparison do not require any equipment, the
+Iranian apple are not exported because of variance in size method is subjective and may depend on person
+and shape and lack of proper packaging [3]. executing the rating. Moreover, rating scores may be
+Similar to other fruits, apple size and shape are the biased by confusing variables such as size or shape
+most important quality parameters. Consumers prefer [5]. Substitute approaches describe size and shape
+fruits of equal size and shape [4, 5]. Sorting can increase using indices calculated from physical and geometrical
+uniformity in size and shape, reduce packaging and properties of fruits. Since such approaches are based
+transportation costs and also may provide an optimum on direct measurement, they are objective and
+packaging configuration [6]. Moreover, sorting is reproducible. In addition, necessary measurements can
+important in meeting quality standards, increasing market be performed easily and no complicated equipment is
+value and marketing operations [7]. Sorting manually is needed [6]. Accordingly, the present study was
+associated with high labor costs in addition to conducted to develop a fast procedure that permits an
+subjectivity, tediousness and inconsistency which un-biased and reproducible quantitative description of
+lower the quality of sorting [8]. However, replacing apple size and shape based on mass and outer
+human with a machine may still be questionable where the dimensions.
+labor cost is comparable with the sorting equipment [9].
+Studies on sorting in recent years have focused on MATERIALS AND METHODS
+automated sorting strategies and eliminating human
+efforts to provide more efficient and accurate sorting Experimental Procedure: One of the commercial varieties
+systems which improve the classification success or of apple in Iran, i.e. Damavandi (Fig. 1) was considered for
+speed up the classification process [10, 11]. this study. One hundred and fifteen randomly selected
+the most important parameters in design of sortingAm-Euras. J. Agric. & Environ. Sci., 9 (6): 618-621, 2010
+619
+Fig. 1: Apple (Damavandi variety)
+Table 1: The mean value, standard deviation (S.D.) and coefficient of
+variation (C.V.) of some physical and geometrical properties of the
+115 randomly selected apples
+Parameter Minimum Maximum Mean S.D. C.V. (%)
+Mass, g 83.0 156.0 122.6 19.2 15.7
+Height, cm 5.00 7.00 6.12 0.39 6.43
+Diameter, cm 5.35 6.85 6.20 0.36 5.77
+Aspect ratio 0.84 1.12 0.99 0.05 5.10
+apples of various sizes were purchased from an orchard
+located in Damavand, Iran. Apples were selected for
+defects by careful visual inspection, transferred to the
+laboratory and held at 5±1 C and 90±5% relative humidity
+until experimental procedure. In order to obtain required
+parameters for apple size and shape detection algorithm,
+the mass of each apple was measured to 1.0 g accuracy on
+a digital balance. By assuming the general shape of apple
+as an oblate spheroid, the outer dimensions of each apple,
+i.e. height (H) and diameter (D) was measured to 0.1 cm
+accuracy by a digital caliper. Table 1 shows some physical
+and geometrical properties of the 115 randomly selected
+apples.
+Size Detection: Primary investigation indicated that three
+apple sizes, i.e. small (misshapen), medium (normal) and
+large (normal) were detectable and separable in the
+samples.
+Shape Detection: An easy technique of judging based on
+analysis of outer dimensions of apple was used for
+detecting shape of apple. Aspect ratio was used to detect
+oblate spheroid (misshapen), spheroid (normal) and
+oblong spheroid (misshapen) apples. Aspect ratio is
+defined by equation 1 [4-6, 12].
+A.R. = H / D, (A.R. = 1.0) (1)
+Where:
+A.R. = Aspect ratio, dimensionless
+H = Height of apple, cm
+D = Diameter of apple, cm
+For mathematical describing of apple size and shape,
+mass and aspect ratio of apples were subjected to
+statistical analysis using the Microsoft Office Excel
+(Version 7.0 - 2003).
+RESULTS
+Small, Medium and Large Sizes: Mass of medium size
+apples ranged from 100 g to 140 g, while mass of small size
+apples were less than or equal to 100 g and mass of large
+size apples were more than or equal to 140 g. Therefore,
+the mass lines 100 g and 140 g can separate medium size
+apples from small size and large size apples as shown in
+Fig. 2.
+Oblate Spheroid, Spheroid and Oblong Spheroid Shapes:
+Aspect ratio of spheroid shape apples ranged from 0.95 to
+1.05, while aspect ratio of oblong spheroid shape apples
+were more than or equal to 1.05 and aspect ratio of oblate
+shape apples were less than or equal to 0.95. As a result,
+the aspect ratio lines 0.95 and 1.05 can separate spheroid
+shape apples from oblate spheroid shape and oblong
+spheroid shape apples as indicated in Fig. 2.
+Normal and Misshapen Apples: Among nine “size and
+shape” combinations (three sizes × three shapes);
+samples with “normal size” × “normal shape” (two
+combinations) were considered as normal apples. Apples
+with other combinations (seven combinations) were
+considered as misshapen apples. Fig. 2 shows the mass
+lines 100 g and 140 g in association with the aspect ratio
+lines 0.95 and 1.05 can separate normal apples (two green
+regions) from misshapen apples (seven white regions).
+DISCUSSION
+In this study, mass and outer dimensions (height and
+diameter) of apples were analyzed to classify apples size
+and shape. Results of study indicated that three sizes,
+three shapes and consequently nine “size and shape”
+combinations were detectable and separable in the apples.
+Results of study also showed that among three sizes,
+frequency of medium apples was the highest (60.8%),
+while frequency of small apples was the lowest (17.4%).Am-Euras. J. Agric. & Environ. Sci., 9 (6): 618-621, 2010
+620
+Table 2: Size, mass range, shape, aspect ratio range, description and frequency of the 115 randomly selected apples
+Size Mass range (g) Shape Aspect ratio range Description Frequency (%)
+Small 100 Oblate spheroid 0.95 Misshapen 2.60
+Spheroid 0.95 – 1.05 Misshapen 11.3
+Oblong spheroid 1.05 Misshapen 3.50
+Medium 100 - 140 Oblate spheroid 0.95 Misshapen 15.7
+Spheroid 0.95 – 1.05 Normal 39.0
+Oblong spheroid 1.05 Misshapen 6.10
+Large 140 Oblate spheroid 0.95 Misshapen 3.50
+Spheroid 0.95 – 1.05 Normal 15.7
+Oblong spheroid 1.05 Misshapen 2.60
+Fig. 2: Aspect ratio versus mass; green and white
+regions show normal and misshapen apples,
+respectively
+Frequency of large apples was 21.8%. Besides, among
+three shapes, frequency of spheroid apples was the
+highest (66.0%), while frequency of oblong spheroid
+apples was the lowest (12.2%). Frequency of oblate
+spheroid apples was 21.8%. Moreover, frequencies of
+normal and misshapen apples were 54.7% and 45.3%,
+respectively (Table 2). These results are in agreement with
+those of Rashidi & Seyfi [4], Rashidi & Gholami [5] and
+Sadrnia et al. [6] who concluded that physical and
+geometrical properties of fruit can be used to determine
+normal and misshapen fruit.
+CONCLUSION
+It can be concluded that mass and aspect ratio of
+apple can be used to classify normal and misshapen
+apple.
+ACKNOWLEDGMENT
+The authors are very much grateful to the
+“Shahre-rey Branch, Islamic Azad University, Tehran,
+Iran” for giving all type of support in publishing this
+study.

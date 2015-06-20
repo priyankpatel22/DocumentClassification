@@ -1,0 +1,236 @@
+Update: The iOS 8.1.1 is available to download today. Here's an explainer of all iOS 8 features.
+
+Apple's all-important iOS 8.1.1 update is available to download today with new features that fix iOS 8 and round out the flat iOS 7 design, even if you don't upgrade to iPhone 6 and iPhone 6 Plus.
+
+As we mentioned in our full iOS 8 review, instead of a dramatic redesign, this year's mobile operating system update ties everything together with the overarching theme of "convergence."
+
+In October, iOS 8.1 released with features like tighter Mac OS X Yosemite integration while further loosening the restrictions on Apple's Touch ID fingerprint sensor for the same-day Apple Pay launch.
+
+New software kits also bring once fragmented health gadgets together, something that this year's "one more thing" surprise, the Apple Watch, will take advantage of in early 2015.
+
+Cut to the chase
+What is it? The next iteration of Apple's mobile platform
+When is it out? Download iOS 8.1.1 today
+What does it cost? iOS 8 is free download
+Compatibility
+
+When it comes to iOS 8.1.1 and iOS 8 compatibility, Apple requires an iPhone 4S or newer and iPad 2 or newer to update to the latest software. Only the iPhone 4 is cut from the list.
+
+Both the iPads mini and iPad mini 2 tablets and the forever alone iPod touch 5th generation also work with the new iOS, just like they did with iOS 7. No one besides 2010's iPhone 4 gets left behind.
+
+iOS 8 release compatibilityiOS 8 works on almost as many devices as iOS 7
+
+That's not to say that every device worked flawlessly from the beginning. iOS 8 had been running slowly on the iPhone 4S and iPad 2 given the older hardware specs.
+
+That was until iOS 8.1.1 came out in November. Release notes detail a minor update, but one that give these two older devices a much-needed performance bump.
+iOS 8.1 updates fixes problems
+
+iOS 8.1, and now more precisely iOS 8.1.1, fixes those nasty WiFi and battery drain problems that resulted in a lot of negative "feedback" for Apple.
+
+It also introduces Apple Pay to iPhone 6 and iPhone 6 Plus owners. Now you can link up for credit or debit card to Apple's digital wallet if your bank is one of the 500 that support the NFC-like feature.
+
+iOS 8.1 updateiOS 8.1 update brings Apple Pay and, better yet, WiFi fixes
+
+OS X Yosemite gets the most out of iOS 8.1 thanks to the new Continuity feature. Mac computers can now send and receive phone calls, texts and AirDrops from Apple mobile devices.
+
+This is a major upgrade over iOS 8.0.2 and iOS 8.0.1. Yes, they populated the App Store with fitness and nutrition apps that tie into Apple's Health app, but it was of no use if they broke your phone.
+Touch ID for all
+
+Apple's fingerprint scanner has been limited to bypassing the lockscreen and buying iTunes Store content, but iOS 8 changes all of that as app developers get access to the five-digit login tool.
+
+All sorts of apps can use the biometric scanning home button instead of pesky passwords. It only applies to the Touch ID-enabled iPhone 5S, iPhone 6 and iPhone 6 Plus. But the iPad Air 2 and iPad mini 3 are rumored to include the sensor.
+
+iOS 8 Touch ID updateForgetting your password may be a thing of the past
+
+At WWDC, personal financial management Mint.com illustrated how third-party Touch ID use will expand beyond its iOS 7 lockscreen and iTunes confines. 1Password uses the same home button authentication the easier password management.
+
+PayPal sent its developers to Apple's Touch ID session at the conference, meaning all of your eBay and e-commerce transactions may be complete with the touch of the home button when upgrading to iOS 8.
+
+While PayPal doesn't think highly of Apple Pay, the iPhone 6 and iPhone 6 Plus digital wallet idea is likely to be ready for iOS 8.1 in October in the US and in 2015 in the UK.
+
+In due time, "Forget password" will become a thing of the past, replaced by the pores in your fingertips. It should act as a much more unique method of protecting your valuable data.
+
+This Touch ID convenience is on top of the fact that iOS 8 Apple Pay system of scanning credit cards via an iPhone or iPad camera and automatically filling in the details to make shopping easier.
+
+Of course, Apple went out of its way to say that even though you trust many app developers with your bank account data, they won't have access to your biometric information. It's locked away in the A7 and new A8 processor.
+iOS 8 camera time-lapse mode
+
+Believe it or not, the iPhone is consistently the most used camera in the world. It's in so many hands and so easy to use. In iOS 8, the camera app is going to get even better.
+
+Apple added a time-lapse camera mode to iOS 8 beta 1 in order to help users capture extended moments and automatically speed up the video with a higher frame rate. It's a stripped-down rival to Hyperlapse.
+
+Condensing everything road trips to candles burning down to their wick to just a few seconds in demoed in the YouTube video above.
+
+iOS 8's time-lapse mode is basically the opposite of the slow motion video recording option at 120 frames per second that Apple added to iOS 7 last year and Slow Mo 240fps in iPhone 6 and 6 Plus.
+SMS and phone calls on Mac
+
+iMessages has been a wonderful cross-compatible tool for chatting on iOS devices and Macs - at least until you try to leave your iPhone behind for an Android.
+
+iOS 8 iMessages for iPad and MaciOS 8 SMS messages will finally appear on your iPad and Mac computer
+
+Apple deserters, however, may be lured back to iOS 8 with SMS and voice calls being folded into iPads and Macs, just like blue iMessages currently pop up on Apple tablets and computers.
+
+It's a pain to have to fetch your phone for a single SMS from an Android user, especially when you're sitting in front of a 13-inch MacBook Air screen and full keyboard capable of handling simple texts and phone calls.
+
+iOS 8 phone calls on tablet and MacIncoming phone calls can be answered on the tablet or computer too
+
+Of course, enabling text messages and phone calls to a Mac requires upgrading OS X Yosemite, but that's a piece of cake since it'll be free today and iOS 8.1 come out on Monday.
+Handoff and WiFi hotspot
+
+iOS 8 and OS X Yosemite are going to be joined at the hip with the Handoff feature that lets you pick up where you left off between devices.
+
+Starting a project or email on an iPad or iPhone will let you finish the task on a Mac with no annoying overlap. There's no need to reopen windows or rewrite text on the computer. And it goes the other way, too, from a Mac to a an iOS 8 device.
+
+iOS 8 handoff featureFinish that email on the computer or on the road seamlessly
+
+What if you don't have access to the internet on your computer or iPad to get the job done? That's where the Instant HotSpot feature will come into play, easing the messy personal hotspot setup of iOS 7.
+
+The one problem with this joint iOS 8-Yosemite feature is that it may require you to own a fairly new Mac. Handoff has been tipped to be not be compatible with Apple computers that pre-date Bluetooth 4.0.
+
+Group messages with voice and video
+
+Group messages is also enhanced for iOS 8 thanks to new features. You're able to add and drop people from conversations and silence non-stop incoming message annoyances via a group-specific Do Not Disturb toggle.
+
+Sharing your current location on a map one time or persistent location for a set period of time is also a part of iMessages, tying in the concept from Apple's underused Friend My Friends app.
+
+iOS messages location sharingSharing your location with friends is great for big, crowded outings. Never again say 'I'm my this big tent thing. Do you see me? No? It's big. And a tent.'
+
+Location sharing, when it was part of the standalone app, was ideal for meeting up in a crowded location like a baseball stadium or concert, and now it'll get more use within iMessages.
+
+Multimedia within iOS 8's iMessages app should be more useful too. Inline voice and video messages with Snapchat-like clips that self-destruct are coming to this mobile OS update.
+Interactive notifications
+
+For the times when you do actually respond to texts and calendar reminders on your phone instead of a Mac computer, iOS 8 adds convenient interactive notifications.
+
+iOS 8 interactive notificationsRespond with an 'On my way' lie, reply with an excuse to get out of dinner, snooze on picking up James - all from the lockscreen
+
+Like OS X Mavericks, these notifications can be dealt with in a few simple taps thanks to inline responses. There's no need to mess with the lock screen in order to take action right away.
+
+iOS notifications have come a long way from taking up the entire middle of our phone screens, and iOS 8 makes them feel like even less of a nuisance.
+Quicktype keyboard
+
+Apple claims its iOS 8 keyboard is its "smartest keyboard ever," and there's no reason to doubt that since its Quicktype feature adds highly-requested predictive texting that's akin to SwiftKey and Swype.
+
+The candidate row appears above the keyboard with three word-finishing suggestions and then next-word best guesses. It even varies depending on the app that's open to match your tone for each, from casual iMessages to formal emails.
+
+iOS 8 quicktype vs SwypeApple's Quicktype (left) finally offers suggestions, while Swype (right) does all that and more
+
+If someone asks you a question, Quicktype also automatically offers choices like "Yes" and "No" and, optionally, learns your contacts to spell everyone's name correctly.
+
+Better yet, the more-open-than-ever Apple doesn't limit users to its pre-installed keyboard via developer "extensions."
+iOS 8 extensions
+
+Extensions open up iOS 8 to Android's best input methods: Swype is here and SwiftKey breaks free of its SwiftKey Note standalone app confines. Fleksy and Minuum also give you control over keyboard sizes.
+
+Other third-party extensions let users tinker with the default sharing options, photo editing tools, custom actions and notification center widgets.
+
+iOS 8 featuresThe 1Password extension makes it simple with Touch ID
+
+The 1Password extension goes as far as opening up the company's powerful password manager to you without the need to exit the app to open its standalone app. It simply uses Touch ID to get the job done.
+
+Before, you had to close the app that required a password you forgot, open up 1Password's standalone app, copy the password, go back into the original app and paste in the password.
+
+There's always a lot of potential when a platform as large as Apple's opens up its ecosystem to outside developers. Look at what it did to the App Store.
+
+Extensions by forward-thinking developers may be long overdue, but it'll finally be here thanks to iOS 8.
+iCloud may actually be useful
+
+Prior to today, there was very little reason to use the ridiculously small 5GB of free space Apple included with iCloud. It was always easier to use a more capable and less expensive Dropbox account.
+
+That all changes when iOS 8 launches alongside iCloud Drive, Apple's new rival to Google Drive, Dropbox, Box, Microsoft OneDrive and the dozens of other file-sharing services.
+
+iOS 8 iCloud featureFiles in your iPad. Just don't expect music. You go to iTunes for that! Bring money!
+
+It still costs money over the 5GB limit, but at least more file types can be stored and synced. This includes documents, presentations, spreadsheets, PDFs and images. Plus it's the best method of backing up your iPhone and iPad.
+
+What's really cool about the forthcoming iCloud-enabled iOS Photos app is that every picture and every edit is saved across all of your Apple devices automatically. Better yet, there are new tools and filters in iOS 8 and it'll work on the web.
+iOS 8 Family Sharing
+
+Maybe you'll be more willing to buy into iCloud Drive knowing that you're going to save money thanks to Apple's new Family Sharing feature that's part of iOS 8.
+
+All iTunes, iBooks and App Store purchases on the same credit card can be shared among a total of six people in your family. That beats having to sneakily exchange passwords.
+
+iOS 8 release date family sharing featureYou share genes, so why not iTunes content?
+
+New parental controls force kids to ask your permission before aimlessly downloading expensive apps. This "Ask to Buy" feature beams a message to your device, so you don't need to be the fun-depriving "bad guy" in person.
+
+Other Family Sharing perks include collaborative photo albums, calendars and optional locating sharing. You can find your mom or dad and that iPhone they always misplace with this extension of Find My Friends and Find My iPhone.
+'Send Last Location' for Find My iPhone
+
+iOS 8 expands the geolocation capabilities of Find My iPhone with Family Sharing and Find My Friends by integrating it into iMessages, but in true Apple fashion, "that's not all."
+
+A "Send Last Location" feature is being added so that your GPS coordinates are backed up to iCloud whenever your battery life is critical.
+
+iOS 8 Find My iPhone feature Send Last LocationA new iOS 8 setting for when your iPhone or iPad battery is critical
+
+Right before your iPhone or iPad battery shuts off, the last thing the device does is pinpoint where you left it, whether it's between the couch cushions or still in the car.
+
+This handy iOS 8 setting joins the real-time tracking, sonar-like ringing, message sending, device locking and, as a last resort, iPhone-wiping features of Find My iPhone.
+Health app
+
+Apple didn't announce an iWatch-tied Healthbook app at WWDC, but it did unveil a more plainly named Health app and the developer-focused HealthKit API.
+
+It's intended to bring together all of the fragmented health and fitness gadgets into one secure location, whether the fitness device deals with your heart rate, calories burned, blood sugar and cholesterol.
+
+iOS 8 health appTrack calories burned, sleep, nutrition and more with the Health app
+
+Even without a separate fitness device, Apple's M8 and M7 co-processor calculates steps and distance traveled. There's also nutritional tracking and, for extra protection, there's an emergency Medical ID card accessible from the lock screen.
+
+Jawbone Up, Withings and other fitness firms are on board with iOS Health in order to deposit their stats into the centralized app, though Fitbit has so far refused Apple's advances.
+
+The more that existing products like the Fitbit Force and Jawbone Up24 join this initiative, the more iOS 8 users will find this to be the health equivalent to Apple's coupon and ticket stub-collecting Passbook.
+HomeKit
+
+Apple also plans to tie together smart home electronics with its HomeKit framework for connected devices so that you control everything without getting up off the couch.
+
+iOS 8 smart homeEverything but Nest was mentioned, of course
+
+Locking doors, turning off lights, adjusting the thermostat and shutting the garage won't even require tapping your iPhone touchscreen, it turns out.
+
+Instead, these actions can be triggered with Siri voice commands as simple as saying "Siri, I'm going to bed" in order for the computerized assistant to put you into something of a human "safe mode." We're still waiting for Apple to see this feature through post-iOS 8 launch.
+Siri and Spotlight updates
+
+Siri does more than look after the house and save you on your electricity bill. Apple's voice assistant is going to start responding to "Hey Siri" if your iOS 8 device is plugged in.
+
+This safer, hands-free way of activating Siri is joined by the service's ability to identify songs using Shazam's recognition software, purchase iTunes content and recognize up to 22 languages.
+
+iOS 8 Siri updateSearch, whether it's by voice or spotlight, is faster than ever
+
+Siri is also going to become a better listener with iOS 8 thanks to streaming voice recognition. Now the wavy lines and words that appear on screen will match what you're saying in near-real-time.
+
+When voice search isn't feasible in a loud environment, you can turn to the more reliable iOS 8 Spotlight. Like its OS X Yosemite counterpart, it searches Wikipedia, the news, nearby places, the App Store and more.
+
+Finding things, whether it's via Siri or Spotlight, shouldn't be a problem in iOS 8, as Apple is finally taking on Google's handy voice search.
+Location-based lock screen apps
+
+If you're anything like us you have hundreds of apps, but finding the right one at the right time can sometimes mean sifting through folders and that's if you even remember it exists. But with iOS 8 certain apps will appear in the bottom left corner of the lock screen based on where you are at a particular time.
+
+lock screen apps
+
+Early examples people have found include apps for the Apple Store, Starbucks and train stations, when near each of those things. You can then get quick access to those apps by simply swiping them upwards.
+
+It seems that it can also make you aware of new apps as sometimes the icon will be for an app that you don't have and will instead take you to its page on the App Store. It's a minor feature perhaps, but one which could save time and help users make purchases and access location-specific information.
+iOS 8 split-screen mode in the code
+
+Apple didn't announce the rumored split-screen functionality when introducing iOS 8 in June, but it may be saving the unveiling as a "One more thing" for iOS 8.1 future firmware updates.
+
+iOS 8 beta 3 code points to true multitasking on an iPad, according to leaks from developers. Apps can run side-by-side in 1/4, 1/2 and 3/4 sizes.
+
+iOS 8 split screen modeOh snap mode! I'll be able to read TechRadar and GamesRadar at the same time!
+
+There's no telling whether or not a split-screen mode will end up in iOS 8 eventually, but Apple certainly appears to be toying with the big idea given the new iPhone 6 sizes.
+
+After all, its competitors have had the feature up-and-running for some time. The Samsung Galaxy Tab S has multi-window mode and Microsoft Surface 3 has snap mode. Like copy-and-paste a few years ago, iOS users are left envying others.
+Features being saved for iOS 9?
+
+There's a lot going on with iOS 8, but chief among the changes Apple failed to implement officially is true split-screen multitasking, which Samsung and LG have offered on their Android tablets and larger phones.
+
+Public transit directions via Apple Maps is missing in action as well, and Google Maps is benefiting the most from this. Hopefully its implementation was delayed to iOS 8.1 instead of next year's iOS 9.
+
+Apps for photo previews and a TextEdit application, also previously rumored for WWDC 2014, didn't make an appearance either, and the status of Game Center is still unknown. Apple hasn't killed it off just yet.
+
+That's every single new feature of this year's iOS update, though some features are waiting for you to download iOS 8.1 on Monday and Mac OS X Yosemite later today.
+
+Coupled with iPhone 6, iPhone 6 Plus and Apple Watch, iOS 8 is enough to keep Apple users from defecting to Android, even with those fancy, new Android Wear watches like Moto 360 already launched.
+
+    What's the difference? Our iOS 8 vs Android L comparison

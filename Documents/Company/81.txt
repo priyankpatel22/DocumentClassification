@@ -1,0 +1,50 @@
+
+Will Apple's Tacky Software-Design Philosophy Cause A Revolt?
+
+Fast Company's Austin Carr speaks with industry insiders and ex-Apple designers who have soured on the fake leather, glass, and wood that runs through OS X and iOS.
+
+By now it’s almost inevitable given the company’s track record: No matter what Apple unveils tomorrow at the Yerba Buena Center (an iPad Mini? iPhone 5?), pundits will herald the company for its innovative thinking and bold hardware design. But the elephant in the room will be Apple’s software, which many inside the company believe has evolved for the worse in the last few years.
+Editor’s Note
+
+Click here for our feature on the redesign of Windows.
+
+Despite consistently glowing reviews from critics and consumers alike, iOS and OS X, Apple’s operating systems which tie Macs and iPads and iPhones together, have rubbed some the wrong way in recent years with their design directions. During my reporting for Fast Company's feature on design at Microsoft, which was part of our October design issue, I spoke with a number of designers, Apple veterans, and industry insiders hostile towards Apple’s approach to software design. Equally eye opening was the number who genuinely praise Microsoft for its novel approach for Windows 8, the most radical redesign to date of the world’s most ubiquitous operating system. The criticism and controversy, much of it revolving around a trend called skeuomorphism, reveal chinks in Apple’s armor rarely visible to those outside One Infinite Loop.
+"Visual Masturbation"
+
+What’s skeuomorphism? If you’ve ever used an Apple product, you’ve experienced digital skeuomorphic design: calendars with faux leather-stitching, bookshelves with wood veneers, fake glass and paper and brushed chrome. Skeuomorphism is a catch-all term for when objects retain ornamental elements of past, derivative iterations—elements that are no longer necessary to the current objects’ functions.
+"iCal’s leather-stitching was based on a texture in Jobs’s Gulfstream jet."
+
+In software, skeuomorphism can be traced back to the visual metaphors designers created to translate on-screen applications before users were accustomed to interacting with computer software: virtual folders to store your documents, virtual Rolodexes to store contacts. But over time, skeuomorphism has seeped into all areas of UI design, especially in Apple’s software, where text documents, for example, are made to look like yellow legal pads.
+
+"It’s visual masturbation," says one former senior UI designer at Apple who worked closely with Steve Jobs. "It’s like the designers are flexing their muscles to show you how good of a visual rendering they can do of a physical object. Who cares?"
+
+Inside Apple, tension has brewed for years over the issue. Apple iOS SVP Scott Forstall is said to push for skeuomorphic design, while industrial designer Jony Ive and other Apple higher-ups are said to oppose the direction. "You could tell who did the product based on how much glitz was in the UI," says one source intimately familiar with Apple’s design process.
+
+But before Forstall, it was Steve Jobs who encouraged the skeuomorphic approach, some say. "iCal’s leather-stitching was literally based on a texture in his Gulfstream jet," says the former senior UI designer. "There was lots of internal email among UI designers at Apple saying this was just embarrassing, just terrible."
+"You could tell who did the product based on how much glitz was in the UI."
+
+Perhaps the most infamous culprit of this design direction is Apple’s Game Center, the social-gaming app that’s dressed in a lacquered wood and green felt that lends it the feel of a casino. "Steve pushed very hard to have everything—the felt-cloth table, the game chips—look like they would in real life," says another former Apple designer. "Internally, a lot of people were shocked by the richness. Many think it’s gone too far."
+Why is Skeuomorphism Bad?
+
+Some may wonder why designers would harbor such harsh feelings toward seemingly minor flourishes in UI design. But at Apple, where pixel-perfect standards are the norm, many designers believe skeuomorphism has significantly degraded the user experience.
+
+The issue is two-fold: first, that traditional visual metaphors no longer translate to modern users; and second, that excessive digital imitation of real-world objects creates confusion among users. "I’ve come to absolutely dislike this trend in user interface toward skeuomorphism," says designer Yves Béhar, the founder of fuseproject, which is best known for designing the Jawbone and original One Laptop Per Child PC. "Using reality as a visual metaphor for the user interface rather than make the UI function on its own terms is something that has irked me for quite a while."
+
+Béhar cites the example of Apple’s wooden digital bookshelves. "The digital bookshelf doesn’t really work like a bookshelf," he says. "You’re throwing all this extraneous visual noise at me and it’s confusing. My brain, which is used to the physical bookshelf, is confused because of the differences in usability. It’s cute, but not particularly useful."
+"There’s no need to add glitter if the product can stand on its own."
+
+In addition to being unhelpfully ostentatious, the visual metaphors are also outmoded in the eyes of many. Designer Gadi Amit, whose firm, NewDealDesign, designed the Lytro camera and Fitbit, points to the common use of the digital Rolodex to denote where contacts are stored. "I’m old enough, sure, but some of the guys in my office have never seen a Rolodex in real life," Amit says. "So these metaphors that were, in the early days of the computing revolution, relevant to assisting people in bridging the gap between the physical and digital worlds, are no longer necessary. Our culture has changed. We don’t need translation of the digital medium in mechanical real-life terms. It’s an old-fashioned paradigm."
+
+Says the former senior UI designer at Apple, "I feel like [Apple] has concentrated too much on mimicking the visual skeuomorphic approach rather than concentrating on the actual functionality." For example, in iOS 6, the latest version of Apple’s mobile operating system, Forstall recently demoed an animated paper shredder, which will be used to delete e-tickets and coupons. How many iPhone users have ever actually seen a paper shredder in real life? Is it necessary? Or just visual masturbation? "To me, it’s lipstick on a pig," says the source intimately familiar with Apple’s design process. "There’s no need to add glitter if the product can stand on its own."
+
+And even in the mobile world, where touch-screen smartphones and tablets are relativity new compared to the PC interfaces we’ve become accustomed to, the source believes we’ve moved beyond skeuomorphism. "Things have changed since the widespread use of iPhones and Androids," the source says. "Years ago, you’d need a manual to know how to use a smartphone. Those days are long over."
+What’s the Alternative?
+
+It’s important to note that not all visual metaphors are bad. Rather, it’s the excessive UI adornments of these visual metaphors that many insiders I’ve spoken with find distasteful and inherently confusing.
+
+It’s also why many industry leaders are excited for Windows 8. For the design of its new operating system, Microsoft took a surprisingly refreshing approach, distancing itself from skeuomorphism while emphasizing a flat user interface that’s minimalist to the core. Sure, real-life visual metaphors still exist in the UI—an envelope to represent the mail app, a camera to denote the photo app—but the icons are without embellishments: no bevel, no 3-D flourishes, no glossiness and no drop shadow. It’s Microsoft’s stripped-down UI that many find appealing—a welcome alternative to Apple’s approach to software design.
+"Many find Microsoft’s stripped-down UI appealing, and a welcome alternative to Apple’s approach."
+
+In our feature story on Microsoft, you’ll learn how design is changing Redmond for the better. And you’ll also learn why designers from Gadi Amit to Yves Béhar to former Apple insiders are praising the company’s newfound design DNA. As Dan Kraemer, creative director of design firm IA Collaborative, told me of Microsoft’s and Apple’s software design, "These are two different approaches to creating great experiences, and I can’t necessarily say one is better than the other."
+
+But many of Kraemer’s colleagues, as you’ll soon read in our feature story, are not as diplomatic when describing Apple’s approach to software design. Stay tuned.

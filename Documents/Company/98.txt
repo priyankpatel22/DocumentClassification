@@ -1,0 +1,48 @@
+The woman was shocked when she received two nude photos of herself by e-mail. The photos had been taken over a period of several months — without her knowledge — by the built-in camera on her laptop.
+
+Fortunately, the FBI was able to identify a suspect: her high school classmate, a man named Jared Abrahams. The FBI says it found software on Abrahams’s computer that allowed him to spy remotely on her and numerous other women.
+
+Abrahams pleaded guilty to extortion in October. The woman, identified in court papers only as C.W., later identified herself on Twitter as Miss Teen USA Cassidy Wolf. While her case was instant fodder for celebrity gossip sites, it left a serious issue unresolved.
+
+Most laptops with built-in cameras have an important privacy feature — a light that is supposed to turn on any time the camera is in use. But Wolf says she never saw the light on her laptop go on. As a result, she had no idea she was under surveillance.
+
+That wasn’t supposed to be possible. While controlling a camera remotely has long been a source of concern to privacy advocates, conventional wisdom said there was at least no way to deactivate the warning light. New evidence indicates otherwise.
+
+Marcus Thomas, former assistant director of the FBI’s Operational Technology Division in Quantico, said in a recent story in The Washington Post that the FBI has been able to covertly activate a computer’s camera — without triggering the light that lets users know it is recording — for several years.
+
+Now research from Johns Hopkins University provides the first public confirmation that it’s possible to do just that, and demonstrates how. While the research focused on MacBook and iMac models released before 2008, the authors say similar techniques could work on more recent computers from a wide variety of vendors. In other words, if a laptop has a built-in camera, it’s possible someone — whether the federal government or a malicious 19 year old — could access it to spy on the user at any time.
+
+One laptop, many chips
+
+The built-in cameras on Apple computers were designed to prevent this, says Stephen Checkoway, a computer science professor at Johns Hopkins and a co-author of the study. “Apple went to some amount of effort to make sure that the LED would turn on whenever the camera was taking images,” Checkoway says. The 2008-era Apple products they studied had a “hardware interlock” between the camera and the light to ensure that the camera couldn’t turn on without alerting its owner.
+
+The cameras Brocker and Checkoway studied. (Matthew Brocker and Stephen Checkoway)
+
+But Checkoway and his co-author, Johns Hopkins graduate student Matthew Brocker, were able to get around this security feature. That’s because a modern laptop is actually several different computers in one package. “There’s more than one chip on your computer,” says Charlie Miller, a security expert at Twitter. “There’s a chip in the battery, a chip in the keyboard, a chip in the camera.”
+
+MacBooks are designed to prevent software running on the MacBook’s central processing unit (CPU) from activating its iSight camera without turning on the light. But researchers figured out how to reprogram the chip inside the camera, known as a micro-controller, to defeat this security feature. In a paper called “iSeeYou: Disabling the MacBook Webcam Indicator LED,” Brocker and Checkoway describe how to reprogram the iSight camera’s micro-controller to allow the camera and light to be activated independently. That allows the camera to be turned on while the light stays off. Their research is under consideration for an upcoming academic security conference.
+
+The researchers also provided us with a copy of their proof-of-concept software. In the video below, we demonstrate how the camera can be activated without triggering the telltale warning light.
+New research highlights software that can turn some laptop cameras on without users knowing. Washington Post contributor Ashkan Soltani shows it in action. (Katherine Musselwhite/The Washington Post)
+
+Attacks that exploit microcontrollers are becoming more common. “People are starting to think about what happens when you can reprogram each of those,” Miller says. For example, he demonstrated an attack last year on the software that controls Apple batteries, which causes the battery to discharge rapidly, potentially leading to a fire or explosion. Another researcher was able to convert the built-in Apple keyboard into spyware using a similar method.
+
+According to the researchers, the vulnerability they discovered affects “Apple internal iSight webcams found in earlier-generation Apple products, including the iMac G5 and early Intel-based iMacs, MacBooks, and MacBook Pros until roughly 2008.” While the attack outlined in the paper is limited to these devices, researchers like Charlie Miller suggest that the attack could be applicable to newer systems as well.
+
+“There’s no reason you can’t do it -- it’s just a lot of work and resources but it depends on how well [Apple] secured the hardware,” Miller says.
+
+Apple did not reply to requests for comment. Brocker and Checkoway write in their report that they contacted the company on July 16. “Apple employees followed up several times but did not inform us of any possible mitigation plans,” the researchers write.
+
+RATted out
+
+The software used by Abrahams in the Wolf case is known as a Remote Administration Tool, or RAT. This software, which allows someone to control a computer from across the Internet, has legitimate purposes as well as nefarious ones. For example, it can make it easier for a school’s IT staff to administer a classroom full of computers.
+
+Indeed, the devices the researchers studied were similar to MacBooks involved in a notorious case in Pennsylvania in 2008. In that incident, administrators at Lower Merion High School outside Philadelphia reportedly captured 56,000 images of students using the RAT installed on school-issued laptops. Students reported seeing a ‘creepy’ green flicker that indicated that the camera was in use. That helped to alert students to the issue, eventually leading to a lawsuit.
+
+But more sophisticated remote monitoring tools may already have the capabilities to suppress the warning light, says Morgan Marquis-Boire, a security researcher at the University of Toronto. He says that cheap RATs like the one used in Merion High School may not have the ability to disable the hardware LEDs, but “you would probably expect more sophisticated surveillance offerings which cost hundreds of thousands of euros” to be stealthier.
+
+He points to commercial surveillance products such as Hacking Team and FinFisher that are marketed for use by governments. FinFisher is a suite of tools sold by a European firm called the Gamma Group. A company marketing document released by WikiLeaks indicated that Finfisher could be “covertly deployed on the Target Systems” and enable, among other things, “Live Surveillance through Webcam and Microphone.”
+
+The Chinese government has also been accused of using RATs for surveillance purposes. A 2009 report from the University of Toronto described a surveillance program called Ghostnet that the Chinese government allegedly used to spy on prominent Tibetans, including the Dalai Lama. The authors reported that “web cameras are being silently triggered, and audio inputs surreptitiously activated,” though it’s not clear whether the Ghostnet software is capable of disabling camera warning lights.
+
+Luckily, there’s an easy way for users to protect themselves. “The safest thing to do is to put a piece of tape on your camera,” Miller says.

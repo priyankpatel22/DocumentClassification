@@ -1,0 +1,312 @@
+Most efforts to explain design at Apple end up reducing a complex 37-year history to bromides about simplicity, quality, and perfection—as if those were ambitions unique to Apple alone. So Fast Company set out to remedy that deficiency through an oral history of Apple's design, a decoding of the signature as told by the people who helped create it. A longer version of the story that includes material not published elsewhere is available in the Byliner original ebook, Design Crazy.
+
+"This is our signature," Apple's gauzy television ads proclaim, referring to the familiar words that the company stamps on the undersides of its products: designed by Apple in California. The ads fall in the grand Apple tradition—beginning with the "1984" Super Bowl spot—of seeming to say a great deal while revealing little. The singular Cupertino computer company is one of the most intensely competitive, pathologically secretive organizations in the world.
+
+If there is one thing that CEO Tim Cook doesn't want people to know, it's what dwells behind his company's "signature." As a result, most efforts to explain design at Apple end up reducing a complex 37-year history to bromides about simplicity, quality, and perfection—as if those were ambitions unique to Apple alone.
+Sir Jonathan Ive
+
+So Fast Company set out to remedy that deficiency. It wasn't easy. Precious few designers have left Sir Jonathan Ive's industrial design group since he took over in 1996: Two quit; three died. (We talked to the two who quit, among dozens of other longtime Apple veterans.) What we found is that the greatest business story of the past two decades—how Apple used design to rise from near bankruptcy to become the most valuable company in the world—is completely misunderstood.
+
+Outsiders have tended to assume that because longtime CEO Steve Jobs was a champion of products in which hardware and software work together seamlessly, Apple itself was a paragon of collaboration. In fact, the opposite was often true. What's more, the myth of Jobs's exile in 1985 and restoration in 1997 has obscured the fact that much of the critical design work that led to Apple's resurgence started while Jobs was running Pixar and NeXT. Ive—of whom Jobs once said, "He has more operational power than anyone else at Apple except me"—joined the company in 1992. And since Ive added software to his domain, in 2012, the industrial designer has even more power now.
+
+Neither Ive, nor anyone else at Apple, was willing to speak on the record for this article. As a result, this story is different from any other you've read about Apple. It is an oral history of Apple's design, a decoding of the signature as told by the people who helped create it. Its roots go back to the 1980s, when Jobs's metaphor that the computer is a "bicycle for the mind" became a touchstone for design at Apple, an expression of the ambition to turn high tech into simple and accessible devices. In the immediate aftermath of Jobs's 1985 ouster, Apple had some commercial success, thanks in part to the work of Hartmut Esslinger's Frog Design (now Frog). But Esslinger followed Jobs to NeXT in the late 1980s, and as the 1990s wore on, Apple struggled as a me-too PC maker, and its market share plummeted. Our creative conversation starts in those dark days, when a hardy few trying to hold onto Jobs's ideals are heartened by the arrival of a soft-spoken, young industrial designer from the United Kingdom.
+1992 "Here lies the guy who hired Jonathan Ive"
+
+Robert Brunner, founder, Apple's industrial design group (now founder of Ammunition and the designer of Beats headphones): I sometimes joke that when I die, my tombstone will say, "Here lies the guy who hired Jonathan Ive." Jonathan had shown up at my old firm, Lunar, on a bursary scholarship. He was this quiet, polite English kid with these models. They weren't just well-designed objects; he'd actually engineered them. I thought, Wow, this is someone I'd like to have on my team.
+
+When I first got to Apple in 1989, I called Jony to see if he was interested in coming to work at Apple. He said no. He'd just started his own firm, Tangerine, and he wanted to see it through. In 1992, I hired Tangerine for this mobility project called Juggernaut. I have to admit part of the reason was because I wanted to see if I could get him interested in Apple. They built some wonderful models. When Jony came over to show them, it was a beautiful, sunny weekend in California. And when I asked again if he was interested, he said yes.
+"We wanted to put design forward as a competitive tool for Apple, but nobody really understood what design could do."
+
+THOMAS MEYERHOFFER, senior industrial designer, Ive's first hire (now runs his own design firm):
+We wanted to put design forward as a competitive tool for Apple, but nobody really understood what design could do. There was a great urge from us in the design group to say: Apple is different, Apple has always been different.
+
+BRUNNER: There was a guy on our team, Thomas Meyerhoffer, who was working on the eMate. We took the guts and the operating system of the [proto tablet] Newton and put it in a clamshell. The idea was a very simplified computer for kids. That's where the whole translucent, bulbous form of the iMac got started.
+
+MEYERHOFFER: Every laptop you'd seen before was square and a big chunk of beige plastic. I wanted to make this product look light and fun. And because nobody knows what's inside those beige boxes, I wanted to give the feeling that there was something intelligent in there. I used a translucent plastic because that's the only way you can do that. It gave the product more life.
+
+DOUG SATZGER, industrial design creative lead (now VP, industrial design, Intel):
+We worked on a lot of cool concepts. But still, under [then-CEO] Gil Amelio, design didn't mean anything. You'd design a product and marketing would say, "Well, we only gave you $15 to do this and it's gonna cost us $20, so we're gonna badge a Dell computer or Canon printer." We were a marketing-driven company that wasn't focused on design, or even delivering a product. I saw that if this was the way it was going to continue, then I should probably leave. Jony knew that, and we had discussions about how the whole team would move if that were to happen.
+
+Meanwhile, things were even worse in the software division, where Apple's operating system had been surpassed by the far-superior Windows 95.
+
+CORDELL RATZLAFF, manager, Mac OS human interface group (now a user experience director at Google): There was a project code-named Copland, which was supposed to be Apple's next-generation operating system. It was probably one of the worst-managed projects ever at Apple. After a couple of years, it was clear that it was never going to ship.
+
+DON LINDSAY, design director, Mac OS user experience group (now VP, user experience, BlackBerry): Shortly after that, Apple acquired NeXT—and, of course, along with that package comes Steve Jobs.
+1998 "Good enough to lick"
+
+The deal to acquire NeXT for $429 million closed in December 1996. Jobs would be named interim CEO of Apple the following summer. One of his first moves: teaming up with Ive, who replaced Brunner as head of the industrial design group in 1996, to redesign the company's desktop computers. Ive was just 30 years old at the time.
+
+SATZGER: For Steve's first interview with us, we cleaned up in the studio. We knew Steve was a loud talker but that he wanted his voice to be focused on whom he was talking to. When he walked in the door, we turned up the music, so his conversations stayed between the person he was with.
+
+Robert Brunner
+Founder, Apple’s industrial design group
+
+"We took the guts of the newton and put it in a clamshell. That’s where the bulbous form of the iMac got started."
+
+Jeff Zwerner
+Former creative director, packaging
+
+"We were kind of like, Who needs another Walkman? It wasn’t until the iTunes store that everyone was like, this is gonna be phenomenal."
+
+JEFF ZWERNER, creative director, packaging (now a VP at Evernote):
+Jony manufactured every facet of that space as if to make Steve feel comfortable—from what they wore to the ambient techno music that was playing. There was an unwritten rule that if Steve came in, everyone had to slowly and deliberately move to the other side of the space.
+
+JON RUBINSTEIN, senior VP, hardware engineering, Ive's boss until 2004 (now an Amazon board member):
+Steve spent a lot of time in the studio because it was his happy place. Running the business wasn't as much fun as hanging around with the design team.
+
+SATZGER: Steve told us he wanted an Internet computer. His daughter was going to college, and he wanted to develop a computer that he felt was good enough for her to take to school. He had this idea for a product that didn't need a hard drive.
+
+RUBINSTEIN: The network computer just didn't work. There wasn't enough bandwidth. The original design looked like a shrunk-down version of what became the iMac. It had a tunnel underneath where you could put the keyboard, because there was almost nothing inside it.
+
+KEN SEGALL, creative director, Chiat/Day (now a writer and consultant):
+When we first saw the iMac prototype, it was shocking. Somebody lifted a cloth and you could see the guts of the computer. It looked like a cartoon version of the future.
+"As soon as Steve got offstage after the announcement, he said, "I love the iMac, but we just delivered it in the wrong color.""
+
+TIM KOBE, cofounder, Eight Inc., an architecture firm that initially worked on display designs at Macworld conferences (now works on the design of the Apple Stores):
+Steve said, "All it takes is for the word color to get out, and we're screwed." He was really sensitive to the fact that that core idea—that it had color and a personality—was a shift in thinking.
+
+SATZGER: We delivered the Bondi Blue iMac, and as soon as Steve got offstage after the announcement, he said, "I love the iMac, but we just delivered it in the wrong color."
+
+TRIP HAWKINS, former marketing and product manager, Apple Lisa group (later founder of Electronic Arts):
+I was like, "Man, he managed to make a monitor look sexy." No one had done that, ever.
+
+The iMac, which was offered in five candy colors, was a hit, the first computer that felt like a consumer product and not a business appliance. The next step in Jobs's companywide redesign was software.
+
+LINDSAY: Shortly before the unveiling of the iMac, Steve turned his attention to the user experience on the Mac OS X. He hauled the entire software design team into a room, and in typical Steve style, he just declared everybody in the room to be an idiot.
+
+RATZLAFF: It went downhill from there. We spent the next few weeks working night and day building a prototype of what we wanted Mac OS X to be. We started by thinking about every other operating system out there. They were all big, dark, gloomy, and chunky. Our approach was, Let's do the exact opposite. In that prototype, there were the initial ideas for the dock, the Mac as your digital hub, a completely new color scheme, and the animations.
+
+LINDSAY: Steve was taking his knowledge from the hardware, which at the time was about translucency and glossiness and color, and he was bringing that to bear on the interface.
+
+RATZLAFF: We'd meet with Steve on Tuesday afternoons. He would come up with the craziest ideas. At one point, Steve wanted to do all of our error messages as haikus. He would leave, and we would all think, What is he smoking?
+
+In one of our meetings, Steve said, "I want this to look good enough to lick." After that, one of the designers stuck a half-sucked Life Saver to his monitor.
+
+The new user-interface system was known as Aqua. Using a fixed dock on the bottom of the screen and relying heavily on visual metaphors and animation, it would evolve into the modern versions of both OS X and iOS while exerting an obvious influence on operating systems offered by Microsoft, Google, and pretty much every other major software company.
+2000 "He wanted to control everything that touched his product"
+
+DAN WALKER, chief talent officer (now an HR consultant):
+I was in my kitchen in Orange County, and my wife answers the phone and says, "Sure, he's right here." She hands me the phone and says, "It's Steve Jobs." He said, "Mickey Drexler is on our board of directors, and he told me that I should give you a call because I'm thinking about opening retail stores for the Apple brand. Would you come up and talk to me?" [Walker had worked with Drexler at Gap.]
+
+I went to the fourth floor of the Loop. The side opposite the elevators, that's where Steve dwelled. Valhalla. He told me that he was creating a premium product that really needed to have a story told. He wanted to control everything that touched his product—the creation, the manufacturing, how it went to market, and how the customer interacted with it.
+
+With advice from Walker as well as Drexler, Jobs began assembling a team for retail stores, led by a former Target executive named Ron Johnson. The goal was to capitalize on the excitement over Ive's wildly successful iMacs and to begin selling people on the idea that would become central to Apple's design over the next decade: the digital hub.
+
+George Blankenship
+Former VP, real estate development
+
+"We had to go to the heart of the malls and have people stumble on us when they weren't thinking about buying a computer."
+
+Abigail Sarah Brody
+Former user interface designer
+
+"I wasn't told I'd be working on a phone. They just said, 'Create a user interface for multitouch."
+
+KOBE: My partner, Wilhelm Oehl, and I were the first ones hired on the Apple Stores program. We started in 1999, on a whiteboard with Steve. He was asking us a lot of questions like, "How big is the Nike store?" He wanted to do a store with a large presence, but at the time Apple had two laptops, two desktops, and not a lot of software. So we had to come up with a lot of other things: the photo zone, the kids area, the Genius Bar, the theater. Those were all outcomes of trying to create an experience that was distinctly Apple and different from the kind of experience most people would have had with technology.
+
+WALKER: Ron Johnson wanted to brainstorm what it was going to be. We had the global head of customer service for the Ritz-Carlton and two kids who sold Macs at CompUSA. We had the architects who were going to design the store. We had this incredibly brilliant graphic artist. We sat in that room for a couple of days. That's where the Genius Bar was invented. I still remember Ron sketching it out.
+
+MICHAEL KRAMER, CFO, Apple Retail (later COO, JCPenney):
+When Ron told me about the Genius Bar, I asked, "So how big is it?" He said, "Five people in every store." "So you're going to take away 20% of the sales floor?" "Yeah." "What are we going to charge?" "Nothing." Most CFOs would say, "Are you fucking crazy?" But even as a financial guy at Apple, you have to have a reverence for the creative side of the business. You have to figure out ways to say yes.
+
+KOBE: I got the sense that Ron was quite frustrated by Steve. Ron would always give a textbook answer to any retail question, and Steve would always go a few degrees off of that. I always thought Steve was just being mean, but later I realized that he was using Ron as a barometer of conventional wisdom of what his best competitors would do. I think it drove him crazy.
+"Ron would always give a textbook answer to any retail question, and Steve would always go a few degrees off of that."
+
+GEORGE BLANKENSHIP, VP, real estate (now a VP at Tesla Motors):
+Retail was Ron's show, but Steve was the guide. We had a meeting every Tuesday morning with Steve for three hours where we went over store design. We built three full stores in a warehouse in Cupertino before we opened the first one—and trashed three-and-a-half designs. One was very trade-show feeling, like at a Macworld. One was very much museumlike. We ended up with the design of those early stores with those kidney-shape tables.
+
+KOBE: We started with the white Corian tables, because the first products were brightly colored and we needed a neutral palette for them to look good on. And then as the products started getting whiter, we switched to the maple tables.
+
+SATZGER: The alignment of those big 5-by-10-foot tables that are 36 inches high? That came from the industrial design studio. If you think about how stark the Apple Stores are, that's the ID studio.
+
+BLANKENSHIP: We had to go to the heart of the malls and have people stumble on us when they weren't thinking about buying a computer.
+
+KOBE: We were trying to get emotion as an outcome, as opposed to utility. That's a core attribute of the design at Apple.
+
+The first Apple Store opened in Tysons Corner, Virginia, on May 19, 2001. The following day, BusinessWeek ran a column entitled, "Sorry, Steve: Here's Why Apple Stores Won't Work." The piece—remarkable for its improvidence—derided Jobs's "perfectionist attention to aesthetics," his decision to lease extremely expensive real estate, and his "focus on selling just a few consumer Macs." Today, there are 412 Apple Stores, averaging roughly $6,000 in sales per square foot per year—or more than twice that of any major retailer.
+
+KOBE: For the first two or three years, people didn't talk about the stores; they talked about the experience in the stores. Because the people who worked there were so different, and the way you engaged with technology was so different.
+
+MIKE FISHER, director, visual merchandising (later chief creative officer, JCPenney):
+There was nothing except the computer. We had to sell the sexiness of just a computer.
+2001 "Then apple's design became experiential"
+
+TONY FADELL, senior VP, iPod division (now CEO, Nest Labs):
+Design at Apple was product, product, product until about 2001. Then Apple's design became experiential. There was a product—the iPod—and then software that hinged to the product, iTunes. And then a retail experience. That's what created the Apple design philosophy as we know it today.
+
+WALKER: All of the wonks were saying the personal computer was dead. And then one day—you never quite knew where Steve would get his ideas, because he would sometimes lay claim to others' ideas as his own—Steve woke up and decided not only was the computer not dead, but it was more important than ever. The computer was the center of this ecosystem and there were spokes: pictures, work, music.
+
+Jobs unveiled the "Digital Hub" strategy at Macworld in January 2001, announcing a simple MP3 application, iTunes, that would allow Mac users to burn custom playlists and listen to Internet radio stations.
+
+RUBINSTEIN: We were looking at all the devices you could use with a Mac. We looked at cameras and we just didn't see where we could add enough value. With cell phones and PDAs [personal digital assistants], we concluded that the PDA was just going to get consumed by the phone. Music players really stood out as the one thing where there were no entrenched competitors. The products on the market were crap.
+
+Tony Fadell
+Former senior VP, iPod division
+
+"The idea was "1,000 songs in your pocket"—a long-battery-life device that syncs with the Mac."
+
+Loren Brichter
+Former graphics engineer
+
+"I'm really happy they did something big [with iOS 7]. It's more than just the veneer."
+
+WALKER: I'd like to tell you the iPod was because of some deep skunk works R&D operation, but it didn't happen that way. It started because Jon Rubinstein was at the Toshiba factory in Japan. They had these tiny hard drives, and Ruby saw the potential.
+
+RUBINSTEIN: I would do regular visits with all of our suppliers to review all the products they were doing and see how they fit into our product road map. We went into Toshiba, and at the end of the meeting, they showed us the 1.8-inch hard drive. They didn't know what to do with it. I said, "We'll take all you can make." I went to Steve: "Hey, I'm gonna need about 10 million bucks." That's when I went looking for someone to manage the team—and that's when I found Tony.
+
+FADELL: That hard drive—there was nothing else like it on the planet. It was the enabler that made the iPod work. At Fuse Systems [Fadell's previous company], we were creating this MP3 player for home stereos. It was rack-mounted because there was no storage that was small enough.
+
+RUBINSTEIN: Tony has tried to rewrite history where he says that he came up with the idea, that he was working on it independently. That's total nonsense.
+
+SATZGER: If you look up iPod creator, they called Jony "Jony iPod." The "Godfather of the iPod" is Tony. And there's "Mr. iPod" Rubinstein. It's like none of those three guys can accept that it was a team of people who changed the world when they created this product.
+"None of those three guys can accept that it was a team of people who changed the world when they created this product."
+
+FADELL: I started in January 2001 as a contractor. The idea was "1,000 songs in your pocket"—a long-battery-life device that syncs with the Mac. In the fourth week of March, I showed the first design to Steve. It had a navigation control, and [marketing chief] Phil Schiller said, "You should do a jog shuttle wheel." And that was it. It all happened in a one-hour meeting. I made the device in foam models. We gave it to Jony to skin it.
+
+SATZGER: Tony brought in a stack of foam models about the size of a cigarette package. We looked at soft shapes, metals, and the double-shot plastic that we ended up using. It couldn't get too wild. The package size was really defined by its components.
+
+FADELL: It was basically a two-piece shell—a plastic top with a metal back—because we could get that done really fast. Once the iPod came out, all of the other products started looking like it: It was all the same language.
+
+The minimalist design for the iPod did not come out of nowhere. Ive's team had been toying with similar designs for years, beginning with the G4 Cube desktop computer as well as the Titanium PowerBook G4, which was released shortly before the iPod.
+
+RUBINSTEIN: The Cube was our only real crap-out, which was too bad, because it was actually a great product, just too expensive. We learned a lot about materials, curved plastics, touch switches—and it was a tremendous piece of industrial design. It set the foundation for almost all of our future products.
+
+SATZGER: The market had outgrown the transparent stuff. Shortly after the iMac, we did the Titanium PowerBook, and then we redesigned the iBook in white. The white definitely came from Jony. I had to go to a couple of suppliers and say, "We want to do the whitest white." We pushed them to the limit of adding titanium to the base resin, and then we had to make sure we adjusted the blue levels, because too much blue makes it look like a washing machine.
+
+LINDSAY: Steve always wanted to stay one step ahead. When the industry started to become very colorful and lickable, then he realized—and Jony and I realized—that we needed to take a different path. Let's go minimalistic, less color, focus more on patterns and textures, and different inspirations for design.
+
+ZWERNER: We were kind of like, Who needs another Walkman? While the design [of the iPod] was great, it was just an MP3 player. The iPod languished for a while. It wasn't until the iTunes Store that everyone was like, Holy shit, this is gonna be phenomenal.
+2004 "The holy of holies"
+
+The third-generation iPod, released in April 2003, was thinner and featured a new navigation wheel. At the same time, Jobs unveiled the iTunes Store. Apple would sell 2 million iPods in 2003, more than twice as many as it had from its debut in September 2001 through 2002. With 2004's release of the iPod Mini, the figure would increase fivefold. The division was split from the rest of Apple, with Rubinstein at the helm. Ive, who had reported to Rubinstein, would now report directly to Jobs, concentrating power in the hands of his elite group of industrial designers.
+
+SATZGER: Those of us in the industrial design studio were locked down. Steve made it really clear that if you don't have any reason to be there, you don't belong there, and that it was important that we didn't talk about the designs with anybody else outside the team.
+
+ERIK LAMMERDING, senior manager, developer relations (now cofounder, N3twork):
+I was never allowed in the secret room. Do you remember the show Get Smart? Duh-dun, duh-dun, duh-dun—chish chish chish. Multiple keycards, frosted glass. The Holy of Holies.
+
+BOB STEVENSON, chief creative officer, Ngmoco (now cofounder, N3twork):
+We went in there once. Do you know the end scene of 2010 [the 1984 sequel to Kubrick's 2001: A Space Odyssey]? It was like an entire set of humans from the future.
+
+JEREMY KUEMPEL, intern, iPad product design:
+I made it to the door. Have you seen the scene in Star Wars where he goes to Jabba the Hut's palace, and the eyeball sticks out and looks at him? It was like that.
+
+SATZGER: The studio is about 10,000 to 15,000 square feet. It's an amazing space. When you walk in, you go through this little stainless-steel corridor that's probably about 10 feet long and that opens up into this expanse of concrete floor and glass. The ceiling is covered with metal. There are these huge concrete pillars and right in the middle is a glass section—like a giant fishbowl—and Jony has a three-wall room. I remember that Jony had a desk that was custom-designed by Marc Newson, a chair, and two standing drawer shelves. He had a whole series of colored pencils laying on his table, a Tolomeo lamp, a computer, and that's it. There wasn't a picture of his family, his kids, nothing—in fact, there wasn't an image of anything on any wall in the whole studio.
+
+RUBINSTEIN: My job was to manage all the different requirements from all the different teams, and make it work. And that means you're the bad guy. Steve didn't like being the bad guy, so that was my role.
+"There are many people who are not at Apple because Jony has decided that person was in his way."
+
+SATZGER: Jony and Steve spent a lot of time together outside the office, and they'd talk about business plans and products and things like that. Jony complained that a lot of the things that Steve took credit for were his ideas. Jony has a very political agenda when it comes to his positioning within the company. He would tell me, "Anytime you meet with Steve, I gotta know." He projects this soft-spoken English gentleman persona.
+
+RUBINSTEIN: It's a good image: "Shaken, not stirred."
+
+SATZGER: But if you challenge the VP of design—and you're not a designer—there are going to be consequences. There are many people who are not at Apple because Jony has decided that person was in his way.
+
+RUBINSTEIN: There was an antenna on one of the PowerBooks, and Jony and I were arguing how big the enclosure should be. And we compromised, which, frankly, compromised performance. You can't violate the laws of physics.
+
+According to Walter Isaacson's book, Steve Jobs, Ive threatened to leave Apple if Rubinstein did not. In 2006, Rubinstein announced his retirement (unretiring a year later to be CEO of Palm), leaving Fadell in charge of the company's iPod division as it was preparing to spin off a new, top-secret product.
+
+MATT ROGERS, firmware engineer, iPod division (now Fadell's cofounder at Nest):
+When we started working on this skunk works project in 2005, our team was super small. One hardware engineer, one antenna guy, one project manager. There were a lot of people at Apple who thought we'd maybe sell a million units a year. That was the high bar.
+
+FADELL: We started with an iPod Mini and tried to make it a phone. We actually built a phone with a click wheel—it worked like a rotary dial.
+
+ROGERS: There's a reason nobody wants rotary phones anymore.
+
+ANDY GRIGNON, senior manager, iPhone division (now founder, Quake Labs):
+Apple had just acquired a company called FingerWorks, which made multitouch keyboards. So the idea was born to do a full touch-screen-based platform for the phone.
+
+SATZGER: The initial concept of multitouch was from a tablet-computer brainstorm. We were always trying to shove a PC into a tablet. Duncan Kerr [a designer in Ive's group] sat people down for a couple of hours and just talked about multitouch. Wouldn't it be great if you could just turn a page like you were turning a page? Wouldn't it be great if you could just zoom in and out by doing some kind of gesture? We had all those ideas on paper in the ID team. And I'm sure Duncan was talking to the sensor people and the hardware people about multitouch. A couple of weeks later, we were all just blown away by the prototype Duncan and his team built. We were zooming in and out on Google Maps and rotating it.
+
+RUBINSTEIN: It was pretty cool. But it wasn't good enough. And so the technology wound up in the iPhone before the iPad.
+
+GRIGNON: This was around when Scott Forstall [then in charge of Mac software] got wind of the project. He really wanted to do Mac OS on a phone.
+
+ROGERS: The iPhone was done in these vacuums. The software and hardware teams didn't even talk. One of my early tasks was to build a parallel software system for the iPhone so we could actually use it to make calls.
+
+GRIGNON: We called it "skankphone." Of Tony's whole hardware team, which was maybe 60 people at full strength, only me and three guys were allowed to see the real user interface. Before you got UI access, you had to sign a separate legal document, Steve had to approve it, and then you'd go to Forstall, who was the ultimate owner of the secret list. He would tell you, "Don't talk to anybody. Don't tell your wife."
+
+ABIGAIL SARAH BRODY, user interface designer:
+I'd been working on a new design language for what we called Pro Apps—Final Cut Pro, Logic Pro, Aperture. One day around 2005, I got a call to move up to the fourth floor, the executive floor. I wasn't told I'd be working on a phone. They just said, "Create a user interface for multitouch."
+
+SATZGER: When we developed the first iPhone, we developed around a screen size and a home button.
+
+BRODY: I had a crude prototype and a sense of the dimensions. I rendered some finger-size images and looked at how far my thumb would reach across the screen. I had to create some sort of menu, so I just created a screen with rounded rectangular buttons.
+
+SATZGER: We had a screenshot that we put on every model, and that's all we knew about the UI. Jony knew what was going on, but most of the ID group didn't know how the gestures worked, how you did basic functions, visual voice mail—all the amazing things that came out of that first product.
+
+NITIN GANATRA, director of engineering, iOS applications (now executive director, Jawbone):
+Everyone on the team knew that Apple had attempted to ship a device with a touch input with the Newton—and was laughed at by the industry. Scott was very focused on the fine points around the look and feel. When we launched an app, it had to come up instantly. When you moved your thumb up or down, the scrolling had to track your movement with no delays.
+
+LOREN BRICHTER, graphics engineer (later inventor of the Twitter app Tweetie, which introduced the pull-to-refresh gesture to iOS): The UI was mind-blowing: 3-D graphics, 60 frames per second. Nothing like it existed.
+
+ROGERS: Before we launched at Macworld in January 2007, I was sitting in the bathroom using one of the devices, and I was like, This is revolution. I'm checking email in the bathroom. That was the moment when I realized this is a totally different kind of device.
+
+BRODY: Steve showed it with clown-fish wallpaper and some green sea anemones in the background. It was the same sample image I used: the black UI, the glossiness, the big numbers. Later, I saw Steve in the hall, and I said, "Is it a coincidence that it looks like my design?" And he said no. One of my fondest memories from my time at Apple was that launch day. Even if it was finished by a completely different team, and even though my contribution is maybe 0.1%, there is still something in there that I helped make a difference with.
+"There's no magic to the product planning cycle at Apple beyond a ruthless focus on a limited set of use cases."
+
+HORACE DEDIU, analyst, Nokia (now an independent analyst and founder of Asymco):
+The day after the first iPhone launch, I went to the Nokia cafeteria and asked people about it. They were like, "Meh, there's nothing here." The compromises Apple took on design were legendary: You didn't have copy-paste, you didn't have multitasking, you didn't have apps. Apple said, We just want to have a cool phone. Everybody else was focusing on being smart. Apple focused on being loved.
+
+The iPhone would become the most successful Apple product of all time, accounting for more than half its revenue. Over the next few years, Ive's team would crank out a succession of refinements—and the company would return to the original idea it had for a multitouch device: a tablet computer.
+
+GANATRA: I first heard about this tablet in late 2008. Steve was saying, "Just think of it as a big iPod Touch." It was one of the few times that Steve was arguing that we didn't have to do that much work.
+
+MATT MACINNIS, marketing manager:
+There's no magic to the product planning cycle at Apple beyond a ruthless focus on a limited set of use cases. What each product does in the first iteration is going to be narrow, but those things are going to be airtight. For the iPad, there were ideas about having docks on two sides. Depending on where you put it in your house, it would behave differently. If you put it on its side by your bed, it would be an alarm clock. But if you put it upright in the kitchen, it'd be a recipe book. Those got cut back.
+
+SEGALL: Back in the Apple II days, they had a tagline, the "most personal computer." But this, the iPad, is really the most personal computer ever made. I mean, you touch it. It responds to your voice.
+2010 "It started as this green felt thing"
+
+In the years following the launch of the iPad, there were no major new product releases, and competitors such as Samsung and Google started catching up to Apple with their own touch-screen phones and tablets. A sense of drift was perhaps best epitomized by Game Center, a social networking app for iPhone games released in September 2010. Game Center took Jobs's preference for visual metaphors and realistic 3-D icons—known as skeuomorphism—to garish new extremes.
+
+GANATRA: Game Center was a rough one. All the faults with skeuomorphism were front and center. It started as this green felt thing, and they struggled to come up with something that was a true metaphor.
+
+Tim Kobe
+Cofounder, Eight Inc., an architecture firm that works on the design of the Apple Stores
+
+"[Steve Jobs] wanted to do a store with a large presence, but at the time Apple had two laptops, two desktops, and not a lot of software."
+
+JASON WILSON, senior UI designer (now lead product designer, Pinterest):
+Forstall took Steve's design taste without understanding the sensibilities behind it. I left Apple because I couldn't stand the design under Forstall.
+
+GANATRA: A lot of the press latched on to the fact that Forstall was the guy who was really pushing skeuomorphism. The truth is, it was Steve. He would look at wood and leathers, and there would be these extensive reviews of materials just to see what would look best on the calendar app or the bookshelf app.
+
+ZWERNER: The hardest thing at Apple is recruiting. You are going to the best designers in the world and saying, "Can you imagine coming to Apple and putting pictures of things on white, with one line of typography—for years?" I really admire the people who stayed there, and their ability to see the big picture. Steve saw this as kind of a life's work. And the question is, in the absence of that careful management, that thread that ties everything together, how will it stay intact?
+
+With Jobs's death in 2011, Apple's software problems only seemed to get worse. The release of a new version of Apple Maps, which had nice visuals but had highly publicized problems directing users to the right location, prompted a public apology from CEO Tim Cook. The debacle reportedly led to Forstall's resignation in October 2012. Ive, who had rarely had any input in Apple's software decisions, took over for Forstall and began working on an ambitious redesign of iOS.
+
+MACINNIS: One of the key ingredients in Amazon, Facebook, and Google is data. Those businesses were built on deep technical understanding of how to manage swaths of data. Apple doesn't know how to do that.
+"I left Apple because I couldn't stand the design under Forstall."
+
+WILSON: The software has been falling off. The web services have all been failures. And Google is kicking ass.
+
+This past June at its Worldwide Developers Conference, Apple unveiled Ive's new modernist reworking of iOS 7, which includes a new gesture-based interaction model; a futuristic Mac Pro desktop; and, perhaps most important, a sense of swagger. "We completely ran out of green felt," quipped Craig Federighi, senior VP of software engineering. "Can't innovate anymore, my ass," groused Phil Schiller, Apple's marketing chief.
+
+SEGALL: Surprise was always an important factor to Steve. That's the feeling I get from the new Mac Pro. I look at that and think of the G4 Cube. Apple will probably get slammed for it, but the way it opens up, the turbine fan, and the thermal core—it's very Apple. Who on earth but Apple would redesign a desktop computer? That makes me feel good about Apple as an innovator.
+
+BRICHTER: I have nitpicks with iOS 7, but I'm really happy they did something big. It's more than just the veneer. The way they're reimplementing the UI framework with physics—it just feels natural. They're mimicking the real world. So in a way, the skeuomorphism, which was previously going into visual design, is now going into interaction design.
+2013 "Apple branches, grafted onto new trees"
+
+BRODY, now working on a stealth startup:
+I watched WWDC online, and they were all trying so hard. But for me, Apple is a different place without Steve. It's a good place, but it's different. What really makes me happy is to see people like Tony Fadell doing new things. They're like Apple branches, grafted onto new trees.
+
+FADELL, now CEO, Nest:
+At Apple, we were always asking, What else can we revolutionize? We looked at video cameras and remote controls. The craziest thing we talked about was something like Google Glass. We said, "What if we make visors, so it's like you're sitting in a theater?" I built a bunch of those prototypes. But we had such success with the things we were already doing that we didn't have time.
+
+MACINNIS, now founder, Inkling, an e-book publisher:
+Visual design and interaction design are things I learned at Apple. Marketing, branding—I learned a lot of that at Apple. What I have learned since I've left is that confidentiality doesn't work. If you try to replicate it, you just look like an asshole.
+
+KUEMPEL, former intern (now founder, Blossom Coffee, manufacturer of an $11,000 coffeemaker):
+I worked on the iPad SIM-card ejector. It's got a really nice click. You're welcome, world. There were opportunities to stay at Apple, but I didn't want to because I realized that I wouldn't be designing a product—I'd be designing a SIM ejector. I wanted to create whole products and define an industry in the way that the iPad created the tablet market.
+"The craziest thing we talked about was something like Google Glass."
+
+DAVE MORIN, former Apple marketing manager (now cofounder, Path, a mobile social-networking app): The pursuit of quality above all else is something we aspire to learn from Apple and that drives us at Path.
+
+PHIL LIBIN, CEO, Evernote, a note-taking app:
+There had always been products that had been beautifully designed. But they were high end, and very few people actually owned them. Apple was the first company that took high design and made it mainstream. It taught the world taste.
+
+HAWKINS: In 500 years, Steve Jobs will be the only guy from our generation that anybody knows about.
+
+GADI AMIT, founder, NewDealDesign (designer of the Fitbit activity tracker and the Lytro camera): Around 1990, I was in Israel, working at a company called Scitex, but I was spending a lot of time at the Frog Design office in San Francisco. The guy next to me was working on NeXT for Steve Jobs. I saw three identical mice on his desk, and I couldn't tell the difference between them, so I asked. He said, "Can't you see?" And he pointed to the bottom plate of the mouse. One was 1 millimeter thick, one was 1.5 millimeters,
+the other 2 millimeters. And then I saw the difference—and it transformed my worldview about details in design. That's the reason I moved to California.

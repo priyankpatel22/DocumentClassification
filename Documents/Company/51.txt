@@ -1,0 +1,44 @@
+This week the Apple Watch made a big step towards reality, with the release of WatchKit for developers of watch apps. Hidden within a fairly mundane document are plenty of glimpses at how Apple envisions smartwatches fitting in with our lives.
+
+With WatchKit come Apple's Watch Human Interface Guidelines, which lay out the company's recommendations for nearly every detail of app design, from color to logos to gestures. Here are a few telling points.
+Watch interactions should take seconds, not minutes
+
+5 New Details That Show How Apple Wants Us To Use Its WatchExpand
+
+The WatchKit guidelines, even though they're developer-specific, contain loads of general info about how Apple hopes consumers will live with the watch. Perhaps the smartest takeaway is the company's insistence that users shouldn't be glued to their watches.
+
+"A Watch app complements your iOS app; it does not replace it," it says. "If you measure interactions with your iOS app in minutes, you can expect interactions with your Watch app to be measured in seconds." It's nice to know that developers are getting guidance as to what they can reasonably expect from their users. Throughout the guidelines, the message is simple: Less is more.
+Reading is possible, if not exactly recommended
+
+5 New Details That Show How Apple Wants Us To Use Its WatchExpand
+
+The digital crown is one of the most interesting aspects of the slew of new UI elements encased in the Apple Watch. When the device was announced, the repurposed crown was presented as a way to zoom in and out of the home screen, and scroll through pages. Now we're getting more of a sense of why that'll be so useful.
+
+"Designed for finely tuned, accelerated scrolling—without obstructing the Apple Watch display—the Digital Crown makes it easy to scroll through longer pages," Apple says. In other words, the crown solves a solution to one big problem with smartwatches: How to scroll through long pages without your finger getting in the way.
+Typefaces should adapt for your eyes
+
+5 New Details That Show How Apple Wants Us To Use Its Watch
+
+You've probably already heard about San Francisco, the brand-new typeface that Apple designed specifically for the watch. But the UI guidelines give us more information about why it's suited for small screens.
+
+Unlike some fonts, San Francisco will condense or expand based on the size of the letters. If you're reading tiny text, for example, the kerning will expand so there's more space between each letter—as will the size of the punctuation and the size of the holes in letters like "e" and "a". This will make it much less difficult to read the watch's tiny text.
+You'll control the notifications
+
+5 New Details That Show How Apple Wants Us To Use Its WatchExpand
+
+While your iPhone's notification center is sometimes less than ideal for handling short blips of info, an interaction called Glances is a solution to a problem that iOS has struggled to solve. You can think of a glance as a Google Now card: A short blip of information that comes from an app, but that is "timely and contextually relevant," presumably based on situational input like location.
+
+Importantly, you'll decide when you see those glances. "Unlike an alert pushed to a device, Glances are accessed at the wearer's discretion," says Apple.
+
+Force Touch adds a secondary layer of interaction
+5 New Details That Show How Apple Wants Us To Use Its WatchExpand
+
+We already knew that the watch's Retina screen would be able to interpret the force of your finger. But now we're getting a glimpse of how that sensitivity will impact the UI.
+
+"A small screen can only accommodate so many controls," Apple writes. "Force Touch interactions display the context menu (if any) associated with the current screen. Apps use this menu to display actions relevant to the current content." That's why Force will act like a secondary layer of interactions. You'll use it to access a higher level menu that displays options within each app.
+...But we still don't know much about the Taptic Engine
+5 New Details That Show How Apple Wants Us To Use Its WatchExpand
+
+One thing that isn't mentioned in the guidelines? The Taptic Engine, which will supply the vibrating notifications from apps.
+
+Back in September, Apple intriguingly said that the engine will supply a range of vibrations customized to each app, so "you feel a tactile sensation that's recognizably different for each kind of interaction." Presumably, Apple will be controlling those sensations, and it'll be interesting to find out more about them. This could be one of the more interesting ways we interact with the watch, but we'll have to wait to find out just how big a role the tactile aspects of the UI will play. 

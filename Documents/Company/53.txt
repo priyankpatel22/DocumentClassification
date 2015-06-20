@@ -1,0 +1,24 @@
+Apple has made a small change to the App Store, replacing the "Free" download button to "Get."
+
+Apple hasn't specified why it made the change, but it most likely has to do with the rise of so-called "freemium" games that are free to initially download but offer in-app purchases to unlock more features.
+
+No change has been made to apps that cost an upfront, one-time fee. Those apps still feature the price on the download button.
+
+App Store "Get" download buttonApple
+
+
+Labeling freemium games as free has proved problematic for Apple in the past.
+
+Early last year, Apple paid about $100 million to settle a lawsuit with the Federal Trade Commission that alleged "Apple failed to adequately disclose that third-party game apps, largely available for free and rated as containing content suitable for children, contained the ability to make in-app purchases."
+
+Apple App Store "get" download buttonAppleClash of Clans, a popular game with in-app purchases, now features a "Get" download button.
+
+
+Apple has since implemented additional alerts for in-app purchases, but it appears the company has decided it's best to simply do away with the free terminology altogether.
+
+Apple is actually following Google's lead with its rebranding of free apps, with Google announcing in July it would stop calling apps with in-app purchases free, according to MacRumors. Google Play apps now feature an "Install" button instead.
+
+Google Play "install" download buttonGoogleThe Google Play store features an "Install" download button instead of "Free."
+
+The decisions by both Google and Apple to ditch the "Free" label is likely in response to the European Commission's request for the companies to better inform customers that apps with in-app purchases were not truly free.
+

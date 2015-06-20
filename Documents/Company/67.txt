@@ -1,0 +1,154 @@
+This Is Apple's Next iPhone
+13,936,126
+4
+Jason Chen-Design notes by Jesus Diaz
+Filed to: Iphone 4 prototype	
+
+    apple iphone 4
+    Iphone 4
+    Apple
+    iPhone
+    Apple iPhone
+    Next iphone
+    New apple iphone
+    Apple iPhone 2010
+    LostIphone
+    Iphone 4g
+    Iphone hd
+    Cellphones
+    Top
+    Exclusive
+    Kotaku
+    Lifehacker
+    Gawker
+    Valleywag
+    Jezebel
+    io9
+    Jalopnik
+    Deadspin
+
+4/19/10 10:00am
+
+    Share to Kinja
+    Share to Facebook
+    Share to Twitter
+    Go to permalink
+
+This Is Apple's Next iPhone
+
+You are looking at Apple's next iPhone. It was found lost in a bar in Redwood City, camouflaged to look like an iPhone 3GS. We got it. We disassembled it. It's the real thing, and here are all the details. Update: click here to see the iPhone 4 definitive guide, with all the features officially announced by Apple.
+iPhone 4: The Definitive Guide
+
+We already showed you the new iPhone from every angle, inside and out. Today, Steve Jobs… Read more
+
+While Apple may tinker with the final packaging and design of the final phone, it's clear that the features in this lost-and-found next-generation iPhone are drastically new and drastically different from what came before. Here's the detailed list of our findings:
+What's new
+
+• Front-facing video chat camera
+• Improved regular back-camera (the lens is quite noticeably larger than the iPhone 3GS)
+• Camera flash
+• Micro-SIM instead of standard SIM (like the iPad)
+• Improved display. It's unclear if it's the 960x640 display thrown around before—it certainly looks like it, with the "Connect to iTunes" screen displaying much higher resolution than on a 3GS.
+• What looks to be a secondary mic for noise cancellation, at the top, next to the headphone jack
+• Split buttons for volume
+• Power, mute, and volume buttons are all metallic
+What's changed
+
+• The back is entirely flat, made of either glass (more likely) or ceramic or shiny plastic in order for the cell signal to poke through. Tapping on the back makes a more hollow and higher pitched sound compared to tapping on the glass on the front/screen, but that could just be the orientation of components inside making for a different sound
+• An aluminum border going completely around the outside
+• Slightly smaller screen than the 3GS (but seemingly higher resolution)
+• Everything is more squared off
+• 3 grams heavier
+• 16% Larger battery
+• Internals components are shrunken, miniaturized and reduced to make room for the larger battery
+How it was lost
+
+Here is a detailed account of how the phone was lost.
+How Apple Lost the iPhone 4
+
+The Gourmet Haus Staudt. A nice place to enjoy good German lagers. And if you are an Apple Software … Read more
+Why we think it's definitely real
+
+We're as skeptical—if not more—than all of you. We get false tips all the time. But after playing with it for about a week—the overall quality feels exactly like a finished final Apple phone—and disassembling this unit, there is so much evidence stacked in its favor, that there's very little possibility that it's a fake. In fact, the possibility is almost none. Imagine someone having to use Apple components to design a functioning phone, from scratch, and then disseminating it to people around the world. Pretty much impossible. Here are the reasons, one by one.
+
+It has been reported lost
+
+View gallery »
+
+Apple-connected John Gruber—from Daring Fireball—says that Apple has indeed lost a prototype iPhone and they want it back:
+
+    So I called around, and I now believe this is an actual unit from Apple — a unit Apple is very interested in getting back.
+
+Obviously someone found it, and here it is.
+
+The screen
+While we couldn't get it past the connect to iTunes screen for the reasons listed earlier, the USB cable on that screen was so high quality that it was impossible to discern individual pixels. We can't tell you the exact resolution of this next-generation iPhone, but it's much higher than the current iPhone 3GS.
+
+The operating system
+According to the person who found it, this iPhone was running iPhone OS 4.0 before the iPhone 4.0 announcement. The person was able to play with it and see the iPhone 4.0 features. Then, Apple remotely killed the phone before we got access to it. We were unable to restore because each firmware is device specific—3GS firmware only loads on 3GS devices—and the there are no firmwares available for this unreleased phone. Which is another clue to its authenticity.
+
+View gallery »
+
+It is recognized as an iPhone
+This iPhone behaves exactly like an iPhone does when connected to a computer, with the proper boot sequence and "connect to iTunes" restore functionality. Xcode and iTunes both see this as an iPhone. Mac OS X's System Profiler also reports this as an iPhone in restore mode, which is a natural consequence of remotely wiping the phone, but report different product identifiers (both CPID and CPRV) than either the 3G or the 3GS.
+
+It uses micro-sim
+The fact that it uses a micro-sim is a clear indicator that this is a next-generation iPhone. No other cellphone uses this standard at this point in the US.
+
+This Is Apple's Next iPhoneExpand
+
+The camouflage case
+The case it came inside was a fully developed plastic case to house this phone to disguise it like a 3GS. This wasn't just a normal case; it had all the proper new holes cut out for the new switches and ports and camera holes and camera flash. But it looks like something from Belkin or Case-Mate. It's a perfect disguise.
+
+The fact that it's in the wild right now
+Logic can also narrow down why this phone is this year's iPhone, rather than next year's model or one from the previous year's, just because it was found in the wild right now. It makes no sense for Apple to be testing 2011's model right now, in super finished form—they wouldn't be nearly finished with it. The phone also can't be last year's test model, because last year's model (based on the iPhone 3GS teardowns) components were way different. No micro-sim, much bigger logic board, no flash, no front camera, smaller battery and an inferior camera. That only leaves the 2010 model.
+
+This Is Apple's Next iPhoneExpand
+
+The guts, the definitive proof
+And finally, when we opened it up, we saw multiple components that were clearly labeled APPLE. And, because the components were fit extremely well and extremely conformed inside the case (obvious that it was designed FOR this case), it was evident that it was not just a 3G or a 3GS transplanted into another body. That probably wouldn't even be possible, with the size constraints of the thinner device and larger battery.
+The New Industrial Design
+
+At first sight, this new iPhone's industrial design seems so different from the previous two generations that it could be discarded as just a provisional case. Even while the finish is so perfect that it feels right out of the factory, some of the design language elements that are common to all Apple products are not there. Gone is the flushed screen glass against the metal rim. Gone is the single volume button, replaced by two separate ones. Gone is the seamless rim, and gone are the tapered, curved surfaces.
+
+Despite that, however, this design is not a departure. Not when you frame it with the rest of the Apple product line. It's all the contrary: This new iPhone gets back to the simplicity of the iMac and the iPad. In fact, you can argue that the current iPhone 3GS—with its shiny chrome rim and excessively curved back—is out of place compared to the hard edges and Dieter-Ramish utilitarianism of the iMac and the iPad. Next to the iPad, for example, the new iPhone makes sense. It has the same feeling, the same functional simplicity.
+1960s Braun Products Hold the Secrets to Apple's Future
+
+The year 2008 marks the 10th Anniversary of the iMac, the computer that changed everything at… Read more
+
+But why the black plastic back, instead of going with an unibody aluminum design? Why the two audio volume buttons? Why the seams? And why doesn't the back have any curvature at all?
+
+This Is Apple's Next iPhoneExpand
+
+Why the plastic back?
+The plastic back is the most obvious of the design choices. The iPad, with its all aluminum back, has seen its Wi-Fi reception radius reduced. The 3G version comes with a large patch on the top, probably big enough to provide with good reception. But the new tiny iPhone doesn't have the luxury of space: It needs to provide as much signal as possible using a very small surface. I'm sure Jon Ive is dying to get rid of the plastic back, and go iPad-style all the way, but the wireless reception is the most important thing in a cellphone. A necessary aesthetical-functional trade-off.
+
+Why separate volume buttons?
+This new iPhone uses separate buttons for the volume instead of the single button that you can find in the iPhone, iPod touch, or iPad. It's one of the factors that may indicate that this is a provisional case, until you think about one of the most requested features for Apple's phone: A physical button for the camera. The new iPhone has a bigger sensor and a flash, which means that the camera function keeps gaining more weight. It's only logical to think that Apple may have implemented this two-button approach to provide with a physical shutter button. It makes sense.
+
+Why the seams?
+The seams are perhaps the most surprising aspect of the new design. They don't seem to respond to any aesthetic criteria and, in terms of function, we can't adventure any explanation. But they don't look bad. In fact, the whole effect seems good, like something you will find in a Braun product from the 70s.
+
+It's doubtful that the seams are arbitrary, however. Either they will disappear from the final product, or they have a function we can't foresee at this time.
+
+Why no tapering or curves?
+As you will see in a future article, the new iPhone is so miniaturized and packed that there's no room for the tapered, curved surfaces. Everything is as tight as it could get, with no space for anything but electronics.
+The hardware specs
+
+The phone measures 4.50 by 2.31 by 0.37 inches. It weighs 140 grams. The 3GS weighs 137 grams on a postal scale (and 135 on Apple's official measurements). So, in comparison, it's 3 grams heavier. The battery is 5.25 WHr at 3.7V, compared to the 3GS battery, which is 4.51 WHr at 3.7V. On the back of the phone, it said it was XX GB, but since we were unable to get the phone to a running state, we couldn't see exactly how large it was.
+
+This Is Apple's Next iPhoneExpand
+How it feels
+
+Freaking amazing. As a person who never really liked the round mound of a back in the 3GS, the sleeker, flatter, squarer design is super welcome. It feels sturdier than the 3GS, and much less plasticky. The metal buttons give it a heftier feel—less of a toy—than all previous generations. The closest analog to it would be the original iPhone, which is more square and heavy than its newer brothers.
+
+It feels completely natural up to your face, and the fact that both the front and the back are glossy makes no difference on how well you can hold it without the phone slipping. And because it's thinner, it feels even nicer in your pants.
+
+This Is Apple's Next iPhoneExpand
+What all this means
+
+Apple has updated the exterior drastically different from the 3G and 3GS. That design is old, it felt out of place compared to the rest of their products and needed desperately to be killed. Now you have a thinner body, a much more pleasant form factor with no wasted space and lots of hard lines. But the design isn't the most important part that's changed.
+
+They've delivered many of the features people have been waiting for—that damn front camera!—while at the same time upgrading everything else. Flash, better back camera, better battery life and another microphone for better voice clarity. People who bought the 3G two years ago and are now in the perfect position to upgrade and get a dramatically different, and better, phone. If confirmed this summer, and if it performs as we expect, this next-generation iPhone looks like a winner.
+
+Much additional reporting and design analysis by Jesus Diaz. Rosa Golijan also contributed.

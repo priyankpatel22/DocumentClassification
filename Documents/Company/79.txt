@@ -1,0 +1,59 @@
+Apple’s attack on skeuomorphism — the design ornamentation that has been likened to a “nasty intestinal disease you might get in the tropics” (and perhaps even worse, to a “new Comic Sans”) — has finally become a colorful reality with Jony Ive’s unveiling of the new, flat iOS 7 interface.
+
+Much of the commentary approves of the changes to iOS 7, arguing that because skeuomorphism teaches by analogy, and an entire generation of users have now become familiar with the touchscreen interface, it’s time to remove the “training wheels” — we no longer need skeuomorphism’s solution to a problem we no longer have.
+Limiting our discussion to what is essentially a “do these pixels make me look fat” question is a waste of energy.
+
+The word “radical” was even tossed around in a few notable places, suggesting that design battles around re-flattening interfaces and smoothing out shadows actually advance the future of technology and design in the digital age.
+
+But I think limiting our discussion to what essentially boils down to a “do these pixels make me look fat” question is a waste of energy. Instead, design should boldly go where no user or interface has gone before. More than ever, technology constraints have disappeared, and designers have their version of the mythical perpetual motion machine — a new medium where pixels are infinitely available and infinitely malleable. We should focus on setting them free.
+
+We’ll never get there, though, if we stick to the dangerously reductionist, technology-usability centric view of design that surfaced in the discussions about flat design versus skeuomorphism (and continues to surface in the comments about iOS 7).
+
+Besides hindering innovation, this reductionist view of design also misses a few key points…
+To Skeu or Not To Skeu, That Is Not the Question
+
+photo: Alex Washburn / Wired
+
+Frankly, the reductionist view of design began with the dramatic Jobs vs. Ive framing and narrative around the Attack on Skeulandia: Steve Jobs, the liberal arts-y humanist, supposedly wanted the faux leather, felt, and wood-textured treatments of real-world objects applied to virtual ones. Jony Ive, the art-school modernist, supposedly didn’t want any of it.
+
+Not only is this framing overly simplified, it’s also irrelevant to design discourse. It misses the key point that design is really about unlocking the possibilities that lie within multiple perspectives. That design is about solving a complex problem with multiple constraints. At their core, both Ive and Jobs understood this: Ive noted yesterday that design is “so much more than the way something looks,” and Jobs too has noted that design is about “how it works.”
+
+Design, like many disciplines, is about a diversity of approaches as soft solutions rather than hard truths. It’s a spectrum, not an either-or decision about whether to skeu or not to skeu.
+
+John Maeda
+
+An artist, graphic designer, computer scientist, and educator, John Maeda is president of the Rhode Island School of Design (RISD). He also serves on the Board of Directors of Sonos. Previously, Maeda served as associate director of research at MIT Media Lab. He was named one of the 75 most influential people of the 21st century by Esquire.
+
+But our understanding of this spectrum is further complicated because both sides claim simplicity is on their side. The anti-Skeus say they are removing unwanted clutter (Ive himself noted that simplicity is about “much more than just the absence of clutter and ornamentation” and really about “bringing order to complexity”). Meanwhile, the pro-Skeus say they are restoring an emotional connection, and what could be more simple than that? (Jobs had always known this, so Apple strived for the emotional connection that good design can create.)
+
+For my part, I have always believed that simplicity is about doing both: subtracting the obvious, and adding the meaningful. The question, of course, is what is meaningful? — and the answer indeed depends on the cultural context and constraints of the decision being made or product being rendered.
+Where Have All the Design Constraints Gone?
+
+Our cultural contexts and experiences obviously matter when we’re absorbing design. Even more so when the design is something we intimately and continuously interact with. But the cultural war between machine-aesthetic modernism and just-a-stick-of-butter ornamentation that I’m referring to isn’t limited to training a single generation of touchscreen users. It spans centuries.
+
+Questioning the value of ornamentation goes back to the late 1800s with the Arts and Crafts movement led by John Ruskin and William Morris. Ruskin and Morris aimed to rage “against the machine”, decrying the 19th-century industrialized surfaces that were beginning to diminish the craftsman’s practiced hand — not to mention their sales.
+
+Things made with machines as opposed to directly with the hand tended to create machine-like expressions. (See for example Piet Mondrian’s Broadway Boogie Woogie painting, which captures the orderly rationality of a city grid system). The onslaught of the 20th-century machine age therefore brought about Modernism, which fought to strip all unnecessary aspects of a design to realize an “honesty” of materials used.
+
+But the machine age also brought with it a new set of design constraints. Making something special with the new machines didn’t just take more effort, it was much more expensive, too (at least until the magic of Moore’s Law took hold).
+Design is about a diversity of approaches, a spectrum — not an either-or decision about whether to skeu or not to skeu.
+
+That’s why the original Mac interface was a complex problem, well-solved: It didn’t have too much detailing that would slow the computer down (a major constraint back then). But it had just enough designerly detail to make a Mac window feel like more than a dumb rectangle of pixels — windows with subtly rounded corners, 1-pixel-thin shadows, and other detail that was invisible to the average user’s eyes. (The Mac even gave users several choices for windows and the ability to make custom windows from non-rectangular shapes.)
+
+Fast forward to 2013. We live in an age when technology can render any visible expression without slowing things down. Interface windows can be rendered onto the wings of seagulls as they land on an aircraft carrier if we so desire; the windows could open like a combination of expensive silk, dripping water, and a star exploding out of our screens.
+
+With more GPU capability to burn than ever, the old design constraints are gone — so the tendency leans towards adding more for the sake of adding more.
+
+In the face of so much possible ornamentation, of course the natural reaction to this is to self-correct. To swing the style pendulum back in the other direction by taking a more Ivesian, modern, flattened approach to the user interface. To manufacture constraints by flattening one layer — so design elements like translucency and simulated depth can “recede” into the other layers.
+We need to move beyond the superficial conversation about styles and incremental adjustments to boldly invent the next frontier of interface design.
+The Missing Piece
+
+But … there’s still something missing.
+
+Culture is a closed loop feedback system that edits itself with the passage of time. Yet the tos-and-fros of changing styles — skeumorphism vs. flat design, ornamentation vs. modernism, and back again — represent only a fraction of what design can do because we’re in a new age, a time where many technological constraints are a thing of the past.
+
+What we need now is to move beyond the superficial conversation about styles and incremental adjustments to boldly invent the next frontier of interface design.
+
+In a hands-free, “eyes-free” interface world, this doesn’t mean removing a shadow or flattening a button. It means thinking way beyond the pattern of intensity rendered by pixels on a screen, to stop worrying about the dots-per-inch as if we cared to count the individual dots if we tried. Apple and other leaders in the design space should be thinking like the designers who are imagining a complete gesture-based operating system across an array of small and large display systems (like at Oblong). They should be playing with bytes, paper, and optics with a refined yet playful spirit of craftsmanship (like the folks at Berg).
+
+Ultimately, good design will be born from consideration of multiple perspectives. It should be something we haven’t even dreamed of yet.

@@ -1,0 +1,61 @@
+There’s a conspiracy theory that Steve Jobs wants you to buy a new iPod every 12 months. That may or may not be the case, but if your iPod is hosed, it doesn’t necessarily mean it’s time to put it out to pasture. Most iPods are user-fixable and you don’t need to be a total geek to make it work.
+
+An iPod, no matter which version you have, is basically a self-contained, battery-operated, pocket-sized computer. All the components that a regular laptop has are represented: display, battery, storage, RAM, and logic board. This is what makes the iPod something easily fixable: the pieces are just scaled-down versions of their PC analogues, and are put together in the same basic way. This means if you can isolate your iPod’s problem, you can fix it.
+
+NOTE: Trouble with this post? Click here
+
+There are a number of things that can go wrong with an iPod, but, like any other computer, the majority of the ailments are hard-drive based, usually taking the form of a boot error: either a sad iPod face, constant Apple logo, or folder-with-exclamation-mark icon when it’s turned on. Fortunately, these problems are easier to fix than people realize, and we’ve come up with a five-point plan for getting your little friend back on its feet. Some of our advice is straight from Apple, but some of it is a little more guerrilla. Take heed, though, as the farther into our plan you delve, the greater the chances you’ll kill your warranty or permanently damage your iPod. But, then, if you’re desperate enough to go that far, chances are your warranty is up anyway, so what have you to lose, adventurer?
+
+Apple’s superb design of the iPod isn’t just what you see on the outside, the inside is organized into easily recognizable parts that can be manipulated and removed with very few tools. Indeed, a very thin, flat-head screwdriver is all most repairs require. If you’re fixing a Mini, you might also consider a hair dryer to melt the industrial adhesive that holds the tops on. For our illustrations, we’ve used a 5G iPod with video, but the steps for any disk-based iPod are more or less the same.
+
+
+Step 1: Doing things the Apple way
+
+. Because they’re computers, iPods can crash. By initiating the iPod version of a reboot, you reload the iPods software, hopefully writing over the troublesome spots in memory.
+
+On the majority of iPods, holding the Menu and Select buttons (Select being the middle button of the Clickwheel) for 6 to 10 seconds will force the iPod to reboot, clearing the memory and bringing it back to life. The first couple generations of iPod have their own button sequences, but they’re just as easy to actuate.
+
+Apple recommends a few other steps if this doesn’t remedy your problem, including plugging the iPod into a different port or computer, restarting your PC or Mac, and reinstalling the iPod desktop software. If these actions don’t restore your iPod to full functionality, then the problem lies deeper and more drastic steps are needed.
+
+Step 2: Restoring to factory conditions
+
+If your iPod worked fine the day you got it, but is now acting possessed, then it’s possible it has a problem with its file structure or software. This cannot be remedied by resets, as the problem is static between boots. This means that the problem has to be manually deleted from the iPod, which, sadly, means it will take all of your content with it.
+
+Fortunately it’s a painless process, and if you keep your iTunes updated, then re-syncing after a restore brings you up to speed quickly. To really make this go well, you should make sure you’ve got the most recent version of iTunes installed.
+
+Plug your iPod into a USB port, just as you would to sync with iTunes. When it shows up in the left-hand pane of iTunes, you’ll see a button in the main content window that says restore. Click it. You’ll be warned that you’re going to erase everything, but you know that already. Select Restore and Update to kill the troublesome code in storage and bring it up to the latest factory settings. This works. After it’s updated, it’s simply a matter of syncing with iTunes, and you’re hopefully good to go.
+
+Step 3: Minor surgery
+
+If your iPod is still giving you trouble at this point, then it means you’ve got a hardware problem. That folder icon means your hard drive is having a physical problem that’s stopping the iPod’s processor from getting to the data it needs. This problem is common, and contrary to what you might think, it doesn’t always mean that your hard disk is hosed. In fact, it’s our experience that this easy trick will fix most advanced issues for free and in about 15 minutes.
+
+You’ll have to open up your iPod for this trick, so if you’re squeamish, you might want to default to a gear-minded friend. Even if you’re not, you should have a look through the detailed step-by-step guides at iFixit to get an idea of what’s ahead. A wrong move could render your iPod dead for good.
+
+While the guides recommend a special plastic iPod opening tool, you can easily substitute a flat-head screwdriver, though you risk gouging your iPod’s trim. One tool we’ve used that worked out nicely was a sturdy plastic guitar pick, but anything firm and fairly thin should work. The iPod is basically held together with industrial glue. Starting at the side, work your shim around the exterior of the iPod where the metal meets the plastic. The two main halves should then separate with little more than gentle wiggling.
+
+Remove the metal back of the iPod to expose the innards, but not too much: there may be a very important ribbon cable that connects the audio jack and hold switch to the main body that is a complete pain in the ass to reattach if it becomes detached. Don’t do that.
+
+The foam-covered metal unit at the very top is the hard drive, and probably your problem. First make sure all the cables to and from each component are secure. If so, then we go to the magic. These hard drives get warm as they spin, and the metal casings warp outwards. Some hard drives won’t work correctly when the casing isn’t secure. The solution is to put the pressure back on the disks.
+
+Find a business card or similar small piece of paper (here I used a bar coaster), and fold it to be about 1/16th of an inch or so, and rip it to be about a 1-inch-by-1-inch square. Place it carefully on the hard drive (watch out for those ribbon cables), and replace the backing.
+
+Using the reset steps above, reboot the iPod. Chances are, it’ll boot up nicely and work just as it did before without any problems. You may have to restore it again, though, as the former problem may have prohibited that fix. If you’re skeptical, and you should be, try it out. I tried it first on my girlfriend’s busted-ass iPod has really worked on six of the seven broken iPods we’ve tried it on, with the only hold-out sadly requiring the next step.
+
+
+Step 4: Major surgery
+
+If nothing else works, and the hard drive is still not working correctly, then it’s probably toast. The Achilles’ Heel of the iPod is the hard disk; they’re smaller than the HD in your laptop or desktop, and with mini-drives come maxi-problems. The good news is that now that you know how to get into your iPod, it’s pretty easy to replace this component.
+
+You will need, however, a donor disk drive. You can find them used on eBay, but we recommend getting a new disk from iFixit, as they’re guaranteed to be compatible and they come with a warranty. If you’re doing this kind of work on your iPod, you’re going to want to make sure your new drive works, right?
+
+To start, open the iPod back up, remove the coaster (you wanted that number, anyway), and lift the hard disk from the top end of the iPod. Remove the blue rubber bumpers and white plastic top (shock absorbers) and carefully pull the drive a quarter-inch to the top of the iPod. You’ll note a thin ribbon cable at the “bottom” end of the drive. Using your screwdriver, carefully work the ribbon out of the drive. This ribbon carries the data and power to and from the disk, once it’s detached, the disk should slide out easily. Remove the foam and find your donor disk.
+
+Put the rubber bumpers and foam onto the new disk and put it right where the old one was. Carefully replace the ribbon to the drive and close the iPod up. At this point, you’ll need to do another factory restore in iTunes to write the iPod operating system and software onto the new drive. Once it’s done, sync it up and you’re good to go.
+
+Step 5: Prayer
+
+If a new hard drive isn’t helping, then the problem is probably with the logic board itself. While the board is replaceable, it’s beyond the scope of this article and not nearly as easy to execute as a hard disk replacement. At this point, you must decide if you want to attempt to fix it yourself (not a task for the weak-hearted), have it professionally repaired (not cheap, but better than buying new), or sell it for parts, using the income towards a new iPod.
+
+Yes, it sucks, but nothing is guaranteed. But look at it this way: a new iPod means a new chance for something to go wrong, which means you can try these steps again, this time knowing exactly what you’re doing.
+
+Don’t try these repairs on your new iPod; these are for “bricked” units that nobody will care about should you muck it up. But if you do have success, let us know here, it makes us feel warm and fuzzy knowing that we’ve helped.

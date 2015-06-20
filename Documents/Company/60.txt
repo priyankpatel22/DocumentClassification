@@ -1,0 +1,17 @@
+Apple on Tuesday released a toolkit for software developers to create new apps for the Apple Watch, the company's first wearable.
+
+The tools, called WatchKit, will let developers using Apple's iOS operating system come up with new ways to use the smartwatch, using its notifications, watch crown and touchscreen display. Apple said last month WatchKit would become available in November.
+
+"WatchKit provides the incredible iOS developer community with the tools they need to create exciting new experiences right on your wrist," Philip Schiller, Apple's senior vice president of worldwide marketing, said in a press release.
+
+The company suggested Apple Watch developers could create apps that will allow people to turn the lights off after they've left the house or check their flight schedule. Developers can also incorporate "Glances," which show quick bites of information, such as the latest news and sports scores, or alarm system status.
+
+Related stories
+
+    Fitness band market to shrink amid Apple Watch effect
+    Wearable tech's most important race: Turning heartbeats into cash
+    Apple marketing exec predicts Apple Watch is going to be 'huge'
+
+Apple CEO Tim Cook unveiled the Apple Watch in September as the tech giant's first new product category since the iPad in 2010. The company revolutionized the phone and computing industries with its iPhone and iPad, but people have been waiting for it to do the same thing to another sector. Apple will have to stand out against many rivals that are already selling smartwatches and wearable devices, including Samsung, LG and Motorola.
+
+Apple needs the help of its developer community to make its new smartwatch a draw for users. The device, which must be paired with an iPhone to work, will go on sale starting at $349 beginning next year.

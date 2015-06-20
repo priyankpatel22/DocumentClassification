@@ -1,0 +1,17 @@
+Across the iTunes and Mac App Stores today, a minor but also notable change is taking place with regard to how Apple is marketing its iOS and Mac applications. Instead of free apps being labeled as “FREE,” the download button now reads “GET.” The change likely has to do with increased pressures from the European Commission, which this summer, succeeded in forcing Google to relabel apps that offer in-app purchases.
+
+In EU countries, Google changed the label of the Top Free Apps to read “Top Apps,” and changed its Top Free Games section to just “Top Games,” as it moved towards compliance with the new guidelines.
+
+The problem, according to the commission, games labeled as “free” could mislead consumers about the true costs involved, and they should not directly market in-app purchases to children, nor pressure them to ask their parents to pay for the additional features.
+
+At the time, Apple promised it would also be making changes at some point in the future, while pointing out that it had implemented several protections already, especially around in-app purchases. In a statement provided to Engadget, the company said that, “…over the last year we made sure any app which enables customers to make in-app purchases is clearly marked. We’ve also created a Kids Section on the App Store with even stronger protections to cover apps designed for children younger than 13.”
+
+In iOS 8, Apple said it would be rolling out even more features that would strengthen the protections it had in place.
+
+iTunes
+
+For Apple, it seems the company has decided not to make an E.U.-specific change related to the concern over the labeling of “free” apps. Instead, it has simply relabeled all free apps across its desktop and mobile App Stores with “GET” buttons, regardless of whether or not they offer in-app purchases.
+
+This was probably easier than making a regional adjustment, and is also a little more truthful about the nature of some of these apps. You can get them, but they may not be free.
+
+At this time, Apple’s Top Charts sections remain unaffected – there are still Top Free Apps and Top Paid Apps listed in both stores.

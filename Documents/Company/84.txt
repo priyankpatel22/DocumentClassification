@@ -1,0 +1,22 @@
+
+Daniel Esteves is an Asset Store publisher who is all in. His assets are not a byproduct of his game development process. He actually enjoys building tools more than building games, just as we do. And he’s got some advice for people who are itching to make it their living as well.
+
+He used to create Flash games and built an independent game studio that had some success with an MMO card game on Kongregate. After a few years of updates, however, the revenue dried up.
+
+When searching for a new camera system for yet another update on the game, Daniel came across Unity and the Asset Store. He immediately fell for the possibilities of rapid prototyping: “Suddenly, I could see how to do so many small things really, really fast. I was like a kid in a candy store. I just thought “This is sooooo cool!” And I bought all these assets.”
+
+Then it hit him. If there are other enthusiasts like him around, it must be possible to make a living out of this. Around the same time, he sold his share of the game studio, so he could afford to spend some time developing an asset idea. “Since I already had a passion for fighting games and there was nothing like it available in the paid market, I decided to invest my next 8 months working on a 2.5D fighting game toolkit called Universal Fighting Engine (UFE).”
+
+HurtboxSample
+
+UFE launched on the Asset Store in December 2013, but Daniel started pitching the idea to potential customers a long time before that. And he’s advising others to do the same: “Before going too deep into development, pitch the idea in the Asset Store forum as a WIP (Work In Progress) thread. Introduce yourself and your qualifications before introducing an idea. As you progress in development, post news, screenshots and videos.” This is a way to get some true fans, people who will provide feedback, open your eyes to new ideas and spread the word about your asset.
+
+Since the release, Daniel has been working on updates and customer support, eventually hiring two freelancers to help him with development. He’s still getting lots of support queries, but it helps that he makes sure the documentation is up to date.
+
+“If you are a coder, document EVERYTHING. It will save you countless hours of support. Of course, you will always have the occasional “TL;DR” customer, but trust me, you are mostly dealing with highly intelligent, adult people. If you have it well written somewhere, most customers won’t bother you. If you are a modeler, organize your files the best way you can. And of course, always give them something to look at (a video or a web demo).”
+
+That said, he knows that customer support pays off. Daniel uses the Asset Store section of the forum as a public QA and a website, which saves him a lot of the hassle of answering similar questions multiple times through email. And he knows that people reporting bugs and asking for specific functionalities have helped to mold his product into something better.
+
+One of his most prominent customers is the guy behind Kings of Kung Fu. With a very small budget, professional 3D modeller and animator Jay Lee was been able to put together an alpha build of his dream game, recreating Kung Fu scenes from classic movies.
+
+What does the future hold for UFE? Daniel plans to release a separate engine for purely 2D games and dreams of creating a comprehensive Beat ‘em up engine. So far, it’s been possible for him to make a living doing what he loves. His assets have grossed over twenty thousand dollars since the beginning of June. The future of his projects depends on the Unity community’s love for the genre though, so he hopes that fighting games continue to be in vogue.
